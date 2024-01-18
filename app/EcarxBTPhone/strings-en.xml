@@ -252,7 +252,6 @@
     <string name="please_make_call_later">Please make the call later</string>
     <string name="pm_str">Afternoon</string>
     <string name="pound">#</string>
-    <string name="pound_letters"></string>
     <string name="private_call">Phone answered</string>
     <string name="private_calling">Phone call in progress</string>
     <string name="remove_all_favor_tips">Clear all favorite contacts?</string>
@@ -400,7 +399,6 @@
     <string name="srl_header_refreshing">Refreshing</string>
     <string name="srl_header_release">Release Refresh</string>
     <string name="star">*</string>
-    <string name="star_letters"></string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="strNetworkTipsCancelBtn">Cancel</string>
     <string name="strNetworkTipsConfirmBtn">Continue Download</string>
