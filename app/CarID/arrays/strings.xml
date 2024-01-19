@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<resources>
+    <string name="provinces_0">京</string>
+    <string name="provinces_1">津</string>
+    <string name="provinces_2">冀</string>
+    <string name="provinces_3">晋</string>
+    <string name="provinces_4">蒙</string>
+    <string name="provinces_5">辽</string>
+    <string name="provinces_6">吉</string>
+    <string name="provinces_7">黑</string>
+    <string name="provinces_8">沪</string>
+    <string name="provinces_9">苏</string>
+    <string name="provinces_10">浙</string>
+    <string name="provinces_11">皖</string>
+    <string name="provinces_12">闽</string>
+    <string name="provinces_13">赣</string>
+    <string name="provinces_14">鲁</string>
+    <string name="provinces_15">豫</string>
+    <string name="provinces_16">鄂</string>
+    <string name="provinces_17">湘</string>
+    <string name="provinces_18">粤</string>
+    <string name="provinces_19">桂</string>
+    <string name="provinces_20">琼</string>
+    <string name="provinces_21">渝</string>
+    <string name="provinces_22">川</string>
+    <string name="provinces_23">贵</string>
+    <string name="provinces_24">云</string>
+    <string name="provinces_25">藏</string>
+    <string name="provinces_26">陕</string>
+    <string name="provinces_27">甘</string>
+    <string name="provinces_28">青</string>
+    <string name="provinces_29">宁</string>
+    <string name="provinces_30">新</string>
+</resources>

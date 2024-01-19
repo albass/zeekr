@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<resources>
+    <string-array name="provinces">
+        <item>@string/provinces_0</item>
+        <item>@string/provinces_1</item>
+        <item>@string/provinces_2</item>
+        <item>@string/provinces_3</item>
+        <item>@string/provinces_4</item>
+        <item>@string/provinces_5</item>
+        <item>@string/provinces_6</item>
+        <item>@string/provinces_7</item>
+        <item>@string/provinces_8</item>
+        <item>@string/provinces_9</item>
+        <item>@string/provinces_10</item>
+        <item>@string/provinces_11</item>
+        <item>@string/provinces_12</item>
+        <item>@string/provinces_13</item>
+        <item>@string/provinces_14</item>
+        <item>@string/provinces_15</item>
+        <item>@string/provinces_16</item>
+        <item>@string/provinces_17</item>
+        <item>@string/provinces_18</item>
+        <item>@string/provinces_19</item>
+        <item>@string/provinces_20</item>
+        <item>@string/provinces_21</item>
+        <item>@string/provinces_22</item>
+        <item>@string/provinces_23</item>
+        <item>@string/provinces_24</item>
+        <item>@string/provinces_25</item>
+        <item>@string/provinces_26</item>
+        <item>@string/provinces_27</item>
+        <item>@string/provinces_28</item>
+        <item>@string/provinces_29</item>
+        <item>@string/provinces_30</item>
+    </string-array>
+</resources>
