@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="adas_copilot_and_parking">
-        <item>Advanced Driver Assistant System</item>
-        <item>Automatic Parking Assistant</item>
-        <item>Navigation ZEEKR Pilot | NZP</item>
+        <item>智能驾驶辅助系统</item>
+        <item>自动泊车辅助系统</item>
+        <item>NZP智能驾驶</item>
     </string-array>
     <string-array name="adas_fix_speed_percentage">
-        <item>Fixed speed km/h</item>
-        <item>Percentage %</item>
+        <item>固定车速km/h</item>
+        <item>百分比%</item>
     </string-array>
     <string-array name="adas_remind_type">
-        <item>Beep</item>
-        <item>Vibration</item>
+        <item>蜂鸣</item>
+        <item>振动</item>
     </string-array>
     <string-array name="adas_remind_type_display_and_buzzing">
-        <item>display</item>
-        <item>Beep</item>
+        <item>显示</item>
+        <item>蜂鸣</item>
     </string-array>
     <string-array name="adas_remind_type_display_and_buzzing_with_off">
         <item>OFF</item>
-        <item>Display</item>
-        <item>Beep</item>
+        <item>显示</item>
+        <item>蜂鸣</item>
     </string-array>
     <string-array name="adas_remind_type_with_off">
         <item>OFF</item>
-        <item>Beep</item>
-        <item>Vibration</item>
+        <item>蜂鸣</item>
+        <item>振动</item>
     </string-array>
     <string-array name="adas_search_car_remind_type">
-        <item>Lighting</item>
-        <item>Light + Sound</item>
+        <item>灯光</item>
+        <item>灯光+声音</item>
     </string-array>
     <string-array name="adas_sensitivity_level">
-        <item>Late</item>
-        <item>Medium</item>
-        <item>Early</item>
+        <item>较晚</item>
+        <item>适中</item>
+        <item>较早</item>
     </string-array>
     <string-array name="adas_sensitivity_level_with_off">
         <item>OFF</item>
-        <item>Late</item>
-        <item>Medium</item>
-        <item>Early</item>
+        <item>较晚</item>
+        <item>适中</item>
+        <item>较早</item>
     </string-array>
     <string-array name="adas_sensitivity_sensitivity_level_low_middle_high">
         <item>LOW</item>
@@ -56,7 +56,7 @@
     </string-array>
     <string-array name="common_car_locator_type">
         <item>Flashing light</item>
-        <item>Flashing and Siren</item>
+        <item>flashing and Siren</item>
     </string-array>
     <string-array name="common_door_manual_helps">
         <item>Light</item>
@@ -107,9 +107,9 @@
         <item>High</item>
     </string-array>
     <string-array name="common_regeneration_level_bx">
-        <item>Weak</item>
-        <item>Normal</item>
-        <item>Powerful</item>
+        <item>弱</item>
+        <item>标准</item>
+        <item>强</item>
     </string-array>
     <string-array name="common_tilt_mirror">
         <item>Both</item>
@@ -150,8 +150,8 @@
         <item>beep</item>
     </string-array>
     <string-array name="dc_door_and_window">
-        <item>Car Door</item>
-        <item>Car Window</item>
+        <item>车门</item>
+        <item>车窗</item>
     </string-array>
     <string-array name="dc_door_skylight_window">
         <item>Car Door</item>
@@ -159,19 +159,19 @@
         <item>Car Window</item>
     </string-array>
     <string-array name="display_array_home_weather_effect">
-        <item>Dynamic</item>
-        <item>Clear</item>
-        <item>Rain</item>
-        <item>Snow</item>
+        <item>动态</item>
+        <item>晴</item>
+        <item>雨</item>
+        <item>雪</item>
     </string-array>
     <string-array name="display_array_time_format">
         <item>12 hours</item>
         <item>24 hours</item>
     </string-array>
     <string-array name="door_sound_ef1e_4s">
-        <item>Elegant harp</item>
-        <item>Light and agile</item>
-        <item>Dream opening</item>
+        <item>优雅竖琴</item>
+        <item>轻盈灵动</item>
+        <item>梦幻开场</item>
     </string-array>
     <string-array name="doorwindow_angle_tab">
         <item>Front doors</item>
@@ -220,19 +220,19 @@
         <item>Exterior Light</item>
     </string-array>
     <string-array name="lighting_home_light">
-        <item>OFF</item>
+        <item>关闭</item>
         <item>30s</item>
         <item>30</item>
-        <item>thirty seconds</item>
-        <item>thirty</item>
+        <item>三十秒</item>
+        <item>三十</item>
         <item>60s</item>
         <item>60</item>
-        <item>sixty seconds</item>
-        <item>sixty</item>
+        <item>六十秒</item>
+        <item>六十</item>
         <item>90s</item>
         <item>90</item>
-        <item>ninety seconds</item>
-        <item>ninety</item>
+        <item>九十秒</item>
+        <item>九十</item>
     </string-array>
     <string-array name="lighting_home_safety_light">
         <item>Close</item>
@@ -251,10 +251,10 @@
     </string-array>
     <string-array name="ota_tabs">
         <item>OTA</item>
-        <item>System log upload</item>
+        <item>系统日志上传</item>
     </string-array>
     <string-array name="quick_setting_dc_drive_sat_tabs">
-        <item>Driving</item>
+        <item>Propulsion</item>
         <item>Suspension</item>
         <item>Damp</item>
         <item>Brake</item>
@@ -303,7 +303,7 @@
     </string-array>
     <string-array name="quick_setting_individual_suspension_tip">
         <item>Maximum driving height</item>
-        <item>Special Terrain (Sand etc)</item>
+        <item>Special Terrain(Sand etc)</item>
         <item>Normal</item>
         <item>Low and agile</item>
     </string-array>
