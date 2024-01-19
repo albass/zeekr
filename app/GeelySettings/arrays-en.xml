@@ -1,2 +1,415 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="adas_copilot_and_parking">
+        <item>Advanced Driver Assistant System</item>
+        <item>Automatic Parking Assistant</item>
+        <item>Navigation ZEEKR Pilot | NZP</item>
+    </string-array>
+    <string-array name="adas_fix_speed_percentage">
+        <item>Fixed speed km/h</item>
+        <item>Percentage %</item>
+    </string-array>
+    <string-array name="adas_remind_type">
+        <item>Beep</item>
+        <item>Vibration</item>
+    </string-array>
+    <string-array name="adas_remind_type_display_and_buzzing">
+        <item>display</item>
+        <item>Beep</item>
+    </string-array>
+    <string-array name="adas_remind_type_display_and_buzzing_with_off">
+        <item>OFF</item>
+        <item>Display</item>
+        <item>Beep</item>
+    </string-array>
+    <string-array name="adas_remind_type_with_off">
+        <item>OFF</item>
+        <item>Beep</item>
+        <item>Vibration</item>
+    </string-array>
+    <string-array name="adas_search_car_remind_type">
+        <item>Lighting</item>
+        <item>Light + Sound</item>
+    </string-array>
+    <string-array name="adas_sensitivity_level">
+        <item>Late</item>
+        <item>Medium</item>
+        <item>Early</item>
+    </string-array>
+    <string-array name="adas_sensitivity_level_with_off">
+        <item>OFF</item>
+        <item>Late</item>
+        <item>Medium</item>
+        <item>Early</item>
+    </string-array>
+    <string-array name="adas_sensitivity_sensitivity_level_low_middle_high">
+        <item>LOW</item>
+        <item>MEDIUM</item>
+        <item>HIGH</item>
+    </string-array>
+    <string-array name="adas_speed_limit_warn_offset">
+        <item>-10</item>
+        <item>-5</item>
+        <item>0</item>
+        <item>+5</item>
+        <item>+10</item>
+    </string-array>
+    <string-array name="common_car_locator_type">
+        <item>Flashing light</item>
+        <item>Flashing and Siren</item>
+    </string-array>
+    <string-array name="common_door_manual_helps">
+        <item>Light</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="common_door_mode">
+        <item>Close</item>
+        <item>Boarding only</item>
+        <item>Getting on and off</item>
+    </string-array>
+    <string-array name="common_door_mode_two">
+        <item>Close</item>
+        <item>Getting on and off</item>
+    </string-array>
+    <string-array name="common_equalizer_presets">
+        <item>Flat</item>
+        <item>Pop</item>
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Classic</item>
+        <item>Vocal</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="common_general_time">
+        <item>12h</item>
+        <item>24h</item>
+    </string-array>
+    <string-array name="common_hud_adjust">
+        <item>Position</item>
+        <item>Angle</item>
+        <item>Brightness</item>
+    </string-array>
+    <string-array name="common_key_unlock_handle">
+        <item>Driver Doors</item>
+        <item>All Doors</item>
+    </string-array>
+    <string-array name="common_mirror_title">
+        <item>Left</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="common_point_mode">
+        <item>2.4GHz</item>
+        <item>5GHz</item>
+    </string-array>
+    <string-array name="common_regeneration_level">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="common_regeneration_level_bx">
+        <item>Weak</item>
+        <item>Normal</item>
+        <item>Powerful</item>
+    </string-array>
+    <string-array name="common_tilt_mirror">
+        <item>Both</item>
+        <item>Left</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="common_touch_handle">
+        <item>All Doors</item>
+        <item>Single Door</item>
+    </string-array>
+    <string-array name="common_zeekr_arrmode">
+        <item>LOW</item>
+        <item>MEDIUM</item>
+        <item>HIGH</item>
+    </string-array>
+    <string-array name="common_zeekrad_imgtotext">
+        <item>OFF</item>
+        <item>Late</item>
+        <item>Medium</item>
+        <item>Early</item>
+    </string-array>
+    <string-array name="common_zeekrad_lane">
+        <item>OFF</item>
+        <item>beep</item>
+        <item>vibration</item>
+    </string-array>
+    <string-array name="common_zeekrad_offset_unit">
+        <item>km/h</item>
+        <item>%</item>
+    </string-array>
+    <string-array name="common_zeekrad_reveal">
+        <item>OFF</item>
+        <item>display</item>
+        <item>beep</item>
+    </string-array>
+    <string-array name="common_zeekrad_reveal_sencond">
+        <item>display</item>
+        <item>beep</item>
+    </string-array>
+    <string-array name="dc_door_and_window">
+        <item>Car Door</item>
+        <item>Car Window</item>
+    </string-array>
+    <string-array name="dc_door_skylight_window">
+        <item>Car Door</item>
+        <item>Sky Window</item>
+        <item>Car Window</item>
+    </string-array>
+    <string-array name="display_array_home_weather_effect">
+        <item>Dynamic</item>
+        <item>Clear</item>
+        <item>Rain</item>
+        <item>Snow</item>
+    </string-array>
+    <string-array name="display_array_time_format">
+        <item>12 hours</item>
+        <item>24 hours</item>
+    </string-array>
+    <string-array name="door_sound_ef1e_4s">
+        <item>Elegant harp</item>
+        <item>Light and agile</item>
+        <item>Dream opening</item>
+    </string-array>
+    <string-array name="doorwindow_angle_tab">
+        <item>Front doors</item>
+        <item>Rear doors</item>
+        <item>Trunk</item>
+    </string-array>
+    <string-array name="doorwindow_angle_tab1">
+        <item>Front doors</item>
+        <item>Trunk</item>
+    </string-array>
+    <string-array name="doorwindow_angle_tab2">
+        <item>Front doors</item>
+        <item>Rear doors</item>
+    </string-array>
+    <string-array name="doorwindow_angle_tab3">
+        <item>Front doors</item>
+    </string-array>
+    <string-array name="doorwindow_angle_tab4">
+        <item>Trunk</item>
+    </string-array>
+    <string-array name="doorwindow_angle_tab5">
+        <item>Rear doors</item>
+        <item>Trunk</item>
+    </string-array>
+    <string-array name="doorwindow_angle_tab6">
+        <item>Rear doors</item>
+    </string-array>
+    <string-array name="energy_range_mode">
+        <item>Standard endurance</item>
+        <item>Dynamic endurance</item>
+    </string-array>
+    <string-array name="energy_tab">
+        <item>Vehicle charging</item>
+        <item>External power supply</item>
+    </string-array>
+    <string-array name="energy_trip_2_reset_tab">
+        <item>@string/energy_trip_data_tabs_reset_charging</item>
+        <item>@string/energy_trip_data_tabs_reset_driving_cycle</item>
+    </string-array>
+    <string-array name="energy_trip_consumption_history_tab">
+        <item>@string/energy_trip_consumption_history_tabs_10km</item>
+        <item>@string/energy_trip_consumption_history_tabs_100km</item>
+    </string-array>
+    <string-array name="lighting">
+        <item>Interior Light</item>
+        <item>Exterior Light</item>
+    </string-array>
+    <string-array name="lighting_home_light">
+        <item>OFF</item>
+        <item>30s</item>
+        <item>30</item>
+        <item>thirty seconds</item>
+        <item>thirty</item>
+        <item>60s</item>
+        <item>60</item>
+        <item>sixty seconds</item>
+        <item>sixty</item>
+        <item>90s</item>
+        <item>90</item>
+        <item>ninety seconds</item>
+        <item>ninety</item>
+    </string-array>
+    <string-array name="lighting_home_safety_light">
+        <item>Close</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>90s</item>
+    </string-array>
+    <string-array name="lighting_light_seat_position">
+        <item>Front zone</item>
+        <item>Rear zone</item>
+    </string-array>
+    <string-array name="multi_sound_effects_dc">
+        <item>Jazz Club</item>
+        <item>Stage Act</item>
+        <item>Private Cinema</item>
+    </string-array>
+    <string-array name="ota_tabs">
+        <item>OTA</item>
+        <item>System log upload</item>
+    </string-array>
+    <string-array name="quick_setting_dc_drive_sat_tabs">
+        <item>Driving</item>
+        <item>Suspension</item>
+        <item>Damp</item>
+        <item>Brake</item>
+        <item>Steering</item>
+    </string-array>
+    <string-array name="quick_setting_driver_mode">
+        <item>Comfort</item>
+        <item>Eco</item>
+        <item>Sport</item>
+        <item>Track</item>
+        <item>Snow</item>
+        <item>Sand</item>
+        <item>Off-Road</item>
+        <item>Customization</item>
+    </string-array>
+    <string-array name="quick_setting_driver_mode_two">
+        <item>Comfort</item>
+        <item>Eco</item>
+        <item>Sport</item>
+        <item>Track</item>
+        <item>Customization</item>
+    </string-array>
+    <string-array name="quick_setting_individual_climate">
+        <item>Standard</item>
+        <item>Eco</item>
+    </string-array>
+    <string-array name="quick_setting_individual_propulsion">
+        <item>Eco</item>
+        <item>Comfort</item>
+        <item>Sport</item>
+    </string-array>
+    <string-array name="quick_setting_individual_rab">
+        <item>Normal</item>
+        <item>Sport</item>
+    </string-array>
+    <string-array name="quick_setting_individual_steer">
+        <item>Comfort</item>
+        <item>Normal</item>
+        <item>Sport</item>
+    </string-array>
+    <string-array name="quick_setting_individual_suspension">
+        <item>Off-Road</item>
+        <item>Traction</item>
+        <item>Comfort</item>
+        <item>Sport</item>
+    </string-array>
+    <string-array name="quick_setting_individual_suspension_tip">
+        <item>Maximum driving height</item>
+        <item>Special Terrain (Sand etc)</item>
+        <item>Normal</item>
+        <item>Low and agile</item>
+    </string-array>
+    <string-array name="quick_setting_suspension_height">
+        <item>Very High</item>
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+        <item>Very Low</item>
+    </string-array>
+    <string-array name="safety_and_keepUp">
+        <item>Safety &amp; Security</item>
+        <item>UpKeep</item>
+    </string-array>
+    <string-array name="seat_optimisation">
+        <item>Driver</item>
+        <item>Rear</item>
+        <item>All</item>
+    </string-array>
+    <string-array name="seat_optimisation_cs1e">
+        <item>All</item>
+        <item>Driver</item>
+        <item>passenger</item>
+        <item>rear left</item>
+        <item>rear right</item>
+    </string-array>
+    <string-array name="side">
+        <item>Quick Settings</item>
+        <item>Seat</item>
+        <item>Lighting</item>
+        <item>Doors&amp;Windows</item>
+        <item>Charging and Discharging</item>
+        <item>Driving</item>
+        <item>ZEEKR AD</item>
+        <item>Safety Security</item>
+        <item>Connectivity</item>
+        <item>Sounds&amp;Notification</item>
+        <item>Display</item>
+        <item>OTA</item>
+        <item>ZEEKR Studio</item>
+    </string-array>
+    <string-array name="side_emulator">
+        <item>Quick Settings</item>
+        <item>Seat</item>
+        <item>Lighting</item>
+        <item>Doors&amp;Windows</item>
+        <item>Charging and Discharging</item>
+        <item>Driving</item>
+        <item>ZEEKR AD</item>
+        <item>Safety Security</item>
+        <item>Sound&amp;Notification</item>
+        <item>Display</item>
+        <item>OTA</item>
+        <item>ZEEKR Studio</item>
+    </string-array>
+    <string-array name="soundnotify_sound_notification">
+        <item>Sound</item>
+        <item>Equalizer</item>
+        <item>Notifications</item>
+    </string-array>
+    <string-array name="tab_seat">
+        <item>Seat massage</item>
+        <item>Seat adjustment</item>
+    </string-array>
+    <string-array name="tab_seat_adjust_main">
+        <item>Driver</item>
+        <item>Passenger</item>
+        <item>Rear left</item>
+        <item>Rear right</item>
+    </string-array>
+    <string-array name="tab_seat_adjust_part">
+        <item>Seat</item>
+        <item>Wing</item>
+        <item>Lumbar</item>
+        <item>Cushion</item>
+    </string-array>
+    <string-array name="tab_seat_adjust_rear">
+        <item>Left</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="tab_seat_adjust_turefollow">
+        <item>OFF</item>
+        <item>Low</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="tab_seat_massage_main">
+        <item>Driver</item>
+        <item>Passenger</item>
+    </string-array>
+    <string-array name="tab_seat_massage_program">
+        <item>Waves</item>
+        <item>Relaxing</item>
+        <item>Refresh</item>
+        <item>Energetic</item>
+    </string-array>
+    <string-array name="tab_seat_massage_strength">
+        <item>OFF</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="tab_seat_onlyadjust">
+        <item>Seat adjustment</item>
+    </string-array>
+    <string-array name="zeekrad_offset_unit">
+        <item>km/h</item>
+        <item>%</item>
+    </string-array>
+</resources>
