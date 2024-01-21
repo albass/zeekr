@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="provinces_24">Yunnan</string>
+    <string name="provinces_21">Chongqing</string>
+    <string name="provinces_28">Qing County</string>
+    <string name="provinces_0">Beijing</string>
+    <string name="provinces_2">Hebei</string>
+    <string name="provinces_6">Jilin</string>
+    <string name="provinces_29">Nanjing</string>
+    <string name="provinces_22">Sichuan</string>
+    <string name="provinces_30">Xin County</string>
+    <string name="provinces_3">Jinzhong</string>
+    <string name="provinces_19">Guilin</string>
+    <string name="provinces_8">Shanghai</string>
+    <string name="provinces_1">Tianjin</string>
+    <string name="provinces_10">Zhejiang</string>
+    <string name="provinces_17">Hunan</string>
+    <string name="provinces_20">Hainan</string>
+    <string name="provinces_27">Gansu</string>
+    <string name="provinces_11">Anhui</string>
+    <string name="provinces_18">Guangdong</string>
+    <string name="provinces_9">Suzhou</string>
+    <string name="provinces_4">Mingshan</string>
+    <string name="provinces_25">Tibet Autonomous Region</string>
+    <string name="provinces_15">Henan</string>
+    <string name="provinces_23">Guizhou</string>
+    <string name="provinces_13">Jiangxi</string>
+    <string name="provinces_5">Liaoning</string>
+    <string name="provinces_16">Hubei</string>
+    <string name="provinces_12">Fujian</string>
+    <string name="provinces_26">Shaanxi</string>
+    <string name="provinces_14">Zhanglu</string>
+    <string name="provinces_7">Harbin</string>
+</resources>
