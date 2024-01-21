@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<resources>
 	<string name="provinces_24">Yunnan</string>
     <string name="provinces_21">Chongqing</string>
     <string name="provinces_28">Qing County</string>
@@ -30,4 +31,4 @@
     <string name="provinces_26">Shaanxi</string>
     <string name="provinces_14">Zhanglu</string>
     <string name="provinces_7">Harbin</string>
-<resources></resources>
+</resources>
