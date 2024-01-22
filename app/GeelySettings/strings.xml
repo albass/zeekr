@@ -772,7 +772,7 @@
     <string name="common_open_door_suppressor_tip">开启后，任意门开媒体音量自动降低，所有车门关闭，音量恢复</string>
     <string name="common_open_mirror">展开后视镜</string>
     <string name="common_open_on_phone">在手机上打开</string>
-    <string name="common_other_road_info">显示其他信息，如前方学校、道路施工等信息</string>
+    <string name="common_other_road_info">Other traffic updates, like school zones and road repairs</string>
     <string name="common_other_road_option">其他交通信息</string>
     <string name="common_out_option_door">车外电动开关门</string>
     <string name="common_overtake">自动超车策略</string>
@@ -1655,7 +1655,7 @@
     <string name="doorwindow_angle_tab_1">Rear doors</string>
     <string name="doorwindow_angle_tab2_1">Rear doors</string>
     <string name="doorwindow_angle_tab6_0">Rear doors</string>
-    <string name="energy_range_mode_0">Standard endurance</string>
+    <string name="energy_range_mode_0">Standard</string>
     <string name="doorwindow_angle_tab_2">Trunk</string>
     <string name="doorwindow_angle_tab1_1">Trunk</string>
     <string name="doorwindow_angle_tab4_0">Trunk</string>
@@ -1677,7 +1677,7 @@
     <string name="lighting_home_light_9">90s</string>
     <string name="lighting_home_safety_light_3">90s</string>
     <string name="lighting_home_safety_light_0">Close</string>
-    <string name="energy_range_mode_1">Dynamic endurance</string>
+    <string name="energy_range_mode_1">Dynamic</string>
     <string name="lighting_1">Exterior Light</string>
     <string name="energy_tab_1">External power supply</string>
     <string name="multi_sound_effects_dc_0">Jazz Club</string>
