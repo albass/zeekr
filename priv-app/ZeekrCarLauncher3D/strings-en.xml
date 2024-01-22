@@ -46,7 +46,7 @@
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="close">OFF</string>
     <string name="copilot_seat">Passenger Seat</string>
-    <string name="enter_wash_mode">Enter car wash mode</string>
+    <string name="enter_wash_mode">Car wash mode</string>
     <string name="error_a11y_label">Error: invalid</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
