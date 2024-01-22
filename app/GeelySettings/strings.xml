@@ -308,14 +308,14 @@
     <string name="common_charging_current_range_unit_mile">mile</string>
     <string name="common_charging_current_unit">A</string>
     <string name="common_charging_default_estimate">剩余 --h</string>
-    <string name="common_charging_estimate_10">剩余时间：&lt;b>&lt;font color=#FFFFFF> >10&lt;/font>&lt;/b> h</string>
-    <string name="common_charging_estimate_10_day">剩余时间：&lt;b>&lt;font color=#000000> >10&lt;/font>&lt;/b> h</string>
-    <string name="common_charging_estimate_24">剩余时间：&lt;b>&lt;font color=#FFFFFF> >24&lt;/font>&lt;/b> h</string>
-    <string name="common_charging_estimate_24_day">剩余时间：&lt;b>&lt;font color=#000000> >24&lt;/font>&lt;/b> h</string>
-    <string name="common_charging_estimate_schedule">定时充电：&lt;b>&lt;font color=#FFFFFF>%1$s: %2$s-%3$s: %4$s&lt;/font>&lt;/b></string>
-    <string name="common_charging_estimate_schedule_day">定时充电：&lt;b>&lt;font color=#000000>%1$s: %2$s-%3$s: %4$s&lt;/font>&lt;/b></string>
-    <string name="common_charging_estimate_schedule_not_stop">定时充电：&lt;b>&lt;font color=#FFFFFF>%1$s: %2$s&lt;/font>&lt;/b></string>
-    <string name="common_charging_estimate_schedule_not_stop_day">定时充电：&lt;b>&lt;font color=#000000>%1$s: %2$s&lt;/font>&lt;/b></string>
+    <string name="common_charging_estimate_10">剩余时间：&lt;b&gt;&lt;font color=#FFFFFF&gt; &gt;10&lt;/font&gt;&lt;/b&gt; h</string>
+    <string name="common_charging_estimate_10_day">剩余时间：&lt;b&gt;&lt;font color=#000000&gt; &gt;10&lt;/font&gt;&lt;/b&gt; h</string>
+    <string name="common_charging_estimate_24">剩余时间：&lt;b&gt;&lt;font color=#FFFFFF&gt; &gt;24&lt;/font&gt;&lt;/b&gt; h</string>
+    <string name="common_charging_estimate_24_day">剩余时间：&lt;b&gt;&lt;font color=#000000&gt; &gt;24&lt;/font&gt;&lt;/b&gt; h</string>
+    <string name="common_charging_estimate_schedule">定时充电：&lt;b&gt;&lt;font color=#FFFFFF&gt;%1$s: %2$s-%3$s: %4$s&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="common_charging_estimate_schedule_day">定时充电：&lt;b&gt;&lt;font color=#000000&gt;%1$s: %2$s-%3$s: %4$s&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="common_charging_estimate_schedule_not_stop">定时充电：&lt;b&gt;&lt;font color=#FFFFFF&gt;%1$s: %2$s&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="common_charging_estimate_schedule_not_stop_day">定时充电：&lt;b&gt;&lt;font color=#000000&gt;%1$s: %2$s&lt;/font&gt;&lt;/b&gt;</string>
     <string name="common_charging_hour_unit">h</string>
     <string name="common_charging_level_unit">%</string>
     <string name="common_charging_minute_unit">min</string>
@@ -328,8 +328,8 @@
     <string name="common_charging_speed_unit">km/h</string>
     <string name="common_charging_speed_unit_km">km/h</string>
     <string name="common_charging_speed_unit_percent">%</string>
-    <string name="common_charging_time_normal_left">剩余时间：&lt;b>&lt;font color=#FFFFFF>%1$s&lt;/font>&lt;/b> h &lt;b>&lt;font color=#FFFFFF>%2$s&lt;/font>&lt;/b> min</string>
-    <string name="common_charging_time_normal_left_day">剩余时间：&lt;b>&lt;font color=#000000>%1$s&lt;/font>&lt;/b> h &lt;b>&lt;font color=#000000>%2$s&lt;/font>&lt;/b> min</string>
+    <string name="common_charging_time_normal_left">剩余时间：&lt;b&gt;&lt;font color=#FFFFFF&gt;%1$s&lt;/font&gt;&lt;/b&gt; h &lt;b&gt;&lt;font color=#FFFFFF&gt;%2$s&lt;/font&gt;&lt;/b&gt; min</string>
+    <string name="common_charging_time_normal_left_day">剩余时间：&lt;b&gt;&lt;font color=#000000&gt;%1$s&lt;/font&gt;&lt;/b&gt; h &lt;b&gt;&lt;font color=#000000&gt;%2$s&lt;/font&gt;&lt;/b&gt; min</string>
     <string name="common_charging_voltage_unit">V</string>
     <string name="common_check_network_name">无法连接，请检查网络名称</string>
     <string name="common_checkbox_tip">30天内不再提示</string>
@@ -841,7 +841,7 @@
     <string name="common_quick_select_park_duration_bx">请选择自动驻车后的舒适模式时长</string>
     <string name="common_quick_setting_driving_mode_location_drive">驾驶位置</string>
     <string name="common_quick_setting_driving_mode_location_drive_bx">主驾位置</string>
-    <string name="common_quick_shortcut">快捷键</string>
+    <string name="common_quick_shortcut">Shortcuts</string>
     <string name="common_quick_stream">流媒体</string>
     <string name="common_quick_weather">全气候灯</string>
     <string name="common_quick_wifi">WIFI</string>
@@ -913,17 +913,17 @@
     <string name="common_signin_button_text">登录</string>
     <string name="common_signin_button_text_long">使用 Google 帐号登录</string>
     <string name="common_siren_and_flashing">闪灯鸣笛</string>
-    <string name="common_slider_h_bt_headset_volume_bx">蓝牙耳机</string>
-    <string name="common_slider_h_media_volume">多媒体音量</string>
-    <string name="common_slider_h_media_volume_bx">多媒体</string>
-    <string name="common_slider_h_navi_beeb_volume">导航提示音</string>
-    <string name="common_slider_h_navi_beeb_volume_bx">导航声音</string>
-    <string name="common_slider_h_navi_volume">导航播报</string>
-    <string name="common_slider_h_phonecall_volume">通话声音</string>
-    <string name="common_slider_h_phonecall_volume_bx">通话声音</string>
-    <string name="common_slider_h_ringtone_volume">电话铃声</string>
-    <string name="common_slider_h_vr_tts_volume">语音识别</string>
-    <string name="common_slider_h_vr_tts_volume_bx">语音播报</string>
+    <string name="common_slider_h_bt_headset_volume_bx">Bluetooth headset</string>
+    <string name="common_slider_h_media_volume">Media volume</string>
+    <string name="common_slider_h_media_volume_bx">Media</string>
+    <string name="common_slider_h_navi_beeb_volume">Navigation volume</string>
+    <string name="common_slider_h_navi_beeb_volume_bx">Navigation volume</string>
+    <string name="common_slider_h_navi_volume">Navi volume</string>
+    <string name="common_slider_h_phonecall_volume">Phone call volume</string>
+    <string name="common_slider_h_phonecall_volume_bx">Phone call volume</string>
+    <string name="common_slider_h_ringtone_volume">Ringtone volume</string>
+    <string name="common_slider_h_vr_tts_volume">VR volume</string>
+    <string name="common_slider_h_vr_tts_volume_bx">VR volume</string>
     <string name="common_sms_tip">车速大于15km/h，不能打开流媒体</string>
     <string name="common_sound_balance">平衡</string>
     <string name="common_sound_source">音源</string>
@@ -931,7 +931,7 @@
     <string name="common_special_traction">特殊地形(沙地等)</string>
     <string name="common_speed_limit_offset_option">限速偏移</string>
     <string name="common_speed_limit_sign_option">交通标志识别</string>
-    <string name="common_speed_limit_warn_option">超速提醒</string>
+    <string name="common_speed_limit_warn_option">Speeding reminder offset</string>
     <string name="common_speed_warning_mode_info">设置提醒车速</string>
     <string name="common_speed_warning_mode_option">限速提醒</string>
     <string name="common_sport">运动</string>
@@ -945,7 +945,7 @@
     <string name="common_sunscreen_rating">防晒等级</string>
     <string name="common_suspension">悬架</string>
     <string name="common_suspension_height">悬架高度</string>
-    <string name="common_system_update">整车系统版本</string>
+    <string name="common_system_update">Vehicle system version</string>
     <string name="common_system_update2">ZEEKR OS %1$s</string>
     <string name="common_take_photos_with_tachograph">行车记录仪拍照</string>
     <string name="common_tem">温度</string>
@@ -958,7 +958,7 @@
     <string name="common_textID_custom_shortcut_steering_wheel_position">方向盘</string>
     <string name="common_textID_descent_info">不踩制动的情况下，车辆以安全的速度通过下坡路段</string>
     <string name="common_textID_enter_ssid_wifi">输入WLAN网络名称</string>
-    <string name="common_textID_h_user">用户协议</string>
+    <string name="common_textID_h_user">User agreement</string>
     <string name="common_textID_i_user">ZEEKR实验室，将配置一些创新和实验的功能，其中一些不排除某些风险和缺陷。使用时请仔细阅读“ZEEKR实验室功能服务条款”（Usage agreement）</string>
     <string name="common_textID_light_brightness">亮度</string>
     <string name="common_textID_list_high_voltage_info">关闭高压电时，所有功能与屏幕将被关闭</string>
@@ -1292,7 +1292,7 @@
     <string name="energy_first_charge_limit">优先充至充电限值</string>
     <string name="energy_first_charge_limit_intro">到达结束时间，未充至充电限值，将继续充电</string>
     <string name="energy_long_distance">长途</string>
-    <string name="energy_more_than_24">>24</string>
+    <string name="energy_more_than_24">&gt;24</string>
     <string name="energy_no_function_tips">敬请期待</string>
     <string name="energy_please_set">请设置</string>
     <string name="energy_pre_travel">预约出行</string>
@@ -1479,13 +1479,13 @@
     <string name="ota_night_upgrade_close_dialog_content">关闭“夜间自动升级”，不会取消已预约的升级任务，您可以通过【升级管理】来取消或修改预约</string>
     <string name="ota_night_upgrade_close_dialog_title">是否关闭夜间自动升级</string>
     <string name="ota_night_upgrade_open_dialog_content">是否开启夜间自动升级</string>
-    <string name="ota_os_version">整车系统版本</string>
+    <string name="ota_os_version">Vehicle system version</string>
     <string name="ota_services_update_version">ZEEKR OS %1$s</string>
     <string name="ota_system_is_latest_version">系统已是最新的软件版本</string>
     <string name="ota_system_upgrade">升级管理</string>
     <string name="ota_terms_service">服务条款</string>
-    <string name="ota_upgrade_log">升级日志</string>
-    <string name="ota_upgrade_log_title">最新升级的新增内容</string>
+    <string name="ota_upgrade_log">Upgrade log</string>
+    <string name="ota_upgrade_log_title">What\'s new in the latest upgrade</string>
     <string name="ota_upgrade_manager">升级管理</string>
     <string name="ota_you_can_read">您可以阅读</string>
     <string name="parking_comfort">驻车舒享</string>
@@ -1555,8 +1555,8 @@
     <string name="upload_explain_text">复现异常情形并上传数据，以便问题的精准分析与体验完善</string>
     <string name="upload_explain_text2">复现异常情形并上传日志数据，以便问题的精准分析与体验完善</string>
     <string name="upload_log_cancel">取消</string>
-    <string name="upload_log_explore_content">\u0009\u0009我们始终把用户体验放在第一位。为了优化和完善系统功能，我们诚邀您在这方面助极氪一臂之力。车机运行日志信息，包括系统运行过程中产出的异常、错误、警告等信息，该部分信息的获取是为了帮助我们快速完成系统远程诊断。&lt;br/> \u0009\u0009特此声明，我们收集的车机日志信息 不会主动关联您的个人信息，但不排除系统运行中带有相关您使用过程中的个人信息。这些信息的收集、传输和使用也将会使用相关的安全技术进行保护。&lt;br/> \u0009\u0009（此外，上传车机日志，将会消耗部分网络流量。）&lt;br/> \u0009\u0009您是否同意上传车机运行日志？</string>
-    <string name="upload_log_explore_content_bx">\u0009\u0009\u0009我们始终把⽤户体验放在第⼀位。为了优化和完善系统功能，我们诚邀您在这⽅⾯助极氪⼀臂之⼒。⻋机运⾏⽇志信息，包括系统运⾏过程中产出的异常、错误、警告等信息，该部分信息的获取是为了帮助我们快速完成系统远程诊断。&lt;br/> \u0009\u0009\u0009特此声明，我们收集的⻋机⽇志信息不会主动关联您的个⼈信息，但不排除系统运⾏中带有相关您使⽤过程中的个⼈信息。这些信息的收集、传输和使⽤也将会使⽤相关的安全技术进⾏保护。&lt;br/> &lt;br/> \u0009\u0009\u0009上传⻋机⽇志，将会消耗部分⽹络流量</string>
+    <string name="upload_log_explore_content">\u0009\u0009我们始终把用户体验放在第一位。为了优化和完善系统功能，我们诚邀您在这方面助极氪一臂之力。车机运行日志信息，包括系统运行过程中产出的异常、错误、警告等信息，该部分信息的获取是为了帮助我们快速完成系统远程诊断。&lt;br/&gt; \u0009\u0009特此声明，我们收集的车机日志信息 不会主动关联您的个人信息，但不排除系统运行中带有相关您使用过程中的个人信息。这些信息的收集、传输和使用也将会使用相关的安全技术进行保护。&lt;br/&gt; \u0009\u0009（此外，上传车机日志，将会消耗部分网络流量。）&lt;br/&gt; \u0009\u0009您是否同意上传车机运行日志？</string>
+    <string name="upload_log_explore_content_bx">\u0009\u0009\u0009我们始终把⽤户体验放在第⼀位。为了优化和完善系统功能，我们诚邀您在这⽅⾯助极氪⼀臂之⼒。⻋机运⾏⽇志信息，包括系统运⾏过程中产出的异常、错误、警告等信息，该部分信息的获取是为了帮助我们快速完成系统远程诊断。&lt;br/&gt; \u0009\u0009\u0009特此声明，我们收集的⻋机⽇志信息不会主动关联您的个⼈信息，但不排除系统运⾏中带有相关您使⽤过程中的个⼈信息。这些信息的收集、传输和使⽤也将会使⽤相关的安全技术进⾏保护。&lt;br/&gt; &lt;br/&gt; \u0009\u0009\u0009上传⻋机⽇志，将会消耗部分⽹络流量</string>
     <string name="upload_log_explore_title">日志上传须知</string>
     <string name="upload_log_failed_tip">上传失败</string>
     <string name="upload_log_full_failed">上传失败，空间不⾜</string>
