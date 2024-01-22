@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="FreeformWindowOrientation_landscape"></string>
-    <string name="FreeformWindowOrientation_portrait"></string>
-    <string name="FreeformWindowSize_maximize"></string>
-    <string name="FreeformWindowSize_phone"></string>
-    <string name="FreeformWindowSize_tablet"></string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
