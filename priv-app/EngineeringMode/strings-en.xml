@@ -1,2 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">TechMode</string>
+    <string name="module_name">Bluetooth</string>
+    <string name="log_switch">Log Switch</string>
+    <string name="module_version">VersionInfo</string>
+    <string name="module_bootloader">Bootloader</string>
+    <string name="module_wifi">Wifi</string>
+    <string name="wlan">WLAN</string>
+    <string name="module_performance">performance</string>
+    <string name="module_logfile">LogFile</string>
+    <string name="module_ticam">TICAM Information</string>
+    <string name="bluetooth_enable_title">Bluetooth</string>
+    <string name="bluetooth_enable_hci_check_title">HCI Check</string>
+    <string name="bluetooth_enable_spp_debug_title">SSP Debug</string>
+    <string name="bluetooth_dut_mode_enable_title">DUT Mode</string>
+    <string name="bluetooth_link_quality">Link Quality</string>
+    <string name="bluetooth_rssi_status">RSSI Status</string>
+    <string name="cpu_usage">CPU Usage</string>
+    <string name="memory_usage">Memory Usage</string>
+    <string name="fps_rate">Frame rate</string>
+    <string name="select_cpu">Display CPU Usage</string>
+    <string name="select_memory">Display memory usage rate</string>
+    <string name="select_ftp">Display current frame rate</string>
+    <string name="update_bootloader">updateBootloader</string>
+    <string name="open_system_log">Open system log</string>
+    <string name="opened_android_log">data\\misc\\logd log has been enabled</string>
+    <string name="closed_android_log">data\\misc\\logd log has been closed</string>
+    <string name="clear_android_log">Clear android log of data\\misc\\logd</string>
+    <string name="clear_android_log_end_hint">Successfully cleared data area android log!</string>
+    <string name="android_log_switch_hint">You need to restart the machine to make logcatd work!</string>
+    <string name="area_info_debug">Area Info Debug</string>
+    <string name="area_info_hint">The value of the control debugging has been modified and sent down</string>
+    <string name="pref_entry_value_on">On</string>
+    <string name="main_camera">Main Camera</string>
+    <string name="sub_camera">Sub Camera</string>
+    <string name="correct">Pass</string>
+    <string name="error">Fail</string>
+    <string name="reset">Again</string>
+    <string name="light_msg_text">Pay attention to the flash and the screen display</string>
+    <string name="face_msg_text">To ensure the shooting effect, please do not cover the lens.</string>
+    <string name="back_camera_fail_tips">Back camera test failed</string>
+    <string name="eol_main_title">EOL Test</string>
+    <string name="test_status">EOL test in progress...</string>
+    <string name="test_item">End-of-Life Test Project</string>
+    <string name="dialog_title">Warning</string>
+    <string name="dialog_message">Do you really want to enter upgrade mode? Once entered, you cannot exit. Please be cautious!</string>
+    <string name="dialog_ok">Confirm</string>
+    <string name="dialog_close">Cancel</string>
+    <string name="mode_switch_title">Mode switch</string>
+    <string name="usb_mode_title">Host mode now</string>
+    <string name="device_mode_title">Device mode now</string>
+    <string name="android_log_buffer_size_hint">Larger log cache will affect CPU performance more, please use with caution! Restart to take effect!</string>
+    <string name="logcatd_not_support">The log saving function is not available in the user version.</string>
+</resources>
