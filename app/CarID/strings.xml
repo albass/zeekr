@@ -141,7 +141,7 @@
  我们仅会在以下情形下，公开披露您的个人信息： (1) 获得您的明确同意； (2) 基于法律法规、法律程序、诉讼或政府主管部门强制性要求下。 (四) 共享、转让、公开披露个人信息时事先征得授权同意的例外 
  在以下情形中，共享、转让、公开披露您的个人信息无需事先征得您的授权同意：
  (1) 与国家安全、国防安全直接相关的； (2) 与公共安全、公共卫生、重大公共利益直接相关的； (3) 与犯罪侦查、起诉、审判和判"</string>
-    <string name="baidu_protocal_txt1" />
+    <string name="baidu_protocal_txt1"/>
     <string name="baidupay">百度支付</string>
     <string name="bind_baidu_hint">导航、随心听、人脸登录等功能由百度提供请关联百度帐号以获取更好的用车体验</string>
     <string name="bind_baidu_no_baidu">没有百度帐号？请先在手机端下载百度APP注册百度帐号</string>
@@ -303,7 +303,7 @@
     <string name="faceid_safe_tip">开启后他人用车时给你发送短信和APP通知</string>
     <string name="faceid_safe_title">人脸识别安全提醒</string>
     <string name="faceid_seting_agreement">我已同意百度FaceID</string>
-    <string name="faceid_seting_agreement_name">用户协议</string>
+    <string name="faceid_seting_agreement_name">User Agreement</string>
     <string name="faceid_seting_closefacelogin_title">"关闭后将无法使用人脸
 登录，是否要关闭？"</string>
     <string name="faceid_seting_closefacepay_title">"关闭后将无法使用人脸
@@ -346,7 +346,7 @@
     <string name="list_of_goods">商品清单：</string>
     <string name="load_fail">加载失败，请重试</string>
     <string name="load_more_loading">加载中…</string>
-    <string name="load_more_normal" />
+    <string name="load_more_normal"/>
     <string name="loading">加载中...</string>
     <string name="loading_ing">加载中...</string>
     <string name="login_baidu_hint">电影购票，智慧停车场由百度提供</string>
