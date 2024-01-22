@@ -141,7 +141,6 @@
  We will only publicly disclose your personal information under the following circumstances： (1) Obtain your explicit consent; (2) Based on laws and regulations, legal procedures, litigation or mandatory requirements of government authorities. (4) Exceptions to obtaining prior authorization and consent when sharing, transferring, or publicly disclosing personal information 
  In the following circumstances, sharing, transferring, and publicly disclosing your personal information do not require your prior authorization and consent：
  (1) Directly related to national security and national defense security; (2) Directly related to public safety, public health, or major public interests; (3) In connection with criminal investigation, prosecution, trial and sentencing"</string>
-    <string name="baidu_protocal_txt1"></string>
     <string name="baidupay">Baidu Pay</string>
     <string name="bind_baidu_hint">Navigation, personalized listening, and face login functions are provided by Baidu. Please link your Baidu account for a better user experience.</string>
     <string name="bind_baidu_no_baidu">Don\'t have a Baidu account? Please download the Baidu app on your mobile device and register a Baidu account first.</string>
@@ -318,7 +317,7 @@ are you sure to delete?"</string>
     <string name="faceid_seting_dlg_ok">OK</string>
     <string name="faceid_seting_dlg_unbind">Unbind</string>
     <string name="faceid_seting_title">Face ID Settings</string>
-    <string name="faceid_seting_unbindface_title">Please open the Baidu app on your phone, go to Me -> Settings -> Account Management, turn off the face login switch to unbind your face. If you need to re-enable face login on the car device, you can bind your face again on the car device.</string>
+    <string name="faceid_seting_unbindface_title">Please open the Baidu app on your phone, go to Me -&gt; Settings -&gt; Account Management, turn off the face login switch to unbind your face. If you need to re-enable face login on the car device, you can bind your face again on the car device.</string>
     <string name="faceid_seting_unlogin_title">Please log in before entering the face ID settings page</string>
     <string name="faceid_toapp_guide_title">You need to enable facial recognition on the car side after completing facial security authentication on the mobile side</string>
     <string name="faceid_unbidface_title">Remove Face Binding</string>
@@ -346,7 +345,6 @@ are you sure to delete?"</string>
     <string name="list_of_goods">List of Goods：</string>
     <string name="load_fail">Failed to load, please retry</string>
     <string name="load_more_loading">Loading…</string>
-    <string name="load_more_normal"></string>
     <string name="loading">Loading...</string>
     <string name="loading_ing">Loading...</string>
     <string name="login_baidu_hint">Movie ticketing, smart parking provided by Baidu</string>
