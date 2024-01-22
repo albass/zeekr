@@ -145,10 +145,10 @@ Do you agree to all the above instructions for use and want to start NZP smart n
     <string name="bx_safe_security_car_location_info_upload">Upload driving location information</string>
     <string name="bx_safe_security_car_location_info_upload_dialog_content_describe">After turning off the driving location information upload switch, the functions related to vehicle positioning will also be turned off. Please confirm whether to turn it off?</string>
     <string name="bx_upload_log_content">" Please keep the IHU powered on and connected to the network. 
- 1. Click Start Capture to start log capture. 
- 2. Operate relevant functions again until the exception reappears. 
- 3. After the problem reappears, return to this page and click End and Upload to stop capture and upload the data "</string>
-    <string name="carwindow_drive_door">"Upper opening limit of the driver's door"</string>
+\n 1. Click Start Capture to start log capture. 
+\n 2. Operate relevant functions again until the exception reappears. 
+\n 3. After the problem reappears, return to this page and click End and Upload to stop capture and upload the data "</string>
+    <string name="carwindow_drive_door">Upper opening limit of the driver\'s door</string>
     <string name="carwindow_front_door">Front door opening upper limit</string>
     <string name="carwindow_rear_door">Rear door opening upper limit</string>
     <string name="carwindow_trunk">Tailgate opening upper limit</string>
@@ -166,13 +166,13 @@ Do you agree to all the above instructions for use and want to start NZP smart n
     <string name="common_accor_pop_matching_bluetooth_text">Pairing code has been sent, waiting for confirmation from \"%1$s\"</string>
     <string name="common_adjust_rear_mirror_tip1">Pelease Use the touch pad on the right side of the steering wheel to adjust the rearview mirror.</string>
     <string name="common_adjust_rear_mirror_tip2">Please adjust the mirrors with steering wheel switch</string>
-    <string name="common_adjust_wheel_steer">Adjust Wheel Steer</string>
-    <string name="common_adjust_wheel_steer_tip3">Please use the touch pad on the right side of the steering wheel to adjust the steering wheel position</string>
+    <string name="common_adjust_wheel_steer">Steering wheel adjustment</string>
+    <string name="common_adjust_wheel_steer_tip3">Adjust steering position using right touchpad</string>
     <string name="common_agree">I agree</string>
     <string name="common_agree_in">Agree Enter</string>
     <string name="common_aidrive">AI Assisted Driving</string>
     <string name="common_aidrive_info">When entering the specified road section, the system will automatically change lane to overtake the vehicle and control the distance of the vehicle ahead</string>
-    <string name="common_all_door_close">All doors close</string>
+    <string name="common_all_door_close">All close</string>
     <string name="common_alpha_info">The first version of ZEEKR 001.</string>
     <string name="common_ambient_light_colours">Ambient light colours</string>
     <string name="common_ap_password_edit_error_tip">The value contains 8 to 12 characters. Spaces are not supported</string>
@@ -264,7 +264,7 @@ Do you agree to all the above instructions for use and want to start NZP smart n
     <string name="common_cable_status_no_double">Please do not connect AC and DC charging cables simultaneously</string>
     <string name="common_can_be_discoverd_device">Can be discovered by mobile devices.</string>
     <string name="common_cancel">Cancel</string>
-    <string name="common_cant_connect">"Couldn't connect, please try again"</string>
+    <string name="common_cant_connect">Couldn\'t connect, please try again</string>
     <string name="common_cant_connect_enter">Unable to join the network, please try again later</string>
     <string name="common_car_door_lock">Door lock</string>
     <string name="common_car_jack">Jack mode</string>
@@ -455,7 +455,7 @@ Do you agree to all the above instructions for use and want to start NZP smart n
     <string name="common_conn_wifi_previous_bx">Previous WLAN networks</string>
     <string name="common_conn_wifi_saved">View saved networks</string>
     <string name="common_conn_wifi_ssid_enter">Please enter your SSID</string>
-    <string name="common_conn_wifi_ssid_wrong">"Couldn't connect, please check SSID."</string>
+    <string name="common_conn_wifi_ssid_wrong">Couldn\'t connect, please check SSID.</string>
     <string name="common_conn_wireless_info">Charge your QI enabled device.</string>
     <string name="common_conn_wireless_option">Mobile phone wireless charging</string>
     <string name="common_conn_wpc_info">Note: when charging, please don’t place any metal objects between the mobile phone and the charging board to avoid scalding.</string>
@@ -490,7 +490,7 @@ Do you agree to all the above instructions for use and want to start NZP smart n
     <string name="common_distance_control">Parking Distance Control</string>
     <string name="common_dm_unknow">unknow</string>
     <string name="common_done">Done</string>
-    <string name="common_door_approach_info">The vehicle automatically unlocks when you approach with the key and locks when you walk away</string>
+    <string name="common_door_approach_info">Auto-unlocks with key approach, locks on walking away</string>
     <string name="common_door_approach_open_door">Approach open door</string>
     <string name="common_door_approach_open_door_tip">When approaching the door with the key, the door will open automatically</string>
     <string name="common_door_approach_option">Approach unlock</string>
@@ -623,7 +623,7 @@ Lock"</string>
     <string name="common_general_recording_info">Record at regular intervals.</string>
     <string name="common_general_restore">Restore</string>
     <string name="common_general_unlock">Unlock</string>
-    <string name="common_general_update_release_info">"See releases in your car's change log"</string>
+    <string name="common_general_update_release_info">See releases in your car\'s change log</string>
     <string name="common_general_update_release_title">View updates</string>
     <string name="common_general_user_profile_info">Link to ZEEKR member center.</string>
     <string name="common_general_user_profile_title">User profile</string>
@@ -639,19 +639,19 @@ Lock"</string>
     <string name="common_glove_box_info_first">Enter PIN code to lock glove box.</string>
     <string name="common_glove_option">Password protect glove box</string>
     <string name="common_google_play_services_enable_button">Enable</string>
-    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_text">%1$s won\'t work unless you enable Google Play services.</string>
     <string name="common_google_play_services_enable_title">Enable Google Play services</string>
     <string name="common_google_play_services_install_button">Install</string>
-    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_text">%1$s won\'t run without Google Play services, which are missing from your device.</string>
     <string name="common_google_play_services_install_title">Get Google Play services</string>
     <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
     <string name="common_google_play_services_notification_ticker">Google Play services error</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
-    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_unsupported_text">%1$s won\'t run without Google Play services, which are not supported by your device.</string>
     <string name="common_google_play_services_update_button">Update</string>
-    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_text">%1$s won\'t run unless you update Google Play services.</string>
     <string name="common_google_play_services_update_title">Update Google Play services</string>
-    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_text">%1$s won\'t run without Google Play services, which are currently updating.</string>
     <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
     <string name="common_guidance_info">"The car will suggest navigation routes to rest stops near by when it senses that you're tired"</string>
     <string name="common_guidance_option">Rest stop guidance</string>
@@ -667,15 +667,15 @@ Lock"</string>
     <string name="common_home_safety_light_info">Set how long the lights are on after the car has been locked</string>
     <string name="common_home_safety_light_option">Home safety light</string>
     <string name="common_hud_ar_mode">AR Mode</string>
-    <string name="common_hud_dialog_tip2">Please use the touch pad on the right side of the steering wheel to adjust the HUD</string>
+    <string name="common_hud_dialog_tip2">Adjust HUD via right steering touchpad</string>
     <string name="common_hud_dialog_title2">HUD adjustment</string>
     <string name="common_hud_dialog_title2_bx">HUD adjustment</string>
-    <string name="common_hud_info">"Look at the Heads Up Display, and use the right steering wheel
-touch pad to adjust the HUD position"</string>
-    <string name="common_hud_info_angle">"Look at the Heads Up Display, and use the right steering wheel
-touch pad to adjust the HUD angle"</string>
-    <string name="common_hud_info_brightness">"Look at the Heads Up Display, and use the right steering wheel
-touch pad to adjust the HUD brightness"</string>
+    <string name="common_hud_info">Look at the Heads Up Display, and use the right steering wheel
+\ntouch pad to adjust the HUD position</string>
+    <string name="common_hud_info_angle">Look at the Heads Up Display, and use the right steering wheel
+\ntouch pad to adjust the HUD angle</string>
+    <string name="common_hud_info_brightness">Look at the Heads Up Display, and use the right steering wheel
+\ntouch pad to adjust the HUD brightness</string>
     <string name="common_hud_navigation">Navigation information</string>
     <string name="common_hud_position">Heads up display</string>
     <string name="common_hud_sensitization">Auto Sensitization</string>
@@ -697,7 +697,7 @@ touch pad to adjust the HUD brightness"</string>
     <string name="common_input_conn_name">Enter network name</string>
     <string name="common_key_tone">Key tone</string>
     <string name="common_key_tone_info">Play beep sound when interacting with the display,steering wheel buttons and center console switch module.</string>
-    <string name="common_key_unlock_tip">Please use the touch pad on the right side of the steering wheel to adjust the steering wheel</string>
+    <string name="common_key_unlock_tip">Use right touchpad to adjust steering wheel</string>
     <string name="common_key_unlock_tip2">"When you unlock with the key, you unlock all the doors"</string>
     <string name="common_key_unlock_title">Key unlocking</string>
     <string name="common_khz_1">1 kHz</string>
@@ -756,8 +756,8 @@ touch pad to adjust the HUD brightness"</string>
     <string name="common_list_option_i_auto_park_rec">Simplifies your parking process by recommendations</string>
     <string name="common_list_option_i_lock_sound">Provide sound feedback, in addition to light, when locking the car.</string>
     <string name="common_list_option_i_max_current">Limit the max current for charging</string>
-    <string name="common_list_option_i_no_space">"There is no space to add a new colour.
-Select “save colour” will replace the oldest one."</string>
+    <string name="common_list_option_i_no_space">There is no space to add a new colour.
+\nSelect “save colour” will replace the oldest one.</string>
     <string name="common_list_option_i_remote_parking">Park the car remotely through the phone app.</string>
     <string name="common_list_option_i_scheduled_charging">Set start and stop time for the charging cycle.</string>
     <string name="common_list_option_i_seat_opt">Optimise sound at specific areas in the car.</string>
@@ -765,7 +765,7 @@ Select “save colour” will replace the oldest one."</string>
     <string name="common_list_option_i_temp_maintan">Recommended to turn on if the outside temperature is lower than 0°C or higher than 40°C.</string>
     <string name="common_loading">Loading</string>
     <string name="common_lock_feelback">Locking prompt tone</string>
-    <string name="common_lock_fold_mirror">Folder mirrors while vehicle is locked</string>
+    <string name="common_lock_fold_mirror">Mirror folding when locked</string>
     <string name="common_look_up_show">Head up display</string>
     <string name="common_massage">Massage</string>
     <string name="common_measure">Distance</string>
@@ -974,16 +974,16 @@ Select \"Follow the direction of your gaze\". When you look at the left/right re
     <string name="common_rest_mode_popup">Rest mode It is risky to use it while driving.Do you want to continue using it?</string>
     <string name="common_rest_mode_saved">The rest mode setting has been updated and saved</string>
     <string name="common_rest_mode_started">Rest Mode</string>
-    <string name="common_rest_mode_started_conent">"All windows will be closed. Don't sleep in car for a long time"</string>
-    <string name="common_rest_mode_toast">"All windows will be closed, don't sleep in car"</string>
+    <string name="common_rest_mode_started_conent">All windows will be closed. Don\'t sleep in car for a long time</string>
+    <string name="common_rest_mode_toast">All windows will be closed, don\'t sleep in car</string>
     <string name="common_rest_mode_warning">Rest mode warning</string>
     <string name="common_rest_mode_warning_content">It is risky to use rest mode while driving. Do you want to continue using it?</string>
     <string name="common_reverse_mirror">Tilt mirrors while reversing</string>
     <string name="common_reverse_suppressor">Reverse to lower the media sound</string>
     <string name="common_reverse_suppressor_tip">The media volume is automatically lowered when in R mode</string>
-    <string name="common_right_child_lock">Right child lock</string>
-    <string name="common_right_child_lock2">Right child lock</string>
-    <string name="common_right_child_lock3">Right child lock</string>
+    <string name="common_right_child_lock">Right</string>
+    <string name="common_right_child_lock2">Right</string>
+    <string name="common_right_child_lock3">Right</string>
     <string name="common_right_mirror">Right mirror</string>
     <string name="common_road_signs">Traffic signs</string>
     <string name="common_roof_glass_transparency">Roof glass transparency adjust</string>
@@ -1005,9 +1005,9 @@ on the screen"</string>
     <string name="common_send_new_code">Send new code</string>
     <string name="common_server_connect_fail">connect server failed.</string>
     <string name="common_service">terms</string>
-    <string name="common_service_book_distance">"It's time to book a service. It is recommended to drive maximum %1$s km before getting a car service."</string>
+    <string name="common_service_book_distance">It\'s time to book a service. It is recommended to drive maximum %1$s km before getting a car service.</string>
     <string name="common_service_book_now">A service should have been performed on the car! Please book a service appointment as soon as possible.</string>
-    <string name="common_service_book_time">"It's time for a service. It is recommended to drive maximum %1$s km before getting a car service."</string>
+    <string name="common_service_book_time">It\'s time for a service. It is recommended to drive maximum %1$s km before getting a car service.</string>
     <string name="common_service_remainder">Service reminder</string>
     <string name="common_services">Services</string>
     <string name="common_services_tow_info">To enter the tow mode, long press the hazard switch (&gt;7 sec) and put the gear in N.</string>
@@ -1174,9 +1174,9 @@ on the screen"</string>
     <string name="connect_conn_point_name">Car hotspot：%1$s</string>
     <string name="connect_sure">Sure</string>
     <string name="cs_upload_log_content">" Please keep the IHU powered on and connected to the network. 
- 1. Click Start Capture to start log capture. 
- 2. Operate relevant functions again until the exception reappears. 
- 3. After the problem reappears, return to this page and click End and Upload to stop capture and upload the data "</string>
+\n 1. Click Start Capture to start log capture. 
+\n 2. Operate relevant functions again until the exception reappears. 
+\n 3. After the problem reappears, return to this page and click End and Upload to stop capture and upload the data "</string>
     <string name="dc_ceyi_str">Wing</string>
     <string name="dc_door_close_all_window">Close all windows</string>
     <string name="dc_door_open_all_window">Open all windows</string>
@@ -1197,9 +1197,9 @@ on the screen"</string>
     <string name="dc_seat_wing_driver">Adaptive driver seat wing</string>
     <string name="dc_seat_wing_passenger">Adaptive passenger seat wing</string>
     <string name="dc_upload_log_content">" Please keep the IHU powered on and connected to the network. 
- 1. Click Start Capture to start log capture. 
- 2. Operate relevant functions again until the exception reappears. 
- 3. After the problem reappears, return to this page and click End and Upload to stop capture and upload the data "</string>
+\n 1. Click Start Capture to start log capture. 
+\n 2. Operate relevant functions again until the exception reappears. 
+\n 3. After the problem reappears, return to this page and click End and Upload to stop capture and upload the data "</string>
     <string name="dc_user_habit_tv">User Habit</string>
     <string name="dc_yaotuo_str">Lumbar</string>
     <string name="dc_zk_lab">" &lt;span color=#E1E3E5 font-size=24px&gt;ZEEKR Laboratories, will be configured with a number of innovative and experimental features, some of which do not exclude certain risks and flaws. Please read the \"ZEEKR Labs Function Terms of Service\" (Usage Agreement) carefully when using it&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=32px style=Bold center=center&gt;ZEEKR LAB FEATURES TERMS OF SERVICE&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;Zhejiang ZEEKR Intelligent Technology Co., Ltd. (hereinafter referred to as \"we\", \"us\" or \"our\") provides you with ZEEKR laboratory function services to promote, improve or perfect vehicle functions and further enhance the user experience under the condition of ensuring functional safety and controllability. In the ZEEKR Lab features, there are a number of specific feature options, such as cinema mode, etc., which we will update from time to time. By using ZEEKR Labs features, you can experience the experimental features and/or patterns that are being tested. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;Since the ZEEKR laboratory function is an experimental function being tested by the vehicle, although it meets the requirements of laws and regulations, there are still certain uncertainties in the process of function operation due to the limitations of the network and other objective environments. We are committed to improving your experience during use, and will continue to take corresponding security protection measures to protect your personal and property safety in accordance with regulatory requirements and mature safety standards in the industry. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;Before you use this function, please confirm that you are the legal owner or user of this vehicle and are authorized or have been authorized to use ZEEKR laboratory functions. If you are not one of the above, please do not use ZEEKR Labs features. The legal consequences such as personal and property losses caused by unauthorized or failure to comply with relevant safety operation requirements shall be borne by the corresponding responsible party, and we shall not be liable. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;Before you use the functions of ZEEKR Laboratory, please be sure to carefully read and fully understand the terms of service and the tips and instructions of related functions, to ensure that the vehicle is in a state suitable for using the corresponding functions, before using the function, please understand the corresponding functions and precautions before operating, if you are uncertain or unfamiliar with the situation, please contact our 400 customer service hotline (4000-036-036) for corresponding consultation. If you need to pay special attention to the terms, we will display them in bold type, so please be sure to read them carefully. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;If you choose to agree to use ZEEKR Labs Features, you accept these Terms of Service and fully understand the content and implications of ZEEKR Labs Features. IF YOU CHOOSE NOT TO AGREE, YOU WILL NOT BE ABLE TO USE ZEEKR LABS FEATURES. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt; 1. Precautions for using ZEEKR laboratory functions &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;1.1 GIVEN THAT ZEEKR LAB FEATURES ARE EXPERIMENTAL FEATURES BEING TESTED, THERE MAY BE CERTAIN RISKS, INCLUDING BUT NOT LIMITED TO:： &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;1) Directly or indirectly cause some essential functions of the vehicle to fail to start normally; &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;2) It may lead to partial or total data loss and cannot be retrieved; &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;3) Termination of the Internet of Vehicles business or suspension of this function, etc. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt; 1.2 We will determine, change and adjust the list and scope of users of ZEEKR Labs functions at our sole discretion. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;1.3 We have the right to suspend or terminate the provision of ZEEKR Lab functions to you or take some or all of the functions of this function offline at any time, and the offline of this function will not affect the legal effect of your aforesaid use of this function. In addition, we do not guarantee that all or part of the experimental functions in this function will necessarily be applied to the in-vehicle application platform. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt; 1.4 Some functions in the ZEEKR Lab function will be automatically set to be enabled or disabled by default by the system after you know the relevant instructions of the function, and you can turn it off and enable it on the corresponding interface. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;1.5 You acknowledge and agree that we shall not be liable for any loss of data, damage to terminal equipment and any other losses caused by your use of ZEEKR Labs functions. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;II. Governing Law and Dispute Resolution &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt;2.1 The conclusion, effectiveness, interpretation, amendment, supplement, termination, execution and dispute resolution of these Terms of Service shall be governed by the laws of the People's Republic of China. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#E1E3E5 font-size=24px&gt; 2.2 Any dispute related to or arising out of these Terms of Service shall be settled through friendly negotiation between the two parties, and if it cannot be resolved through negotiation, either party shall have the right to file a lawsuit with the people's court where the defendant is domiciled. &lt;/span&gt; &lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;/br&gt; "</string>
@@ -1238,7 +1238,7 @@ on the screen"</string>
     <string name="display_text_theme_selector_night">Dark color</string>
     <string name="display_text_time_format_sub_title">Time format</string>
     <string name="display_text_time_format_title">Time format</string>
-    <string name="door_drive_open">"Manually open the driver's door"</string>
+    <string name="door_drive_open">Manually open the driver\'s door</string>
     <string name="door_front_open">Manually open front door</string>
     <string name="door_rear_open">Manually open rear door</string>
     <string name="doorwindow_electric_door_max_tips">When opening and closing the electric door, please pay attention to the surrounding area of the vehicle; Please intervene manually if necessary</string>
@@ -1254,8 +1254,7 @@ on the screen"</string>
     <string name="drive_mode_yd_one">Sport</string>
     <string name="drive_mode_yy_one">Off-Road</string>
     <string name="drivin_suspension_for_easy_access">Easy access suspension</string>
-    <string name="drivin_suspension_for_easy_access_confirm">"Before parking, please be sure to pay attention to low obstacles around the vehicle to avoid any collision during the lowering process of the suspension
-."</string>
+    <string name="drivin_suspension_for_easy_access_confirm">Before parking, check for low obstacles to prevent suspension-lowering collisions</string>
     <string name="drivin_suspension_for_easy_access_tip">When this function is turned on, the suspension height is automatically lowered to facilitate the entry and exit of you and your passengers when the vehicle is parked and the seat belt of the main driver is unfastened</string>
     <string name="drivin_suspension_for_easy_access_tip_content">"Before parking, please be sure to pay attention to the low obstacles around the vehicle to avoid the chassis lowering process
 bumps in the city. This function needs to be upgraded by the offline service center to upgrade the air suspension software before it can be used normally
@@ -1263,9 +1262,9 @@ If you have not yet upgraded offline, it is recommended to upgrade as soon as po
     <string name="drivin_suspension_for_easy_access_tip_diver">"The function is turned on, the car is parked and the driver's seat belt is unfastened, and the suspension height is self-sufficient
 The movement is lowered to facilitate the entry and exit of you and your passengers"</string>
     <string name="driving_auto_hold">Auto hold</string>
-    <string name="driving_auto_hold_info">When the function is activated, it automatically keeps the vehicle stationary</string>
+    <string name="driving_auto_hold_info">Activated function auto-holds vehicle stationary</string>
     <string name="driving_e_pedal">One-pedal</string>
-    <string name="driving_e_pedal_info">Vehicle acceleration/deceleration is controlled by the accelerator pedal</string>
+    <string name="driving_e_pedal_info">Acceleration and deceleration controlled by the accelerator.</string>
     <string name="driving_esc_off">ESC OFF</string>
     <string name="driving_fold_rear_mirror_close">Folding rearview mirrors</string>
     <string name="driving_fold_rear_mirror_open">Unfold rearview mirrors</string>
@@ -1275,7 +1274,7 @@ The movement is lowered to facilitate the entry and exit of you and your passeng
     <string name="driving_module_driving_title">Driving Preferences</string>
     <string name="driving_one_pedal_title">Instrument One-pedal Icon Function Demonstration：</string>
     <string name="driving_p_back_launcher">Gear linkage</string>
-    <string name="driving_p_back_launcher_tip">When shifting to P gear, it automatically returns to the home screen. When shifting to D gear, it automatically switches to navigation.</string>
+    <string name="driving_p_back_launcher_tip">In P gear, auto-returns to home screen; in D, switches to navigation</string>
     <string name="driving_p_back_launcher_tip_text">Enabling this feature will automatically disable the \"Door Quick Control\" option under the door settings.</string>
     <string name="driving_parking_EPB">Release handbrake</string>
     <string name="driving_parking_EPB_appl">Activate handbrake</string>
@@ -1308,7 +1307,7 @@ Reverting to previous location"</string>
     <string name="driving_tire_pressure_temperature_unit_c">℃</string>
     <string name="driving_tire_pressure_temperature_unit_f">℉</string>
     <string name="driving_turn_back_to_positive_alarm">Turn back to normal alarm</string>
-    <string name="driving_turn_back_to_positive_alarm_info">A warning will be given if the vehicle does not steer before starting</string>
+    <string name="driving_turn_back_to_positive_alarm_info">Warning issued if steering is not engaged before starting</string>
     <string name="driving_tyre_pressure_title">Tire pressure monitoring</string>
     <string name="driving_widget_all_error_tip">Please go to the nearest 4S store to check or call for rescue</string>
     <string name="driving_widget_tire_pressure_result_fast_pressure_loss_front_left">The left front tire is going flat</string>
@@ -1355,8 +1354,8 @@ When getting off the bus：Unfasten the driver's seat belt or open the driver's 
     <string name="energy_battery_life">Range</string>
     <string name="energy_battery_preheat">Battery temperature maintenance</string>
     <string name="energy_battery_preheat_intro">Before traveling, use the grid to adjust the battery temperature for better range, which may incur additional charges; it is recommended to turn on when the ambient temperature is below 0°C or above 40°C.</string>
-    <string name="energy_btn_power_external">Power supply for external equipment</string>
-    <string name="energy_btn_power_other">Power supply for external vehicles</string>
+    <string name="energy_btn_power_external">External equipment power supply</string>
+    <string name="energy_btn_power_other">External vehicle power supply</string>
     <string name="energy_btn_start_charging">Start charging</string>
     <string name="energy_btn_stop_charging">Stop</string>
     <string name="energy_cable_status_connect_ac">Charging plug connected (AC)</string>
@@ -1382,7 +1381,7 @@ When getting off the bus：Unfasten the driver's seat belt or open the driver's 
     <string name="energy_charge_full">About to be full</string>
     <string name="energy_charge_limit">Charging limit</string>
     <string name="energy_charge_monday">Monday</string>
-    <string name="energy_charge_more_settings">更多设置</string>
+    <string name="energy_charge_more_settings">More settings</string>
     <string name="energy_charge_next_day">Next day</string>
     <string name="energy_charge_per_week">Weekly</string>
     <string name="energy_charge_pre_heating_button_name">Battery temperature adjusting</string>
@@ -1539,12 +1538,13 @@ When getting off the bus：Unfasten the driver's seat belt or open the driver's 
     <string name="lab_theater_mode">Theater mode</string>
     <string name="lab_theater_mode_info">Automatically adjust seat, climate, lighting etc., for watching videos</string>
     <string name="light_auto">Automatic reading light</string>
-    <string name="light_auto_text">The reading light will automatically turn on when the vehicle is unlocked or the door is opened</string>
+    <string name="light_auto_text">The reading light will automatically turn on when 
+\nthe vehicle is unlocked or the door is opened</string>
     <string name="light_charge">Charging light language</string>
-    <string name="light_charge_text">When starting charging, play the light language, and automatically stop after 2 minutes.</string>
+    <string name="light_charge_text">Starts light language when charging, stops after 2 minutes</string>
     <string name="light_settings_text">Setup</string>
     <string name="light_taillight">Daytime running taillights</string>
-    <string name="light_taillight_text">When enabled, the rear position lights will be illuminated with the daytime running lights</string>
+    <string name="light_taillight_text">Rear lights on with daytime running lights</string>
     <string name="lighting_approach_light_option">Approach light</string>
     <string name="lighting_approach_switch_title">Carry the key close to the vehicle, automatically turn on the low beam and position lights, providing illumination</string>
     <string name="lighting_bending_light_option">Bending lights</string>
@@ -1557,7 +1557,7 @@ When getting off the bus：Unfasten the driver's seat belt or open the driver's 
     <string name="lighting_home_safety_light_option">Home safety light</string>
     <string name="lighting_in_sound">Generate Internal Sound</string>
     <string name="lighting_lig_row">Rear Mood light</string>
-    <string name="lighting_lig_zon">Front Mood light</string>
+    <string name="lighting_lig_zon">Ambient</string>
     <string name="lighting_light_mode_breathe">Breathe</string>
     <string name="lighting_light_mode_driving_mode">Driving mode</string>
     <string name="lighting_light_mode_gradation">Gradation</string>
@@ -1600,7 +1600,7 @@ When getting off the bus：Unfasten the driver's seat belt or open the driver's 
     <string name="material_clock_toggle_content_description">Select AM or PM</string>
     <string name="material_hour_24h_suffix">%1$s hours</string>
     <string name="material_hour_selection">Select hour</string>
-    <string name="material_hour_suffix">"%1$s o'clock"</string>
+    <string name="material_hour_suffix">%1$s o\'clock</string>
     <string name="material_minute_selection">Select minutes</string>
     <string name="material_minute_suffix">%1$s minutes</string>
     <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
@@ -1906,13 +1906,11 @@ If the driver or passenger violates the above terms or has any other operation o
     <string name="text_please_close_snow_mode">Please turn off snow mode before making a selection</string>
     <string name="text_please_epedal_toast">This option only supports slow travel in stop mode</string>
     <string name="upload_close">OFF</string>
-    <string name="upload_explain_text">Reproduce exceptions and upload data for accurate analysis 
-and improved experience of problems</string>
-    <string name="upload_explain_text2">Reproduce exceptions and upload log data for accurate analysis
-and improved experience of problems</string>
+    <string name="upload_explain_text">Reproduce exceptions and upload data for accurate analysis and improved experience of problems</string>
+    <string name="upload_explain_text2">Reproduce exceptions and upload log data for accurate analysis and improved experience of problems</string>
     <string name="upload_log_cancel">Cancel</string>
-    <string name="upload_log_explore_content">\u0009\u0009\u0009 We always prioritize user experience. In order to optimize and improve the system functionality, we sincerely invite you to join us in this endeavor. IHU operation log information, including exceptions, errors, warnings and other information generated during the system operation process, is obtained to help us quickly complete system remote diagnosis. &lt;br/&gt; \u0009\u0009\u0009 We hereby declare that the IHU log information we collect will not be actively associated with your personal information. However, it is not ruled out that the system may contain personal information related to your use during operation. The collection, transmission, and use of this information will also be protected by relevant security technologies. &lt;br/&gt; &lt;br/&gt; \u0009\u0009\u0009 Uploading IHU logs will consume some network traffic</string>
-    <string name="upload_log_explore_content_bx">\u0009\u0009\u0009 We always prioritize user experience. In order to optimize and improve the system functionality, we sincerely invite you to join us in this endeavor. IHU operation log information, including exceptions, errors, warnings and other information generated during the system operation process, is obtained to help us quickly complete system remote diagnosis. &lt;br/&gt; \u0009\u0009\u0009 We hereby declare that the IHU log information we collect will not be actively associated with your personal information. However, it is not ruled out that the system may contain personal information related to your use during operation. The collection, transmission, and use of this information will also be protected by relevant security technologies. &lt;br/&gt; &lt;br/&gt; \u0009\u0009\u0009 Uploading IHU logs will consume some network traffic</string>
+    <string name="upload_log_explore_content">\t\t\t We always prioritize user experience. In order to optimize and improve the system functionality, we sincerely invite you to join us in this endeavor. IHU operation log information, including exceptions, errors, warnings and other information generated during the system operation process, is obtained to help us quickly complete system remote diagnosis. <br/> \t\t\t We hereby declare that the IHU log information we collect will not be actively associated with your personal information. However, it is not ruled out that the system may contain personal information related to your use during operation. The collection, transmission, and use of this information will also be protected by relevant security technologies. <br/> <br/> \t\t\t Uploading IHU logs will consume some network traffic</string>
+    <string name="upload_log_explore_content_bx">\t\t\t We always prioritize user experience. In order to optimize and improve the system functionality, we sincerely invite you to join us in this endeavor. IHU operation log information, including exceptions, errors, warnings and other information generated during the system operation process, is obtained to help us quickly complete system remote diagnosis. <br/> \t\t\t We hereby declare that the IHU log information we collect will not be actively associated with your personal information. However, it is not ruled out that the system may contain personal information related to your use during operation. The collection, transmission, and use of this information will also be protected by relevant security technologies. <br/> <br/> \t\t\t Uploading IHU logs will consume some network traffic</string>
     <string name="upload_log_explore_title">Log Upload Notice</string>
     <string name="upload_log_failed_tip">Upload failed</string>
     <string name="upload_log_full_failed">Upload failed. Insufficient space</string>
@@ -1929,8 +1927,8 @@ and improved experience of problems</string>
     <string name="upload_logcat_bx1e">Abnormal feedback</string>
     <string name="upload_logcat_content1">1. Click Start Capture to start log capture</string>
     <string name="upload_logcat_content2">2. Operate the relevant functions again until the exception reappears</string>
-    <string name="upload_logcat_content3">"3. After the problem reappears, go back to the original page and click End and upload 
- to stop capture and upload the data"</string>
+    <string name="upload_logcat_content3">3. After the problem reappears, go back to the original page and click End and upload 
+\n to stop capture and upload the data</string>
     <string name="upload_logcat_text">Abnormal feedback</string>
     <string name="upload_logcat_text2">Abnormal feedback</string>
     <string name="upload_logcat_title">Please keep the IHU powered on and connected to the network</string>
@@ -2011,7 +2009,7 @@ and improved experience of problems</string>
     <string name="doorwindow_angle_tab_1">Rear doors</string>
     <string name="doorwindow_angle_tab2_1">Rear doors</string>
     <string name="doorwindow_angle_tab6_0">Rear doors</string>
-    <string name="energy_range_mode_0">Standard endurance</string>
+    <string name="energy_range_mode_0">Standard</string>
     <string name="doorwindow_angle_tab_2">Trunk</string>
     <string name="doorwindow_angle_tab1_1">Trunk</string>
     <string name="doorwindow_angle_tab4_0">Trunk</string>
@@ -2033,7 +2031,7 @@ and improved experience of problems</string>
     <string name="lighting_home_light_9">90s</string>
     <string name="lighting_home_safety_light_3">90s</string>
     <string name="lighting_home_safety_light_0">Close</string>
-    <string name="energy_range_mode_1">Dynamic endurance</string>
+    <string name="energy_range_mode_1">Dynamic</string>
     <string name="lighting_1">Exterior Light</string>
     <string name="energy_tab_1">External power supply</string>
     <string name="multi_sound_effects_dc_0">Jazz Club</string>
