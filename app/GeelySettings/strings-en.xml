@@ -166,7 +166,7 @@ Do you agree to all the above instructions for use and want to start NZP smart n
     <string name="common_accor_pop_matching_bluetooth_text">Pairing code has been sent, waiting for confirmation from \"%1$s\"</string>
     <string name="common_adjust_rear_mirror_tip1">Pelease Use the touch pad on the right side of the steering wheel to adjust the rearview mirror.</string>
     <string name="common_adjust_rear_mirror_tip2">Please adjust the mirrors with steering wheel switch</string>
-    <string name="common_adjust_wheel_steer">Steering wheel adjustment</string>
+    <string name="common_adjust_wheel_steer">Steering wheel</string>
     <string name="common_adjust_wheel_steer_tip3">Adjust steering position using right touchpad</string>
     <string name="common_agree">I agree</string>
     <string name="common_agree_in">Agree Enter</string>
@@ -773,7 +773,7 @@ Lock"</string>
     <string name="common_mirror_left_info">Use the right steering wheel touch pad to adjust the position of the left mirror</string>
     <string name="common_mirror_position">Mirror positions</string>
     <string name="common_mirror_right_info">Use the right steering wheel touch pad to adjust the position of the right mirror</string>
-    <string name="common_mode_mirror_posiion">Side-View Mirror Adjustment</string>
+    <string name="common_mode_mirror_posiion">Side-View Mirror</string>
     <string name="common_mode_mirror_posiion_dialog_content">"Select \"Left rearview mirror\" or \"Right rearview mirror\" and you can adjust the corresponding rearview mirror angle through the four-way button on the right side of the steering wheel.
 
 Select \"Follow the direction of your gaze\". When you look at the left/right rearview mirror, it will automatically switch to the rearview mirror you need to adjust based on the direction of your head and eyeball gaze. Then you can use the four-way steering wheel on the right side of the steering wheel to adjust the rearview mirror. Press the button to adjust the rearview mirror angle."</string>
