@@ -1244,8 +1244,8 @@ on the screen"</string>
     <string name="doorwindow_electric_door_max_tips">When opening and closing the electric door, please pay attention to the surrounding area of the vehicle; Please intervene manually if necessary</string>
     <string name="doorwindow_text_charge_ac">AC</string>
     <string name="doorwindow_text_charge_dc">DC</string>
-    <string name="doorwindow_text_left">left</string>
-    <string name="doorwindow_text_right">right</string>
+    <string name="doorwindow_text_left">Left­:</string>
+    <string name="doorwindow_text_right">Right:</string>
     <string name="drive_mode_bz_one">Normal</string>
     <string name="drive_mode_jj_one">Eco</string>
     <string name="drive_mode_jji_one">Eco</string>
