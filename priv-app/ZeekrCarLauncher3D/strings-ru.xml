@@ -87,4 +87,7 @@
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
     <string name="bottomsheet_drag_handle_clicked">Ручку перетаскивания дважды коснулись.</string>
     <string name="abc_action_bar_up_description">Вверх</string>
+    <string name="bottomsheet_action_expand">Развернуть нижнюю панель действий</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
 </resources>
