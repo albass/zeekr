@@ -22,10 +22,10 @@
     <string name="abc_searchview_description_clear">Clear query</string>
     <string name="abc_searchview_description_query">Search query</string>
     <string name="abc_searchview_description_search">Search</string>
-    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Voice search</string>
-    <string name="abc_shareactionprovider_share_with">Share with</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться</string>
+    <string name="abc_shareactionprovider_share_with_application">"Поделиться с  %s"</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="am_str">上午</string>
     <string name="androidx_startup">androidx.startup</string>
@@ -85,7 +85,7 @@
     <string name="enter_again">您输入的号码有误，请重新输入</string>
     <string name="error_a11y_label">Error: invalid</string>
     <string name="error_icon_content_description">Error</string>
-    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="favorites_show_more_than">最多可以收藏100条联系人</string>
     <string name="fax_home">住宅传真</string>
@@ -104,7 +104,7 @@
     <string name="home">家</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="in_progress">In progress</string>
-    <string name="item_view_role_description">Tab</string>
+    <string name="item_view_role_description">Вкладка</string>
     <string name="just_now">刚刚</string>
     <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
     <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1.0)</string>
@@ -120,12 +120,12 @@
     <string name="main_favorites">个人收藏</string>
     <string name="main_recent">最近通话</string>
     <string name="material_clock_display_divider">:</string>
-    <string name="material_clock_toggle_content_description">Select AM or PM</string>
-    <string name="material_hour_24h_suffix">%1$s hours</string>
-    <string name="material_hour_selection">Select hour</string>
-    <string name="material_hour_suffix">%1$s o\'clock</string>
-    <string name="material_minute_selection">Select minutes</string>
-    <string name="material_minute_suffix">%1$s minutes</string>
+    <string name="material_clock_toggle_content_description">Выбрать AM или PM</string>
+    <string name="material_hour_24h_suffix">%1$s ч</string>
+    <string name="material_hour_selection">Выбрать час</string>
+    <string name="material_hour_suffix">%1$s ч</string>
+    <string name="material_minute_selection">Выбрать минуты</string>
+    <string name="material_minute_suffix">%1$s мин</string>
     <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
     <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
@@ -134,11 +134,11 @@
     <string name="material_slider_range_start">Range start</string>
     <string name="material_slider_value">Value</string>
     <string name="material_timepicker_am">AM</string>
-    <string name="material_timepicker_clock_mode_description">Switch to clock mode for the time input.</string>
+    <string name="material_timepicker_clock_mode_description">Переход в режим часов для ввода времени.</string>
     <string name="material_timepicker_hour">Hour</string>
     <string name="material_timepicker_minute">Minute</string>
     <string name="material_timepicker_pm">PM</string>
-    <string name="material_timepicker_select_time">Select time</string>
+    <string name="material_timepicker_select_time">Выбрать время</string>
     <string name="minutes_ago">分钟前</string>
     <string name="mobile_phone">手机</string>
     <string name="mtrl_badge_numberless_content_description">New notification</string>
@@ -161,8 +161,8 @@
     <string name="mtrl_picker_cancel">Cancel</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">Select Date</string>
-    <string name="mtrl_picker_date_header_unselected">Selected date</string>
+    <string name="mtrl_picker_date_header_title">Выбрать Дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбрать дату</string>
     <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
     <string name="mtrl_picker_end_date_description">End date %1$s</string>
     <string name="mtrl_picker_invalid_format">Invalid format.</string>
@@ -172,20 +172,20 @@
     <string name="mtrl_picker_navigate_to_current_year_description">Navigate to current year %1$d</string>
     <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$d</string>
     <string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала - %1$s</string>
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-    <string name="mtrl_picker_range_header_title">Select Range</string>
-    <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
+    <string name="mtrl_picker_range_header_title">Выбрать диапазон</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала - Дата окончания</string>
     <string name="mtrl_picker_save">Save</string>
-    <string name="mtrl_picker_start_date_description">Start date %1$s</string>
+    <string name="mtrl_picker_start_date_description">Дата начала %1$s</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
     <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
-    <string name="mtrl_picker_today_description">Today %1$s</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to Calendar view</string>
+    <string name="mtrl_picker_today_description">Сегодня %1$s</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите для перехода в режим просмотра календаря</string>
     <string name="mtrl_switch_thumb_group_name">circle_group</string>
     <string name="mtrl_switch_thumb_path_checked">M4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16</string>
     <string name="mtrl_switch_thumb_path_morphing">M0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16</string>
@@ -211,7 +211,7 @@
     <string name="one">1</string>
     <string name="others">其他</string>
     <string name="pager">寻呼机</string>
-    <string name="password_toggle_content_description">Show password</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
@@ -240,7 +240,7 @@
     <string name="sensors_analytics_ad_create_link_custom_url_error">自定义域名未填写或者格式不对</string>
     <string name="sensors_analytics_ad_create_link_no_network">没有检测到网络连接</string>
     <string name="sensors_analytics_ad_create_link_response_data_error">后端返回数据异常</string>
-    <string name="sensors_analytics_ad_create_link_success">Slink 创建成功</string>
+    <string name="sensors_analytics_ad_create_link_success">Slink успешно создан</string>
     <string name="sensors_analytics_ad_create_link_token_missing">token 缺少</string>
     <string name="sensors_analytics_ad_dialog_activate">激活</string>
     <string name="sensors_analytics_ad_dialog_cancel">取消</string>
@@ -311,7 +311,7 @@
     <string name="sensors_analytics_visual_other_error">其他错误</string>
     <string name="sensors_analytics_visual_parseProperty_error">解析属性</string>
     <string name="sensors_analytics_visual_property_switch_error">自定义属性运维配置开关关闭</string>
-    <string name="sensors_analytics_visual_regex_error">%1$s 属性正则解析失败，元素内容 %2$s，正则表达式为 %3$s，属性类型为 %4$s</string>
+    <string name="sensors_analytics_visual_regex_error">Анализ регулярного выражения атрибута %1$s не удался, содержание элемента %2$s, регулярное выражение %3$s, тип атрибута %4$s.</string>
     <string name="sensors_analytics_visual_sa_flutter_error">此页面未集成 Flutter 全埋点 SDK 或 Flutter 全埋点 SDK 版本过低，请集成最新版 Flutter 全埋点 SDK</string>
     <string name="sensors_analytics_visual_sa_h5">当前页面无法进行可视化全埋点</string>
     <string name="sensors_analytics_visual_sa_h5_error_link">配置文档</string>
@@ -320,7 +320,7 @@
     <string name="sensors_analytics_visual_wifi_name">正在连接 App 可视化全埋点…</string>
     <string name="seven">7</string>
     <string name="seven_letters">PQRS</string>
-    <string name="side_sheet_accessibility_pane_title">Side Sheet</string>
+    <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
     <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
     <string name="six">6</string>
     <string name="six_letters">MNO</string>
@@ -401,11 +401,11 @@
     <string name="sensors_analytics_remote_tip_error_project">App 集成的项目与二维码对应的项目不同，无法进行调试</string>
     <string name="sensors_analytics_visual_cache_no_property_error">本地缓存无自定义属性配置</string>
     <string name="sensors_analytics_visual_dialog_error">App 集成的项目与电脑浏览器打开的项目不同，无法进行可视化全埋点。</string>
-    <string name="sensors_analytics_visual_property_error">%1$s 属性未找到属性元素，属性元素路径为 %2$s，属性元素位置为 %3$s</string>
+    <string name="sensors_analytics_visual_property_error">Элемент свойства %1$s не найден, путь к элементу свойства %2$s, расположение элемента свойства %3$s.</string>
     <string name="sensors_analytics_visual_sa_h5_error">此页面未集成 Web JS SDK 或者 Web JS SDK 版本过低，请集成最新版 Web JS SDK</string>
-    <string name="srl_component_falsify" formatted="false">%s falsify area,
-\n Represents the height[%.1fdp] of drag at run time,
-\n It does not show anything.</string>
+    <string name="srl_component_falsify" formatted="false">%s подделать область,
+\nПредставляет высоту[%.1fdp] перетаскивания во время выполнения,
+\nНичего не показывает.</string>
     <string name="srl_content_empty">未添加任何布局</string>
     <string name="srl_footer_nothing">No More Data</string>
     <string name="srl_header_loading">等待加载</string>
@@ -432,14 +432,14 @@
     <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
     <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
     <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
-    <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
+    <string name="material_timepicker_text_input_mode_description">Переход в режим ввода текста для ввода времени.</string>
     <string name="mtrl_checkbox_button_icon_path_name">icon path</string>
     <string name="mtrl_checkbox_button_path_checked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
-    <string name="mtrl_picker_announce_current_range_selection">Start date selection: %1$s – End date selection: %2$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to year view</string>
+    <string name="mtrl_picker_announce_current_range_selection">Выбор даты начала: %1$s - Выбор даты окончания: %2$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Дата окончания</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Переход в режим ввода календаря</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Переход в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">"Нажмите  для перехода в просмотр года"</string>
     <string name="mtrl_switch_thumb_path_pressed">M2,16 A14,14 0 0,1 16,2 H16 A14,14 0 0,1 16,30 H16 A14,14 0 0,1 2,16</string>
     <string name="no_collection">暂无收藏联系人，可在 “联系人” 中添加</string>
     <string name="no_sim_card">无SIM卡</string>
@@ -448,11 +448,11 @@
     <string name="ring_is_off">响铃已关闭</string>
     <string name="search_contact">搜索联系人</string>
     <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
-    <string name="sensors_analytics_ad_create_link_template_id_missing">Slink 模板 ID 缺少</string>
-    <string name="sensors_analytics_ad_error_debug_fail_content">"1. 开启 App 时拒绝“电话”授权；
-\n + 2. 手机系统权限设置中是否关闭“电话”授权；
-\n + 3. 请联系研发人员确认是否“调用 trackInstallation 接口在获取“电话”授权之后。
+    <string name="sensors_analytics_ad_create_link_template_id_missing">Идентификатор шаблона Slink не найден</string>
+    <string name="sensors_analytics_ad_error_debug_fail_content">"1. При открытии приложения App отказ в разрешении \"Телефон\";
+\n + 2. Закрыто ли разрешение \"Телефон\" в настройках системных прав доступа телефона;
+\n + 3. Пожалуйста, свяжитесь с разработчиками для подтверждения, вызывается ли интерфейс trackInstallation после получения разрешения \"Телефон\".
 \n
-\n  + 排查修复后，请先卸载应用并重新安装，再扫码进行联调。"</string>
+\n  + После выявления и устранения проблемы, пожалуйста, сначала удалите приложение и переустановите его, затем просканируйте QR-код для совместной отладки."</string>
     <string name="sensors_analytics_ad_error_whitelist">添加白名单请求失败，请联系神策技术支持人员排查问题!</string>
 </resources>
