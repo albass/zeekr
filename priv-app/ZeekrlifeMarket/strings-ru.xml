@@ -1,2 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
+    <string name="mtrl_picker_announce_current_range_selection">Выбор даты начала: %1$s - Выбор даты окончания: %2$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Переход в режим ввода календаря</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Переход в режим ввода текста</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="material_hour_24h_suffix">%1$s ч</string>
+    <string name="material_minute_suffix">%1$s мин</string>
+    <string name="material_hour_suffix">%1$s ч</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Выбрать AM или PM</string>
+    <string name="material_hour_selection">Выбрать час</string>
+    <string name="material_timepicker_select_time">Выбрать время</string>
+    <string name="material_timepicker_text_input_mode_description">Переход в режим ввода текста для ввода времени.</string>
+    <string name="mtrl_picker_date_header_title">Выбрать Дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбрать дату</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала - %1$s</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_start_date_description">Дата начала %1$s</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала - Дата окончания</string>
+    <string name="material_timepicker_clock_mode_description">Переход в режим часов для ввода времени.</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите для перехода в режим просмотра календаря</string>
+    <string name="sensors_analytics_ad_create_link_template_id_missing">Идентификатор шаблона Slink не найден</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться</string>
+    <string name="abc_shareactionprovider_share_with_application">"Поделиться с  %s"</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="mtrl_picker_toggle_to_year_selection">"Нажмите  для перехода в просмотр года"</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Дата окончания</string>
+    <string name="sensors_analytics_visual_property_error">Элемент свойства %1$s не найден, путь к элементу свойства %2$s, расположение элемента свойства %3$s.</string>
+    <string name="mtrl_picker_today_description">Сегодня %1$s</string>
+    <string name="sensors_analytics_visual_regex_error">Анализ регулярного выражения атрибута %1$s не удался, содержание элемента %2$s, регулярное выражение %3$s, тип атрибута %4$s.</string>
+    <string name="srl_component_falsify" formatted="false">%s подделать область,
+\nПредставляет высоту[%.1fdp] перетаскивания во время выполнения,
+\nНичего не показывает.</string>
+    <string name="sensors_analytics_ad_error_debug_fail_content">"1. При открытии приложения App отказ в разрешении \"Телефон\";
+\n + 2. Закрыто ли разрешение \"Телефон\" в настройках системных прав доступа телефона;
+\n + 3. Пожалуйста, свяжитесь с разработчиками для подтверждения, вызывается ли интерфейс trackInstallation после получения разрешения \"Телефон\".
+\n
+\n  + После выявления и устранения проблемы, пожалуйста, сначала удалите приложение и переустановите его, затем просканируйте QR-код для совместной отладки."</string>
+    <string name="mtrl_picker_range_header_title">Выбрать диапазон</string>
+    <string name="material_minute_selection">Выбрать минуты</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="sensors_analytics_ad_create_link_success">Slink успешно создан</string>
+</resources>
