@@ -72,7 +72,7 @@
     <string name="common_btn_more_devices">Посмотреть больше сетей</string>
     <string name="ota_os_version">Версия системы автомобиля</string>
     <string name="abc_menu_function_shortcut_label">Fn+</string>
-    <string name="common_auto_hold">Автоудержание</string>
+    <string name="common_auto_hold">Auto hold</string>
     <string name="charging_speed_unit_km">км/ч</string>
     <string name="charging_speed_range_unit_mile">миль/ч</string>
     <string name="common_auto_open_aidrive">Включено по умолчанию после включения</string>
@@ -1252,4 +1252,5 @@
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="common_cable_status_connect_ac">Пистолет вставлен (АС)</string>
     <string name="common_key_tone_info">Тон при прикосновении к дисплею и кнопкам</string>
+    <string name="bottomsheet_action_expand">Развернуть нижнюю панель действий</string>
 </resources>
