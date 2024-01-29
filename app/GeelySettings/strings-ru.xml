@@ -1253,4 +1253,5 @@
     <string name="common_cable_status_connect_ac">Пистолет вставлен (АС)</string>
     <string name="common_key_tone_info">Тон при прикосновении к дисплею и кнопкам</string>
     <string name="bottomsheet_action_expand">Развернуть нижнюю панель действий</string>
+    <string name="safety_car_washing_mode">Режим мойки</string>
 </resources>
