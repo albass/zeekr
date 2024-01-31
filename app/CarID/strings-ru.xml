@@ -31,4 +31,22 @@
     <string name="number_0">0</string>
     <string name="number_00">00</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check">Подтверждение</string>
+    <string name="close">Закрыть</string>
+    <string name="dialog_pay_timeout">Срок оплаты истек, пожалуйста, разместите заказ еще раз</string>
+    <string name="dialog_query">Подтвердить</string>
+    <string name="dialog_out">Выход</string>
+    <string name="number_1">1</string>
+    <string name="number_5">5</string>
+    <string name="number_4">4</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="navigation">Навигатор</string>
+    <string name="payment_amount_title">К оплате:</string>
+    <string name="pay_price">К оплате:</string>
+    <string name="pay_text">К оплате</string>
+    <string name="pay_late">Срок оплаты истек, пожалуйста, разместите заказ еще раз</string>
+    <string name="sapi_sdk_common_retry_btn_text">Повторить</string>
+    <string name="phone">телефон</string>
+    <string name="payment_amount">Сумма платежа:￥%s юаней</string>
 </resources>
