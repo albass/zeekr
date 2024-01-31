@@ -358,7 +358,7 @@
     <string name="strUpgradeDialogRetryBtn">重试</string>
     <string name="strUpgradeDialogUpdateTimeLabel">更新时间</string>
     <string name="strUpgradeDialogUpgradeBtn">立即更新</string>
-    <string name="sure">确认</string>
+    <string name="sure"></string>
     <string name="switch_calls">切换通话</string>
     <string name="sync">同步</string>
     <string name="syncing">同步中</string>
