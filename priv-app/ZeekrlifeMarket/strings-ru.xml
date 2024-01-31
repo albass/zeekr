@@ -45,4 +45,13 @@
     <string name="material_minute_selection">Выбрать минуты</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="sensors_analytics_ad_create_link_success">Slink успешно создан</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="searchview_clear_text_content_description">Очистить текст</string>
+    <string name="character_counter_content_description">Введено символов %1$d из %2$d</string>
+    <string name="clear_text_end_icon_content_description">Очистить текст</string>
+    <string name="common_cancel">Отмена</string>
+    <string name="character_counter_overflowed_content_description">Предел символов превысил %1$d из %2$d</string>
 </resources>
