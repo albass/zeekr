@@ -59,7 +59,7 @@
     <string name="mtrl_picker_text_input_day_abbr">д</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Начало</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Конец</string>
-    <string name="mtrl_picker_save">сохранить</string>
+    <string name="mtrl_picker_save">Сохранить</string>
     <string name="mtrl_picker_range_header_unselected">Начало - Конец</string>
     <string name="mtrl_picker_range_header_title">Выберите период</string>
     <string name="mtrl_picker_range_header_only_end_selected">Начало – %1$s</string>
@@ -90,4 +90,10 @@
     <string name="bottomsheet_action_expand">Развернуть нижнюю панель действий</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="bottomsheet_drag_handle_content_description">Переключите селектор</string>
+    <string name="character_counter_content_description">Введено %1$d символов (максимум %2$d)</string>
+    <string name="mode_switch_open">Открыть</string>
+    <string name="rest_passenger">Комфортный отдых пассажира</string>
+    <string name="rest_driver">Отдых водителя</string>
+    <string name="start">Открыть</string>
 </resources>
