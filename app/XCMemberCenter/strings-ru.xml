@@ -56,4 +56,18 @@
     <string name="mtrl_picker_text_input_day_abbr">д</string>
     <string name="searchview_clear_text_content_description">Очистить текст</string>
     <string name="character_counter_overflowed_content_description">Предел символов превысил %1$d из %2$d</string>
+    <string name="user_btn_confirm">Подтвердить</string>
+    <string name="error_message_4005">Неверный пароль</string>
+    <string name="common_agree">Согласен</string>
+    <string name="common_ok">ОК</string>
+    <string name="common_retry">Повторить</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="message_detail_title">Сообщение</string>
+    <string name="mine_car_profile">Сохранить привычное пользование автомобилем</string>
+    <string name="sensors_analytics_ad_dialog_activate">Активировать</string>
+    <string name="profile_driving_position">Положение движения</string>
+    <string name="profile_title">Сохранить привычное пользование автомобилем</string>
+    <string name="profile_btn_recover">Восстановить</string>
+    <string name="profile_btn_save">Сохранить</string>
+    <string name="setting_face_agree">Принять</string>
 </resources>
