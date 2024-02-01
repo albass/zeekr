@@ -127,7 +127,7 @@
     <string name="sensors_analytics_ad_create_link_success">Slink успешно создан</string>
     <string name="sensors_analytics_ad_create_link_template_id_missing">Идентификатор шаблона Slink не найден</string>
     <string name="sensors_analytics_ad_create_link_token_missing">token 缺少</string>
-    <string name="sensors_analytics_ad_dialog_activate">激活</string>
+    <string name="sensors_analytics_ad_dialog_activate">Активировать</string>
     <string name="sensors_analytics_ad_dialog_cancel">取消</string>
     <string name="sensors_analytics_ad_dialog_ok">确定</string>
     <string name="sensors_analytics_ad_dialog_starting">即将开启联调模式</string>
@@ -308,4 +308,5 @@
     <string name="action_settings">Настройки</string>
     <string name="pip_skip_to_next">Перейти к следующему</string>
     <string name="pip_skip_to_prev">Перейти к предыдущему</string>
+    <string name="widget_drive_score_h">ч</string>
 </resources>
