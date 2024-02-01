@@ -97,7 +97,7 @@
     <string name="go_to_connect">去连接</string>
     <string name="hang_up">挂断</string>
     <string name="hang_up_answer">挂断并接听</string>
-    <string name="hide">隐藏</string>
+    <string name="hide">Скрыть</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hold_answer">保留并接听</string>
     <string name="holding">等待中</string>
@@ -140,7 +140,7 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Выбрать время</string>
     <string name="minutes_ago">分钟前</string>
-    <string name="mobile_phone">手机</string>
+    <string name="mobile_phone">мобильный телефон</string>
     <string name="mtrl_badge_numberless_content_description">New notification</string>
     <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
     <string name="mtrl_checkbox_button_icon_path_group_name">icon</string>
@@ -195,7 +195,7 @@
     <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
     <string name="mtrl_timepicker_cancel">Cancel</string>
     <string name="mtrl_timepicker_confirm">OK</string>
-    <string name="mute">静音</string>
+    <string name="mute">Отключить звук</string>
     <string name="navigation_menu">Navigation menu</string>
     <string name="nine">9</string>
     <string name="nine_letters">WXYZ</string>
@@ -209,7 +209,7 @@
     <string name="off">Off</string>
     <string name="on">On</string>
     <string name="one">1</string>
-    <string name="others">其他</string>
+    <string name="others">Остальные</string>
     <string name="pager">寻呼机</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -242,7 +242,7 @@
     <string name="sensors_analytics_ad_create_link_response_data_error">后端返回数据异常</string>
     <string name="sensors_analytics_ad_create_link_success">Slink успешно создан</string>
     <string name="sensors_analytics_ad_create_link_token_missing">token 缺少</string>
-    <string name="sensors_analytics_ad_dialog_activate">激活</string>
+    <string name="sensors_analytics_ad_dialog_activate">Активировать</string>
     <string name="sensors_analytics_ad_dialog_cancel">取消</string>
     <string name="sensors_analytics_ad_dialog_content">此模式下不需要卸载 App，点击“激活”按钮可反复触发激活</string>
     <string name="sensors_analytics_ad_dialog_ok">确定</string>
@@ -355,11 +355,11 @@
     <string name="strUpgradeDialogFeatureLabel">更新说明</string>
     <string name="strUpgradeDialogFileSizeLabel">包大小</string>
     <string name="strUpgradeDialogInstallBtn">安装</string>
-    <string name="strUpgradeDialogRetryBtn">重试</string>
+    <string name="strUpgradeDialogRetryBtn">Повторить</string>
     <string name="strUpgradeDialogUpdateTimeLabel">更新时间</string>
     <string name="strUpgradeDialogUpgradeBtn">立即更新</string>
     <string name="switch_calls">切换通话</string>
-    <string name="sync">同步</string>
+    <string name="sync">Синхронизировать</string>
     <string name="syncing">同步中</string>
     <string name="tab">Tab</string>
     <string name="template_percent">%1$d percent.</string>
@@ -454,5 +454,5 @@
 \n
 \n  + После выявления и устранения проблемы, пожалуйста, сначала удалите приложение и переустановите его, затем просканируйте QR-код для совместной отладки."</string>
     <string name="sensors_analytics_ad_error_whitelist">添加白名单请求失败，请联系神策技术支持人员排查问题!</string>
-    <string name="sure">确认</string>
+    <string name="sure">Подтвердить</string>
 </resources>
