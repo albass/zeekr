@@ -54,4 +54,12 @@
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="common_cancel">Отмена</string>
     <string name="character_counter_overflowed_content_description">Предел символов превысил %1$d из %2$d</string>
+    <string name="login_password">Пароль</string>
+    <string name="sensors_analytics_ad_dialog_activate">Активировать</string>
+    <string name="setting_dialog_button_confirm">Подтвердить</string>
+    <string name="app_detail_dialog_button_confirm">Подтвердить</string>
+    <string name="task_state_openable">Открыть</string>
+    <string name="task_state_updatable">Обновление</string>
+    <string name="setting_auto_update_on">Открыть</string>
+    <string name="app_detail_info">Информация</string>
 </resources>
