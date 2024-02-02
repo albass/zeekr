@@ -1426,7 +1426,7 @@
     <string name="common_door_unlock_sound">Звуковой эффект при разблокировании</string>
     <string name="common_door_window">Двери и окна</string>
     <string name="common_down_panle_battery_charging">Батарея и зарядка</string>
-    <string name="common_doors">дверь</string>
+    <string name="common_doors">Дверь</string>
     <string name="common_down_panle_open_charging">Зарядка</string>
     <string name="common_dr_att_monitor">Напоминание об усталости водителя</string>
     <string name="common_theater_mode_info">Автоматически регулирует сиденья, климат-контроль, освещение и другие функции для создания комфортных условий просмотра</string>
@@ -1717,4 +1717,23 @@
     <string name="driving_widget_tire_pressure_result_low_pressure_front_left">Давление в левой передней шине слишком низкое</string>
     <string name="driving_widget_tire_pressure_result_high_temperature_multiple">Температура нескольких шин слишком высока</string>
     <string name="driving_widget_tire_pressure_result_high_pressure_rear_right">Давление в правой задней шине слишком высокое</string>
+    <string name="common_dynamic_explain">Низкий и маневренный</string>
+    <string name="common_e_pedal_info">Ускорение/замедление автомобиля регулируется педалью акселератора</string>
+    <string name="common_electric_door">Электро двери</string>
+    <string name="common_drivin_loading_into_driving_position_8155">Приведение в положение движения</string>
+    <string name="common_driving_drivemode_not_select_tip">Возможность ускорения не включить в текущем режиме</string>
+    <string name="common_electric_door_dc">Двери</string>
+    <string name="common_equalizer_middle">Средний диапазон</string>
+    <string name="common_electric_door_open_left">Электронная дверь водителя открывается</string>
+    <string name="quick_setting_individual_suspension_tip_1">Особый рельеф (песок и т. д.)</string>
+    <string name="common_equalizer_presets_6">Пользовательский</string>
+    <string name="doorwindow_angle_tab_2">Багажник</string>
+    <string name="doorwindow_angle_tab1_1">Багажник</string>
+    <string name="doorwindow_angle_tab4_0">Багажник</string>
+    <string name="doorwindow_angle_tab5_1">Багажник</string>
+    <string name="quick_setting_dc_drive_sat_tabs_2">Damp</string>
+    <string name="quick_setting_individual_suspension_tip_3">Низкий и маневренный</string>
+    <string name="safety_and_keepUp_1">KeepUp</string>
+    <string name="tab_seat_adjust_part_1">Боковой подпор</string>
+    <string name="quick_setting_dc_drive_sat_tabs_0">Движение</string>
 </resources>
