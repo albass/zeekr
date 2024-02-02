@@ -62,4 +62,5 @@
     <string name="task_state_updatable">Обновление</string>
     <string name="setting_auto_update_on">Открыть</string>
     <string name="app_detail_info">Информация</string>
+    <string name="material_timepicker_am">AM</string>
 </resources>
