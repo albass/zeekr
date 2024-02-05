@@ -266,7 +266,7 @@
     <string name="sensors_analytics_carrier_telecom">中国电信</string>
     <string name="sensors_analytics_carrier_tietong">中国铁通</string>
     <string name="sensors_analytics_carrier_unicom">中国联通</string>
-    <string name="sensors_analytics_carrier_unknown">未知</string>
+    <string name="sensors_analytics_carrier_unknown">Неизвестно</string>
     <string name="sensors_analytics_common_continue">Продолжить</string>
     <string name="sensors_analytics_common_no">不再提示</string>
     <string name="sensors_analytics_common_ok">Ок</string>
@@ -306,7 +306,7 @@
     <string name="sensors_analytics_visual_config_error">Получить конфигурацию</string>
     <string name="sensors_analytics_visual_event_error">事件配置</string>
     <string name="sensors_analytics_visual_getProperty_error">Get Property Element</string>
-    <string name="sensors_analytics_visual_mobile_name">正在连接 App 可视化全埋点，建议在 WiFi 环境下使用。</string>
+    <string name="sensors_analytics_visual_mobile_name">Подключение к App Click analysis, рекомендуется использовать в среде WiFi.</string>
     <string name="sensors_analytics_visual_network_fail">Сетевой запрос был отключен, и App Click Analysis не может быть использован, пожалуйста, включите его и попробуйте снова!</string>
     <string name="sensors_analytics_visual_other_error">其他错误</string>
     <string name="sensors_analytics_visual_parseProperty_error">Анализ свойств</string>
@@ -369,7 +369,7 @@
     <string name="title_select_call_type">请选择拨打方式</string>
     <string name="today">今天</string>
     <string name="two_letters">ABC</string>
-    <string name="unknown">未知</string>
+    <string name="unknown">Неизвестно</string>
     <string name="unknown_call">未知来电</string>
     <string name="unknown_number">未知号码</string>
     <string name="use_online_phone">蓝牙设备未连接
