@@ -2,4 +2,19 @@
 <resources>
     <string name="dialog_ok">Подтвердить</string>
     <string name="wlan">WiFi</string>
+    <string name="memory_usage">Загрузка памяти</string>
+    <string name="fps_rate">Частота кадров</string>
+    <string name="select_cpu">Показать загрузку ЦПУ</string>
+    <string name="select_ftp">Показать частоту кадров</string>
+    <string name="open_system_log">Открыть системный журнал</string>
+    <string name="opened_android_log">data\\misc\\logd запись журнала включена</string>
+    <string name="clear_android_log">Очистка журнала android от data\\misc\\logd</string>
+    <string name="clear_android_log_end_hint">Очистка журнала области данных android прошла успешно!</string>
+    <string name="android_log_switch_hint">Чтобы logcatd заработал, требуется перезагрузка машины!</string>
+    <string name="area_info_debug">Area Info Debug</string>
+    <string name="area_info_hint">Значения контроля отладки были изменены и размещены</string>
+    <string name="light_msg_text">Обратите внимание на вспышку и изображение на экране</string>
+    <string name="cpu_usage">Загрузка ЦПУ</string>
+    <string name="select_memory">Показать загрузку памяти</string>
+    <string name="closed_android_log">data\\misc\\logd запись журнала отключена</string>
 </resources>
