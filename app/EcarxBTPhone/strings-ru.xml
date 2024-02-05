@@ -156,14 +156,14 @@
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Change to next month</string>
     <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
-    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
     <string name="mtrl_picker_announce_current_selection_none">none</string>
     <string name="mtrl_picker_cancel">Cancel</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Выбрать Дату</string>
     <string name="mtrl_picker_date_header_unselected">Выбрать дату</string>
-    <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+    <string name="mtrl_picker_day_of_week_column_header">Столбец дней: %1$s</string>
     <string name="mtrl_picker_end_date_description">End date %1$s</string>
     <string name="mtrl_picker_invalid_format">Invalid format.</string>
     <string name="mtrl_picker_invalid_format_example">Example: %1$s</string>
@@ -176,7 +176,7 @@
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Выбрать диапазон</string>
     <string name="mtrl_picker_range_header_unselected">Дата начала - Дата окончания</string>
-    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_save">Сохранить</string>
     <string name="mtrl_picker_start_date_description">Дата начала %1$s</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
@@ -235,9 +235,9 @@
     <string name="selected">Selected</string>
     <string name="sensors_analytics_ad_channel">当前为渠道包，无法使用联调诊断工具</string>
     <string name="sensors_analytics_ad_create_link_callback_missing">未设置回调对象</string>
-    <string name="sensors_analytics_ad_create_link_channel_name_missing">渠道名缺少</string>
+    <string name="sensors_analytics_ad_create_link_channel_name_missing">Отсутствует имя канала</string>
     <string name="sensors_analytics_ad_create_link_common_redirect_url_missing">通用跳转链接缺少</string>
-    <string name="sensors_analytics_ad_create_link_custom_url_error">自定义域名未填写或者格式不对</string>
+    <string name="sensors_analytics_ad_create_link_custom_url_error">Пользовательское доменное имя не заполнено или имеет неправильный формат</string>
     <string name="sensors_analytics_ad_create_link_no_network">没有检测到网络连接</string>
     <string name="sensors_analytics_ad_create_link_response_data_error">后端返回数据异常</string>
     <string name="sensors_analytics_ad_create_link_success">Slink успешно создан</string>
@@ -245,13 +245,13 @@
     <string name="sensors_analytics_ad_dialog_activate">Активировать</string>
     <string name="sensors_analytics_ad_dialog_cancel">Отмена</string>
     <string name="sensors_analytics_ad_dialog_content">此模式下不需要卸载 App，点击“激活”按钮可反复触发激活</string>
-    <string name="sensors_analytics_ad_dialog_ok">确定</string>
+    <string name="sensors_analytics_ad_dialog_ok">Ок</string>
     <string name="sensors_analytics_ad_dialog_starting">即将开启联调模式</string>
     <string name="sensors_analytics_ad_dialog_title">成功开启调试模式</string>
     <string name="sensors_analytics_ad_error_debug_fail_title">检测到 “设备码为空”，可能原因如下，请排查：</string>
     <string name="sensors_analytics_ad_error_network">当前网络不可用，请检查网络！</string>
     <string name="sensors_analytics_ad_error_project">App 集成的项目与电脑浏览器打开的项目不同，无法使用联调诊断工具</string>
-    <string name="sensors_analytics_ad_error_request">网络异常,请求失败!</string>
+    <string name="sensors_analytics_ad_error_request">Ошибка сети, запрос не прошел!</string>
     <string name="sensors_analytics_ad_error_retry">无法重连，请检查是否更换了联调手机</string>
     <string name="sensors_analytics_ad_error_url">数据接收地址错误，无法使用联调诊断工具</string>
     <string name="sensors_analytics_ad_listener">未调用 setDeepLinkCompletion 方法设置回调函数</string>
@@ -267,9 +267,9 @@
     <string name="sensors_analytics_carrier_tietong">中国铁通</string>
     <string name="sensors_analytics_carrier_unicom">中国联通</string>
     <string name="sensors_analytics_carrier_unknown">未知</string>
-    <string name="sensors_analytics_common_continue">继续</string>
+    <string name="sensors_analytics_common_continue">Продолжить</string>
     <string name="sensors_analytics_common_no">不再提示</string>
-    <string name="sensors_analytics_common_ok">确定</string>
+    <string name="sensors_analytics_common_ok">Ок</string>
     <string name="sensors_analytics_common_title">Подсказка</string>
     <string name="sensors_analytics_debug_and_track">开启调试模式（导入数据）</string>
     <string name="sensors_analytics_debug_name_default">调试模式已关闭</string>
@@ -283,7 +283,7 @@
     <string name="sensors_analytics_encrypt_key_null">密钥验证不通过，App 端密钥为空</string>
     <string name="sensors_analytics_encrypt_pass">Проверка ключа пройдена, выбранный ключ совпадает с ключом Приложения.</string>
     <string name="sensors_analytics_encrypt_verify_fail_version">Проверка ключа не удалась, выбранный ключ не совпадает с ключом приложения. Версия выбранного ключа: %1$s, версия ключа приложения: %2$s.</string>
-    <string name="sensors_analytics_heatmap">Щелкните Аналитика</string>
+    <string name="sensors_analytics_heatmap">Щелкнуть для анализа</string>
     <string name="sensors_analytics_heatmap_dialog_error">Элементы, встроенные в приложение, отличаются от элементов, открываемых в браузере компьютера, поэтому анализ кликов невозможен.</string>
     <string name="sensors_analytics_heatmap_mobile_name">Подключение к App Click analysis, рекомендуется использовать в среде WiFi.</string>
     <string name="sensors_analytics_heatmap_network_fail">Сетевой запрос был отключен, и App Click Analysis не может быть использован, пожалуйста, включите его и попробуйте снова!</string>
@@ -296,21 +296,21 @@
     <string name="sensors_analytics_remote_tip_error_network">Не удалось установить соединение, пожалуйста, проверьте сетевое устройство и подтвердите, что устройство работает нормально, повторно отсканируйте QR-код для отладки.</string>
     <string name="sensors_analytics_remote_tip_error_os">Приложение и QR-код имеют разные операционные системы и не могут быть отлажены.</string>
     <string name="sensors_analytics_remote_tip_error_qrcode">二维码信息校验失败，请检查采集控制是否配置正确</string>
-    <string name="sensors_analytics_remote_version_error">版本不一致</string>
-    <string name="sensors_analytics_remote_version_tip">获取到采集控制信息的版本：%1$s，二维码信息的版本：%2$s，请稍后重新扫描二维码</string>
+    <string name="sensors_analytics_remote_version_error">Несоответствующая версия</string>
+    <string name="sensors_analytics_remote_version_tip">Версия полученной контрольной информации: %1$s, версия информации QR-кода: %2$s, пожалуйста, отсканируйте QR-код позже!</string>
     <string name="sensors_analytics_visual">可视化全埋点</string>
     <string name="sensors_analytics_visual_appid_error">本地缓存的 AppId 或 Project 与当前项目不一致</string>
     <string name="sensors_analytics_visual_cache_error">本地缓存不包含该事件配置</string>
     <string name="sensors_analytics_visual_code_loading">开启中</string>
     <string name="sensors_analytics_visual_code_title">请输入神策分析页面上的配对码</string>
-    <string name="sensors_analytics_visual_config_error">获取配置</string>
+    <string name="sensors_analytics_visual_config_error">Получить конфигурацию</string>
     <string name="sensors_analytics_visual_event_error">事件配置</string>
-    <string name="sensors_analytics_visual_getProperty_error">获取属性元素</string>
+    <string name="sensors_analytics_visual_getProperty_error">Get Property Element</string>
     <string name="sensors_analytics_visual_mobile_name">正在连接 App 可视化全埋点，建议在 WiFi 环境下使用。</string>
     <string name="sensors_analytics_visual_network_fail">Сетевой запрос был отключен, и App Click Analysis не может быть использован, пожалуйста, включите его и попробуйте снова!</string>
     <string name="sensors_analytics_visual_other_error">其他错误</string>
-    <string name="sensors_analytics_visual_parseProperty_error">解析属性</string>
-    <string name="sensors_analytics_visual_property_switch_error">自定义属性运维配置开关关闭</string>
+    <string name="sensors_analytics_visual_parseProperty_error">Анализ свойств</string>
+    <string name="sensors_analytics_visual_property_switch_error">Отключение конфигурации пользовательского атрибута Ops</string>
     <string name="sensors_analytics_visual_regex_error">Анализ регулярного выражения атрибута %1$s не удался, содержание элемента %2$s, регулярное выражение %3$s, тип атрибута %4$s.</string>
     <string name="sensors_analytics_visual_sa_flutter_error">此页面未集成 Flutter 全埋点 SDK 或 Flutter 全埋点 SDK 版本过低，请集成最新版 Flutter 全埋点 SDK</string>
     <string name="sensors_analytics_visual_sa_h5">当前页面无法进行可视化全埋点</string>
@@ -329,7 +329,7 @@
     <string name="srl_footer_finish">加载更多成功</string>
     <string name="srl_footer_loading">正在加载更多</string>
     <string name="srl_footer_pulling">上拉加载更多</string>
-    <string name="srl_footer_refreshing">等待加载更多</string>
+    <string name="srl_footer_refreshing">Загрузить еще</string>
     <string name="srl_footer_release">释放加载更多</string>
     <string name="srl_header_failed">刷新失败</string>
     <string name="srl_header_finish">刷新成功</string>
@@ -354,7 +354,7 @@
     <string name="strUpgradeDialogContinueBtn">继续</string>
     <string name="strUpgradeDialogFeatureLabel">更新说明</string>
     <string name="strUpgradeDialogFileSizeLabel">包大小</string>
-    <string name="strUpgradeDialogInstallBtn">安装</string>
+    <string name="strUpgradeDialogInstallBtn">Установка</string>
     <string name="strUpgradeDialogRetryBtn">Повторить</string>
     <string name="strUpgradeDialogUpdateTimeLabel">更新时间</string>
     <string name="strUpgradeDialogUpgradeBtn">立即更新</string>
@@ -377,7 +377,7 @@
 \n推荐使用在线电话</string>
     <string name="voicemail">Voicemail</string>
     <string name="xpopup_image_not_exist">Image not exist</string>
-    <string name="xpopup_save">save</string>
+    <string name="xpopup_save">сохранить</string>
     <string name="xpopup_saved_fail">Image save failed</string>
     <string name="xpopup_saved_to_gallery">Saved to album</string>
     <string name="yesterday">昨天</string>
@@ -407,7 +407,7 @@
 \nНичего не показывает.</string>
     <string name="srl_content_empty">未添加任何布局</string>
     <string name="srl_footer_nothing">No More Data</string>
-    <string name="srl_header_loading">等待加载</string>
+    <string name="srl_header_loading">Загрузка</string>
     <string name="strNotificationClickToInstall">点击安装</string>
     <string name="strNotificationHaveNewVersion">有新版本</string>
     <string name="strToastYourAreTheLatestVersion">你已经是最新版了</string>
@@ -453,6 +453,6 @@
 \n + 3. Пожалуйста, свяжитесь с разработчиками для подтверждения, вызывается ли интерфейс trackInstallation после получения разрешения \"Телефон\".
 \n
 \n  + После выявления и устранения проблемы, пожалуйста, сначала удалите приложение и переустановите его, затем просканируйте QR-код для совместной отладки."</string>
-    <string name="sensors_analytics_ad_error_whitelist">添加白名单请求失败，请联系神策技术支持人员排查问题!</string>
+    <string name="sensors_analytics_ad_error_whitelist">Не удалось добавить запрос в белый список, пожалуйста, свяжитесь с представителями технической поддержки для устранения проблемы!</string>
     <string name="sure">Подтвердить</string>
 </resources>
