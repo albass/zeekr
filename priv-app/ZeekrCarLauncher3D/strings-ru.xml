@@ -96,4 +96,61 @@
     <string name="rest_passenger">Комфортный отдых пассажира</string>
     <string name="rest_driver">Отдых водителя</string>
     <string name="start">Открыть</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="cancel">Отмена</string>
+    <string name="copilot_seat">「Пассажирское сиденье」</string>
+    <string name="car_suspension_adjust">Регулировка подвески</string>
+    <string name="car_skin_data">Digital car skin</string>
+    <string name="main_driver_seat">「Место водителя」</string>
+    <string name="i_known">Принять</string>
+    <string name="enter_wash_mode">Вход в режим мойки</string>
+    <string name="neutral_gear_tip_title">Примечания к передаче N</string>
+    <string name="rest_driver_tips">Пожалуйста, будьте внимательны, так как при включении режима отдыха 「Место водителя」 будет отрегулировано.</string>
+    <string name="pet_remind_sub_title">Только для животных, не оставляйте детей одних в машине</string>
+    <string name="rest_mode">Режим отдыха</string>
+    <string name="pet_remind_know">Принять</string>
+    <string name="pet_remind_temperature_content">Климат-контроль поддерживает постоянную температуру, чтобы домашним животным было комфортно</string>
+    <string name="pet_remind_temperature_title">Поддержание температуры</string>
+    <string name="pet_remind_not_careful_content">Двери, окна, экраны автомобиля и голосовое взаимодействие отключены</string>
+    <string name="pet_remind_not_careful_title">Предотвращение случайного прикосновения</string>
+    <string name="pet_remind_not_airy_title">Обеспечьте вентиляцию</string>
+    <string name="pet_mode">Режим домашнего питомца</string>
+    <string name="pet_mode_remind">Режим домашнего питомца</string>
+    <string name="pet_remind_not_exception_title">Сбой защиты</string>
+    <string name="seat">Сиденье</string>
+    <string name="xpopup_image_not_exist">Image not exist</string>
+    <string name="xpopup_saved_fail">Image save failed</string>
+    <string name="xpopup_saved_to_gallery">Saved to album</string>
+    <string name="wash_mode">Режим мойки</string>
+    <string name="wash_exit_txt">Выход из режима мойки автомобиля отключает режим \"Комфортная парковка\" и восстанавливает все отключенные функции</string>
+    <string name="wash_car_outside_exit_title">Метод выхода из автомобиля</string>
+    <string name="wash_exit_title">Сообщение выйти</string>
+    <string name="wash_car_outside_exit_simple_txt">Разблокируйте автомобиль физическим ключом или ключом мобильного телефона (с подключением Bluetooth), и режим мойки завершится</string>
+    <string name="xpopup_save">сохранить</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="neutral_gear_tip_content">1. при использовании автомойки с конвейером, пожалуйста, сложите зеркала заднего вида и включите передачу N, не выходите из машины, передача будет переключена на P, когда вы выйдете из машины.
+\n2. Когда Autohold выключен, его можно переключить на передачу N.
+\n3. Если Autohold не выключен, сначала выключите Autohold, а затем переведите автомобиль в режим N.
+\nПримечание: Когда автомобиль находится на передаче P, автоблокировку можно выключить, отстегнув ремень безопасности водителя или глубоко нажав на педаль тормоза.</string>
+    <string name="wash_car_outside_exit_txt">1. Отоприте автомобиль с помощью физического ключа или ключа мобильного телефона (подключенного по Bluetooth), режим мойки будет выключен.
+\n2. В состоянии разблокировки нажмите и удерживайте переключатель электронного замка дверной ручки в течение 6 секунд, и режим автомойки выйдет из режима автомойки.</string>
+    <string name="app_name">CarLauncher3D</string>
+    <string name="game_view_content_description">game_view_content_description</string>
+    <string name="row_front_seat">「Передние сиденья」</string>
+    <string name="rest_mode_text">Пожалуйста, будьте внимательны, при включении режима отдыха водителя будут изменены настройки 「места водителя」.</string>
+    <string name="wash_mode_text">При включении режима мойки автомобиля включается режим \"Комфортная парковка\", кондиционер переходит на внутренний цикл, закрываются все окна, багажник и крышка зарядного порта; отключаются следующие функции: бесключевоой доступ, кнопка крышки зарядного порта, автоматический стеклоочиститель, сигнализация препятствий, приближение к разблокировке/отход от блокировки.
+\n
+\nПримечание: Если скорость автомобиля превышает 15 км/ч, он автоматически выйдет из режима автомойки.
+\n
+\nСоветы по автомойке: Пожалуйста, убедитесь, что заряд батареи составляет более 20% и не двигайте автомобиль, иначе режим автомойки выйдет автоматически после того, как водитель покинет автомобиль; для использования конвейерной автомойки, пожалуйста, сложите зеркала заднего вида и включите передачу N, пожалуйста, не покидайте автомобиль, передача переключится на P, как только вы выйдете.</string>
+    <string name="mode_switch_exit">Быстрый выход</string>
+    <string name="pet_remind_not_airy_content">Автоматически включается внешняя циркуляция воздуха, чтобы ваш питомец мог свободно дышать.</string>
+    <string name="rest_select_tips">Режим отдыха будет настрен на %1$, пожалуйста, будьте осторожны!</string>
+    <string name="pet_remind_not_exception_content">Уведомит владельца о разрядке батареи или выходе из режима домашнего питомца
+\nи автоматически открывает окна для проветривания</string>
+    <string name="car_suspension_disable">Включен режим домкрата, и регулировка подвески невозможна</string>
+    <string name="seat_adjustment_in_progress_please_waiting">Выполняется регулировка сиденья. Пожалуйста, подождите.</string>
 </resources>
