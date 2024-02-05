@@ -37,7 +37,7 @@
     <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
     <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
     <string name="bt_not_connect">蓝牙未连接</string>
-    <string name="btn_bt_connect">连接蓝牙</string>
+    <string name="btn_bt_connect">Подключить Bluetooth</string>
     <string name="btn_bt_phone">蓝牙电话</string>
     <string name="btn_online">在线</string>
     <string name="btn_online_phone">在线电话</string>
@@ -225,7 +225,7 @@
     <string name="private_calling">手机接听中</string>
     <string name="remove_all_favor_tips">是否清空所有收藏联系人？</string>
     <string name="remove_contact_favor_contact_tips">Вы уверены, что хотите отменить сбор %1$s (%2$s)?</string>
-    <string name="search">поиск</string>
+    <string name="search">Поиск...</string>
     <string name="search_count">搜索到%1$d个联系人</string>
     <string name="search_empty">未搜索到联系人</string>
     <string name="search_menu_title">Поиск</string>
