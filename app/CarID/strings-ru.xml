@@ -103,4 +103,9 @@
     <string name="provinces_19">Гуйлинь</string>
     <string name="provinces_4">Миншань</string>
     <string name="refresh">Обновить</string>
+    <string name="faceid_seting_agreement_name">Пользовательское соглашение</string>
+    <string name="BIND_ACCOUNT_FAIL">Ошибка привязки аккаунта</string>
+    <string name="VIN_REBIND">Перепривязать VIN</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="BIND_VIN_FAIL">Ошибка привязки VIN</string>
 </resources>
