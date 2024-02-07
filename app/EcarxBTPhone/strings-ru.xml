@@ -58,7 +58,7 @@
     <string name="character_counter_content_description">Введено символов %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Предел символов превысил %1$d из %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
-    <string name="close_drawer">Close navigation menu</string>
+    <string name="close_drawer">Закрыть меню навигации</string>
     <string name="company">公司</string>
     <string name="conference_call">电话会议</string>
     <string name="connect">подключение</string>
@@ -72,7 +72,7 @@
     <string name="contacts_sync_fail">同步失败，请检查手机是否开启联系人同步权限</string>
     <string name="contacts_unable_sync">无法同步</string>
     <string name="customization">Персонализация</string>
-    <string name="default_error_message">Invalid input</string>
+    <string name="default_error_message">Неверный Ввод</string>
     <string name="delete">删除</string>
     <string name="delete_all_favorite">已清空收藏</string>
     <string name="delete_all_favorites_fail">删除所有收藏没有成功</string>
@@ -103,7 +103,7 @@
     <string name="holding">等待中</string>
     <string name="home">家</string>
     <string name="icon_content_description">Знак диалога</string>
-    <string name="in_progress">In progress</string>
+    <string name="in_progress">В процессе</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="just_now">刚刚</string>
     <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
@@ -206,8 +206,8 @@
     <string name="not_dialing_call">暂无最近呼叫</string>
     <string name="not_incoming_call">暂无最近来电</string>
     <string name="not_selected">Not selected</string>
-    <string name="off">Off</string>
-    <string name="on">On</string>
+    <string name="off">ВЫКЛ</string>
+    <string name="on">ВКЛ</string>
     <string name="one">1</string>
     <string name="others">Другие</string>
     <string name="pager">寻呼机</string>
@@ -238,7 +238,7 @@
     <string name="sensors_analytics_ad_create_link_channel_name_missing">Отсутствует имя канала</string>
     <string name="sensors_analytics_ad_create_link_common_redirect_url_missing">通用跳转链接缺少</string>
     <string name="sensors_analytics_ad_create_link_custom_url_error">Пользовательское доменное имя не заполнено или имеет неправильный формат</string>
-    <string name="sensors_analytics_ad_create_link_no_network">没有检测到网络连接</string>
+    <string name="sensors_analytics_ad_create_link_no_network">Сетевое подключение не обнаружено</string>
     <string name="sensors_analytics_ad_create_link_response_data_error">后端返回数据异常</string>
     <string name="sensors_analytics_ad_create_link_success">Slink успешно создан</string>
     <string name="sensors_analytics_ad_create_link_token_missing">token отсутствует</string>
@@ -274,13 +274,13 @@
     <string name="sensors_analytics_debug_and_track">开启调试模式（导入数据）</string>
     <string name="sensors_analytics_debug_name_default">调试模式已关闭</string>
     <string name="sensors_analytics_debug_name_only">当前为调试模式（不导入数据）</string>
-    <string name="sensors_analytics_debug_name_track">当前为测试模式（导入数据）</string>
+    <string name="sensors_analytics_debug_name_track">В настоящее время находится в тестовом режиме (импортирует данные)</string>
     <string name="sensors_analytics_debug_only">开启调试模式（不导入数据）</string>
     <string name="sensors_analytics_debug_tip_only">开启调试模式，校验数据，但不进行数据导入；关闭 App 进程后，将自动关闭调试模式</string>
     <string name="sensors_analytics_debug_view_title">Выбор режима отладки SDK</string>
-    <string name="sensors_analytics_encrypt_disable">当前 App 未开启加密，请开启加密后再试</string>
+    <string name="sensors_analytics_encrypt_disable">Текущее приложение не зашифровано, пожалуйста, включите шифрование и повторите попытку.</string>
     <string name="sensors_analytics_encrypt_fail">密钥验证不通过，所选密钥无效</string>
-    <string name="sensors_analytics_encrypt_key_null">密钥验证不通过，App 端密钥为空</string>
+    <string name="sensors_analytics_encrypt_key_null">Проверка ключа не удалась, ключ App пуст.</string>
     <string name="sensors_analytics_encrypt_pass">Проверка ключа пройдена, выбранный ключ совпадает с ключом Приложения.</string>
     <string name="sensors_analytics_encrypt_verify_fail_version">Проверка ключа не удалась, выбранный ключ не совпадает с ключом приложения. Версия выбранного ключа: %1$s, версия ключа приложения: %2$s.</string>
     <string name="sensors_analytics_heatmap">Щелкнуть для анализа</string>
@@ -362,13 +362,13 @@
     <string name="sync">Синхронизировать</string>
     <string name="syncing">同步中</string>
     <string name="tab">Tab</string>
-    <string name="template_percent">%1$d percent.</string>
+    <string name="template_percent">%1$d процентов.</string>
     <string name="three">3</string>
     <string name="three_letters">DEF</string>
     <string name="tipkc2_btn_text">%1$s(%2$ds)</string>
     <string name="title_select_call_type">请选择拨打方式</string>
     <string name="today">今天</string>
-    <string name="two_letters">ABC</string>
+    <string name="two_letters">АБВ</string>
     <string name="unknown">Неизвестно</string>
     <string name="unknown_call">未知来电</string>
     <string name="unknown_number">未知号码</string>
@@ -455,4 +455,5 @@
 \n  + После выявления и устранения проблемы, пожалуйста, сначала удалите приложение и переустановите его, затем просканируйте QR-код для совместной отладки."</string>
     <string name="sensors_analytics_ad_error_whitelist">Не удалось добавить запрос в белый список, пожалуйста, свяжитесь с представителями технической поддержки для устранения проблемы!</string>
     <string name="sure">Подтвердить</string>
+    <string name="pound">#</string>
 </resources>
