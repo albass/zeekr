@@ -123,7 +123,7 @@
     <string name="sensors_analytics_ad_create_link_channel_name_missing">Отсутствует имя канала</string>
     <string name="sensors_analytics_ad_create_link_common_redirect_url_missing">通用跳转链接缺少</string>
     <string name="sensors_analytics_ad_create_link_custom_url_error">Пользовательское доменное имя не заполнено или имеет неправильный формат</string>
-    <string name="sensors_analytics_ad_create_link_no_network">没有检测到网络连接</string>
+    <string name="sensors_analytics_ad_create_link_no_network">Сетевое подключение не обнаружено</string>
     <string name="sensors_analytics_ad_create_link_success">Slink успешно создан</string>
     <string name="sensors_analytics_ad_create_link_template_id_missing">Идентификатор шаблона Slink не найден</string>
     <string name="sensors_analytics_ad_create_link_token_missing">token отсутствует</string>
@@ -158,13 +158,13 @@
     <string name="sensors_analytics_debug_and_track">开启调试模式（导入数据）</string>
     <string name="sensors_analytics_debug_name_default">调试模式已关闭</string>
     <string name="sensors_analytics_debug_name_only">当前为调试模式（不导入数据）</string>
-    <string name="sensors_analytics_debug_name_track">当前为测试模式（导入数据）</string>
+    <string name="sensors_analytics_debug_name_track">В настоящее время находится в тестовом режиме (импортирует данные)</string>
     <string name="sensors_analytics_debug_only">开启调试模式（不导入数据）</string>
     <string name="sensors_analytics_debug_tip_only">开启调试模式，校验数据，但不进行数据导入；关闭 App 进程后，将自动关闭调试模式</string>
     <string name="sensors_analytics_debug_view_title">Выбор режима отладки SDK</string>
-    <string name="sensors_analytics_encrypt_disable">当前 App 未开启加密，请开启加密后再试</string>
+    <string name="sensors_analytics_encrypt_disable">Текущее приложение не зашифровано, пожалуйста, включите шифрование и повторите попытку.</string>
     <string name="sensors_analytics_encrypt_fail">密钥验证不通过，所选密钥无效</string>
-    <string name="sensors_analytics_encrypt_key_null">密钥验证不通过，App 端密钥为空</string>
+    <string name="sensors_analytics_encrypt_key_null">Проверка ключа не удалась, ключ App пуст.</string>
     <string name="sensors_analytics_encrypt_pass">Проверка ключа пройдена, выбранный ключ совпадает с ключом Приложения.</string>
     <string name="sensors_analytics_encrypt_verify_fail_version">Проверка ключа не удалась, выбранный ключ не совпадает с ключом приложения. Версия выбранного ключа: %1$s, версия ключа приложения: %2$s.</string>
     <string name="sensors_analytics_heatmap">Щелкнуть для анализа</string>
