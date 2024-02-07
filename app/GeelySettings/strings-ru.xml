@@ -1069,7 +1069,7 @@
     <string name="lighting_ext_light_func">настройки света</string>
     <string name="lighting_home_safety_light_option">сопровождать домой</string>
     <string name="lighting_lig_row">Задние габаритные огни</string>
-    <string name="lighting_light_mode_breathe">дышащее</string>
+    <string name="lighting_light_mode_breathe">дышать</string>
     <string name="lighting_light_mode_driving_mode">режим вождения</string>
     <string name="lighting_light_mode_monochrome">монохромный</string>
     <string name="lighting_light_mode_gradation">градиент</string>
