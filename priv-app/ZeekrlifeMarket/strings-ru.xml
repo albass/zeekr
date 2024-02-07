@@ -262,4 +262,9 @@
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
     <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="sensors_analytics_ad_create_link_no_network">Сетевое подключение не обнаружено</string>
+    <string name="sensors_analytics_encrypt_key_null">Проверка ключа не удалась, ключ App пуст.</string>
+    <string name="sensors_analytics_encrypt_disable">Текущее приложение не зашифровано, пожалуйста, включите шифрование и повторите попытку.</string>
+    <string name="sensors_analytics_debug_name_track">В настоящее время находится в тестовом режиме (импортирует данные)</string>
+    <string name="sensors_analytics_carrier2">{\"45411\":\"China-HongKong Telecom Ltd (CHKTL)\",\"45412\":\"China Mobile/Peoples\",\"45413\":\"China Mobile/Peoples\",\"45407\":\"China Unicom Ltd\",\"45409\":\"China Motion\",\"45502\":\"China Telecom\",\"45428\":\"China Mobile/Peoples\"}</string>
 </resources>
