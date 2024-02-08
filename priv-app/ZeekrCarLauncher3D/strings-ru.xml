@@ -121,8 +121,8 @@
     <string name="pet_mode_remind">Режим домашнего питомца</string>
     <string name="pet_remind_not_exception_title">Сбой защиты</string>
     <string name="seat">Сиденье</string>
-    <string name="xpopup_image_not_exist">Image not exist</string>
-    <string name="xpopup_saved_fail">Image save failed</string>
+    <string name="xpopup_image_not_exist">Изображения нет</string>
+    <string name="xpopup_saved_fail">Ошбика сохнранить изображение</string>
     <string name="xpopup_saved_to_gallery">Saved to album</string>
     <string name="wash_mode">Режим мойки</string>
     <string name="wash_exit_txt">Выход из режима мойки автомобиля отключает режим \"Комфортная парковка\" и восстанавливает все отключенные функции</string>
