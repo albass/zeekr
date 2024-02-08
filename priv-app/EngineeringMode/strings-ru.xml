@@ -38,7 +38,7 @@
     <string name="eol_main_title">EOL Test</string>
     <string name="test_status">EOL test in progress...</string>
     <string name="test_item">EOL Test Project</string>
-    <string name="error">Fail</string>
+    <string name="error">Ошибка</string>
     <string name="usb_mode_title">Host mode now</string>
     <string name="main_camera">Main Camera</string>
     <string name="mode_switch_title">Mode switch</string>
