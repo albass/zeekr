@@ -11,9 +11,9 @@
     <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="mtrl_picker_text_input_month_abbr">м</string>
     <string name="mtrl_picker_text_input_year_abbr">г</string>
-    <string name="xpopup_image_not_exist">Image not exist</string>
+    <string name="xpopup_image_not_exist">Изображения нет</string>
     <string name="xpopup_save">сохранить</string>
-    <string name="xpopup_saved_fail">Image save failed</string>
+    <string name="xpopup_saved_fail">Ошбика сохнранить изображение</string>
     <string name="xpopup_saved_to_gallery">Saved to album</string>
     <string name="upload_close">Закрыть</string>
     <string name="common_touch_handle_1">Одна дверь</string>
