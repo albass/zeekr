@@ -313,4 +313,6 @@
     <string name="sensors_analytics_debug_tip_track">Включить режим отладки, проверить данные и импортировать их в Sensors Analytics; режим отладки будет автоматически отключен после закрытия процесса приложения</string>
     <string name="setting_check_update">Проверка новых версий</string>
     <string name="sensors_analytics_ad_dialog_content">В этом режиме не нужно удалять приложение, нажмите кнопку \"Активировать\", чтобы запустить активацию повторно.</string>
+    <string name="task_state_install_progress_default_toast">Приложение устанавливается, пожалуйста, подождите</string>
+    <string name="brvah_load_failed">Сбой загрузки, пожалуйста, повторите попытку</string>
 </resources>
