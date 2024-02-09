@@ -521,4 +521,10 @@
     <string name="setting_change_face_button">Изменить</string>
     <string name="usercenter_use">Пожалуйста, используйте</string>
     <string name="user_third_auth_deauth_dialog_negative_text">Отмена</string>
+    <string name="loading">Загрузка...</string>
+    <string name="string_associated_confirm_bind_dialog_gaode_bind">《Соглашение привязки счета Gaode》</string>
+    <string name="string_associated_confirm_bind_dialog_gaode_proxy">《соглашение о конфиденциальности Gaode》</string>
+    <string name="third_name_leishiktv">Leishi KTV</string>
+    <string name="string_associated_confirm_proxy">《Пользовательское соглашение обслуживания》</string>
+    <string name="third_name_gaode">Gaode</string>
 </resources>
