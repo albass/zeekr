@@ -121,4 +121,22 @@
     <string name="service_auth_cancel">Отмена</string>
     <string name="pleatcolo_blue">Синий</string>
     <string name="dialog_cancle">Отмена</string>
+    <string name="abc_font_family_subhead_material">sans-serif-light</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="loading">Загрузка...</string>
+    <string name="loading_ing">Загрузка...</string>
+    <string name="login_qr_loading">Загрузка...</string>
+    <string name="login_qr_loading2">Загрузка</string>
+    <string name="my_loading">Загрузка...</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="hotel_schedule_des">Отель подтвердил, что номер зарезервирован для вас до %1$s. Рекомендуется связаться с отелем заранее, чтобы подтвердить наличие свободных номеров, если время вашего прибытия уже истекло.</string>
 </resources>
