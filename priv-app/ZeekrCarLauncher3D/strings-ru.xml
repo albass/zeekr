@@ -17,7 +17,7 @@
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="zeekr_show_psw">Показать пароль</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Новых уведомлений более %1$d</string>
-    <string name="zeekr_loading">загрузка..</string>
+    <string name="zeekr_loading">Загрузка..</string>
     <string name="abc_searchview_description_voice">голосовой поиск</string>
     <string name="abc_action_bar_home_description">Домой</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
