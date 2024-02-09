@@ -36,7 +36,7 @@
     <string name="common_zeekrad_reveal_2">сигнал</string>
     <string name="common_car_locator_type_1">миналка и сирена</string>
     <string name="common_alpha_info">Zeelr 001, первое издание, начинается с нуля и разрушает границы. Спасибо всем клиентам Z за доверие и поддержку, мы продолжим усердно работать, чтобы подарить вам новые впечатления от путешествий на электромобилях.</string>
-    <string name="common_charging_speed_range_unit_kw">kWh</string>
+    <string name="common_charging_speed_range_unit_kw">кВч</string>
     <string name="zeekrad_offset_unit_0">км/ч</string>
     <string name="energy_trip_data_unit_min">мин</string>
     <string name="seat_optimisation_cs1e_2">пассажир</string>
@@ -72,7 +72,7 @@
     <string name="common_btn_more_devices">Посмотреть больше сетей</string>
     <string name="ota_os_version">Версия системы автомобиля</string>
     <string name="abc_menu_function_shortcut_label">Fn+</string>
-    <string name="common_auto_hold">Auto hold</string>
+    <string name="common_auto_hold">Автоудержание</string>
     <string name="charging_speed_unit_km">км/ч</string>
     <string name="charging_speed_range_unit_mile">миль/ч</string>
     <string name="common_auto_open_aidrive">Включено по умолчанию после включения</string>
@@ -165,7 +165,7 @@
     <string name="driving_one_pedal_title">Описание функции одной педали:</string>
     <string name="drive_mode_bz_one">Стандартный</string>
     <string name="driving_tire_pressure_pressure_unit_bar">bar</string>
-    <string name="driving_tire_pressure_pressure_unit_kpa">kPa</string>
+    <string name="driving_tire_pressure_pressure_unit_kpa">кПа</string>
     <string name="driving_tire_pressure_pressure_unit_psi">psi</string>
     <string name="driving_tire_pressure_temperature_unit_c">℃</string>
     <string name="driving_tire_pressure_temperature_unit_f">℉</string>
@@ -175,7 +175,7 @@
     <string name="energy_charging_current_max">64</string>
     <string name="energy_charging_voltage_unit">V</string>
     <string name="energy_charging_hour_unit">ч</string>
-    <string name="energy_charging_speed_range_unit_kw">kWh</string>
+    <string name="energy_charging_speed_range_unit_kw">кВч</string>
     <string name="energy_charging_current_range_unit_km">км</string>
     <string name="energy_charging_speed_unit">км/ч</string>
     <string name="energy_charging_speed_unit_km">км/ч</string>
@@ -190,8 +190,8 @@
     <string name="energy_trip_consumption_history_tabs_10km">10км</string>
     <string name="energy_more_than_24">&gt;24</string>
     <string name="energy_trip_data_unit_h">ч</string>
-    <string name="energy_trip_data_unit_kwh">kWh</string>
-    <string name="energy_trip_consumption_history_kwh_100km">kWh/100км</string>
+    <string name="energy_trip_data_unit_kwh">кВч</string>
+    <string name="energy_trip_consumption_history_kwh_100km">кВч/100км</string>
     <string name="energy_trip_data_unit_km">км</string>
     <string name="energy_trip_data_unit_kmh">км/ч</string>
     <string name="energy_trip_data_subtitle">Различные данные об этой поездке</string>
@@ -287,7 +287,7 @@
     <string name="common_list_item_h_hxt">HXT™</string>
     <string name="common_rest_location_toast">Положение сиденья в режиме отдыха обновлено.</string>
     <string name="common_regeneration_level_2">Высокий</string>
-    <string name="energy_first_charge_full">Предел зарядки</string>
+    <string name="energy_first_charge_full">Приоритетная зарядка</string>
     <string name="common_wifi_connect_error_ip_fail">Не удалось получить IP</string>
     <string name="common_home_safety_light_option">Сопровождение домой</string>
     <string name="display_language">Язык</string>
@@ -319,7 +319,7 @@
     <string name="lighting_light_seat_position_1">Задняя зона</string>
     <string name="driving_widget_tire_pressure_result_ok_tip">Оптимальное давление в шинах снижает потребление энергии и износ шин,
 \nулучшает управляемость</string>
-    <string name="tab_seat_massage_program_2">Освежающий</string>
+    <string name="tab_seat_massage_program_2">Обновить</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Новых уведомлений более %1$d</string>
     <string name="sound_common_reverse_suppressor_tip">Громкость мультимедиа автоматически уменьшается в режиме Движения назад</string>
     <string name="ota_night_auto_upgrade_tip3">Когда появится новая версия, она будет автоматически установлена в 02:00 ночи. Вы не сможете управлять автомобилем, использовать сенсорный экран или заряжать автомобиль во время процесса обновления.</string>
@@ -334,7 +334,7 @@
     <string name="adas_sensitivity_sensitivity_level_low_middle_high_2">ВЫСОКИЙ</string>
     <string name="common_equalizer_presets_3">Джаз</string>
     <string name="adas_sensitivity_sensitivity_level_low_middle_high_0">НИЗКИЙ</string>
-    <string name="common_door_manual_helps_0">Левый</string>
+    <string name="common_door_manual_helps_0">Легкий</string>
     <string name="adas_sensitivity_sensitivity_level_low_middle_high_1">СРЕДНИЙ</string>
     <string name="soundnotify_sound_notification_2">Уведомления</string>
     <string name="adas_remind_type_display_and_buzzing_with_off_0">ВЫКЛ</string>
@@ -1080,7 +1080,7 @@
     <string name="ota_night_auto_upgrade">Автообновление ночью</string>
     <string name="ota_night_auto_open">ВКЛ</string>
     <string name="ota_night_auto_cancel">Отмена</string>
-    <string name="ota_loading">загрузка...</string>
+    <string name="ota_loading">Загрузка...</string>
     <string name="ota_i_know">принять</string>
     <string name="ota_had_new_version_to_upgrade">У вас есть новая версия для обновления</string>
     <string name="ota_confirm">Подтвердить</string>
@@ -1144,7 +1144,7 @@
     <string name="upload_sure">Ок</string>
     <string name="zeekr_back">назад</string>
     <string name="zeekr_cancel">Отмена</string>
-    <string name="zeekr_loading">загрузка..</string>
+    <string name="zeekr_loading">Загрузка..</string>
     <string name="zeekr_ok">Ок</string>
     <string name="common_give_lane_info">После смены полосы движения для обгона на обозначенном участке дороги, если позволяют условия, вы можете снова автоматически перестроиться, чтобы уступить дорогу полосе обгона.</string>
     <string name="adas_automatic_activation_describe_dc">При положении передачи D или R, функция АА (Асистент Автопарковки) включается.</string>
