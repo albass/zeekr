@@ -312,4 +312,325 @@
     <string name="bluetooth_no_artist">No artist</string>
     <string name="pip_menu_title">Меню</string>
     <string name="uninstall">Удаление</string>
+    <string name="pip_play">Играть</string>
+    <string name="all_apps">Все приложения</string>
+    <string name="accessibility_action_divider_bottom_full">Внизу на весь экран</string>
+    <string name="accessibility_bubble_dismissed">Пузырь отменен.</string>
+    <string name="accessibility_action_stop_one_handed">Выход из режима \"одной ногой\".</string>
+    <string name="accessibility_action_divider_left_30">Осталось 30%</string>
+    <string name="accessibility_action_divider_left_50">Осталось 50%</string>
+    <string name="accessibility_action_divider_left_70">Осталось 70%</string>
+    <string name="accessibility_action_divider_left_full">Слева во весь экран</string>
+    <string name="adjust_rear_mirror">Регулировка зеркал заднего вида</string>
+    <string name="accessibility_action_divider_right_full">Справа на весь экран</string>
+    <string name="accessibility_action_pip_stash">Тайник</string>
+    <string name="accessibility_action_divider_top_30">Топ 30%</string>
+    <string name="accessibility_action_divider_top_50">Топ 50%</string>
+    <string name="accessibility_action_divider_top_70">Топ 70%</string>
+    <string name="accessibility_action_divider_top_full">Вверху во весь экран</string>
+    <string name="accessibility_action_pip_unstash">Разблокировать</string>
+    <string name="accessibility_describe">Сервис доступа к launcher-у</string>
+    <string name="adapter_api_debug_open_tip">Режим отладки промежуточного ПО</string>
+    <string name="aiqilisten">Aiqilisten</string>
+    <string name="banner_adapter_null_error">Адаптер пуст! Пожалуйста, проверьте параметры</string>
+    <string name="atmosphere_light">Лампа освещения</string>
+    <string name="auto_hold">Автоудержание</string>
+    <string name="apa">Ассистент автопарковки</string>
+    <string name="apps_edit_cancel">Отмена</string>
+    <string name="app_title">Car Launcher</string>
+    <string name="apps_card_title">Общие программы</string>
+    <string name="bubble_dismiss_text">Выбросить пузырь</string>
+    <string name="apps_edit_finish">Закончить</string>
+    <string name="apps_all_title">Больше приложений</string>
+    <string name="bubble_accessibility_action_move_bottom_left">Переместить вниз влево</string>
+    <string name="bubble_accessibility_action_move_top_left">Переместить вверх влево</string>
+    <string name="bubble_accessibility_action_move_top_right">Переместить вверх вправо</string>
+    <string name="bt_app_name">Музыка по Bluetooth</string>
+    <string name="bluetoothmusic">Музыка по Bluetooth</string>
+    <string name="bubble_overflow_empty_title">Нет недавних пузырей</string>
+    <string name="bubble_overflow_button_content_description">Переполненный</string>
+    <string name="back_row_cinema">Режим кинотеатра сзади</string>
+    <string name="back_row_meeting">Режим встречи сзади</string>
+    <string name="back_row_rest">Режим отдыха сзади</string>
+    <string name="bubble_overflow_empty_subtitle">Здесь отображаются последние и удаленные пузырьки</string>
+    <string name="apps_edit_group_recent_label">Недавно использованный</string>
+    <string name="app_name">ZeekrMediaWidget</string>
+    <string name="args_full_url">full_url</string>
+    <string name="aqt_app_name_2">Aiqilisten</string>
+    <string name="app_is_installing">Приложение устанавливается, пожалуйста, подождите</string>
+    <string name="bilibili_app_name">Bilibili</string>
+    <string name="bluetooth_no_play">Нет песен</string>
+    <string name="charge_estimate_24_day">&lt;span color=#99383A3D font-size=22px&gt;Оставшееся время&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#383A3D font-size=48px style=Bold&gt;&gt;24&lt;/span &gt; &lt;span color=#99383A3D font-size=24px&gt;h&lt;/span &gt;</string>
+    <string name="charge_estimate_no_hour">&lt;span color=#99B4B9BE font-size=22px&gt;Оставшееся время&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#B4B9BE font-size=48px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#99B4B9BE font-size=24px&gt;min&lt;/span &gt;</string>
+    <string name="charge_estimate_24">&lt;span color=#99B4B9BE font-size=22px&gt;Оставшееся время&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#B4B9BE font-size=48px style=Bold&gt;&gt;24&lt;/span &gt; &lt;span color=#99B4B9BE font-size=24px&gt;h&lt;/span &gt;</string>
+    <string name="charge_fully">Почти полная</string>
+    <string name="business_voice_disabled">Деловая голосовая связь отключена</string>
+    <string name="cancel">Отмена</string>
+    <string name="central_lock">Центральный замок</string>
+    <string name="charge_charge_error_big_tips">Ошибка зарядки, пожалуйста, своевременно проверьте!</string>
+    <string name="charge_plug_connect_ac">Подключен штекер для зарядки (АС)</string>
+    <string name="bubbles_user_education_title">Общайтесь с помощью пузырьков</string>
+    <string name="bubbles_user_education_manage_title">Управляйте пузырями в любое время</string>
+    <string name="bubbles_dont_bubble_conversation">Не раздувайте разговор</string>
+    <string name="charge_daily">Ежедневно</string>
+    <string name="bubbles_user_education_got_it">Понятно</string>
+    <string name="charge_next_day">Следующий день</string>
+    <string name="card_energy_chart_desc">Динамика потребления энергии за последнее время</string>
+    <string name="charge_charging_limit">заряжать до предела</string>
+    <string name="card_kwh_unit">кВч/100км</string>
+    <string name="charge_charging_full">Приоритетная зарядка</string>
+    <string name="charge_pre_time_full_day">" &lt;span color=#99383A3D font-size=22px&gt;Зарядка по расписанию&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#383A3D font-size=18px&gt;ежедневно&lt;/span &gt; &lt;span color=#383A3D font-size=32px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#383A3D font-size=28px style=Bold&gt;Приоритетно полный заряд&lt;/span &gt;"</string>
+    <string name="charge_pre_time">" &lt;span color=#99B4B9BE font-size=22px&gt;Зарядка по расписанию&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#B4B9BE font-size=18px&gt;ежедневно&lt;/span &gt; &lt;span color=#B4B9BE font-size=32px style=Bold&gt;%1$s&lt;/span &gt;"</string>
+    <string name="charge_pre_time_full">" &lt;span color=#99B4B9BE font-size=22px&gt;Зарядка по расписанию&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#B4B9BE font-size=18px&gt;ежедневно&lt;/span &gt; &lt;span color=#B4B9BE font-size=32px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#B4B9BE font-size=28px style=Bold&gt;Приоритетно полностью зарядить&lt;/span &gt;"</string>
+    <string name="charge_pre_time_limit">" &lt;span color=#99B4B9BE font-size=22px&gt;Зарядка по расписанию&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#B4B9BE font-size=18px&gt;ежедневно&lt;/span &gt; &lt;span color=#B4B9BE font-size=32px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#B4B9BE font-size=28px style=Bold&gt;Зарядить до максимума&lt;/span &gt;"</string>
+    <string name="charge_power_supply_capacity_all_day">&lt;span color=#99383A3D font-size=22px&gt;Статистика потребления энергии&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#383A3D font-size=48px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#99383A3D font-size=24px&gt;kWh&lt;/span &gt;</string>
+    <string name="charge_power_supply_capacity">&lt;span color=#99B4B9BE font-size=22px&gt;Объем поданной электроэнергии&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#B4B9BE font-size=48px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#99B4B9BE font-size=24px&gt;kWh&lt;/span &gt;</string>
+    <string name="charge_plug_no_double_tips">Неправильное подключение зарядного штекера, пожалуйста, убедитесь в этом!</string>
+    <string name="charge_status_preheating">Регулировка температуры батареи в процессе</string>
+    <string name="charge_status_charging">Заряжается</string>
+    <string name="charge_status_charging_fault">Ошибка зарядки</string>
+    <string name="charge_plug_connect_tips">Зарядный штекер подключен, пожалуйста, сохраняйте спокойствие</string>
+    <string name="charge_plug_connect_dc">Подключен штекер для зарядки (DC)</string>
+    <string name="charging_cap">Крышка порта зарядки</string>
+    <string name="charge_plug_connect_fault">Ошибка соединения</string>
+    <string name="charge_plug_connect_fault_tips">Ошибка соединения, пожалуйста, проверьте!</string>
+    <string name="charge_status_discharging_done">Окончание подачи питания</string>
+    <string name="charge_status_discharging">Внешний источник питания</string>
+    <string name="charge_status_super_fast_charging">Быстрая зарядка</string>
+    <string name="charge_status_battery_fault">Ошибка высоковольтной батареи</string>
+    <string name="charge_status_discharging_fault">Отказ источника питания</string>
+    <string name="charge_status_booking">Планирование</string>
+    <string name="climate_light">Всепогодное освещение</string>
+    <string name="forced_resizable_secondary_display">Приложение может не работать на дополнительном дисплее.</string>
+    <string name="dock_forced_resizable">Приложение может не работать с разделенным экраном.</string>
+    <string name="driver_massage">Массаж водителя</string>
+    <string name="done">Закончить</string>
+    <string name="day_friday">Пятница</string>
+    <string name="copilot_massage">Массаж сидения переднего пассажира</string>
+    <string name="customize_scenario_to_create">Перейти к созданию</string>
+    <string name="favoriteslist">Список избранных</string>
+    <string name="child_lock_left">Левый детский замок</string>
+    <string name="day_monday">Понедельник</string>
+    <string name="driver_rest">Отдых для водителя</string>
+    <string name="copilot_rest">Отдых для переднего пассажира одним кликом</string>
+    <string name="customize_scenario_to_login">Пожалуйста, сначала войдите в аккаунт</string>
+    <string name="fold_rear_mirror">Зеркала заднего вида складываются</string>
+    <string name="child_lock_right">Правый детский замок</string>
+    <string name="day_saturday">Суббота</string>
+    <string name="config_recentsComponentName">com.android.launcher3/com.android.quickstep.RecentsActivity</string>
+    <string name="day_tuesday">Вторник</string>
+    <string name="edit_at_most">Можно добавить до 5 функций. Пожалуйста, удалите их перед добавлением.</string>
+    <string name="day_wednesday">Среда</string>
+    <string name="close_card">Закрыть карту</string>
+    <string name="download_pending">Подготовка к загрузке…</string>
+    <string name="customize_scenario_to_add">Добавить</string>
+    <string name="download_paused">Приостановлено</string>
+    <string name="fm_app_name">Радио</string>
+    <string name="glove_box">Бардачок</string>
+    <string name="hicar_app_name">HUAWEI HiCar</string>
+    <string name="hud">Настройка HUD</string>
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+    <string name="hello_second_fragment">Приветственный второй фрагмент. Арг: %1$s</string>
+    <string name="launch_control">Контроль запуска</string>
+    <string name="left_switch_disabled">Левый выключатель отключен</string>
+    <string name="manage_bubbles_text">Управлять</string>
+    <string name="left_opposite_door">Противоположные двери с левой стороны</string>
+    <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0, 0, 0, 1)</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0, 0, 0.2, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1)</string>
+    <string name="install_progress">Установка…</string>
+    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0, 0, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0, 0.8, 0.2)</string>
+    <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0, 1, 1)</string>
+    <string name="mask_card_tyre_title">-Давление Шин</string>
+    <string name="m3_sys_motion_easing_legacy">cubic-bezier(0.4, 0, 0.2, 1)</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0, 1, 1)</string>
+    <string name="mask_card_energy_title">-Энергопотребление</string>
+    <string name="m3_ref_typeface_brand_regular">sans-serif</string>
+    <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+    <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
+    <string name="mask_card_trip_title">·Путь 1</string>
+    <string name="media_leishi_title">Давайте споем вместе</string>
+    <string name="media_video_none_title">Давайте посмотрим сериал вместе</string>
+    <string name="media_to_migu_video">Перейти к Migu Video</string>
+    <string name="media_gallery_subtitle">Перейти в галерею</string>
+    <string name="media_dln_play_stoped">Проецировать экран</string>
+    <string name="media_to_iqiyi_video">Перейти в iQiyi</string>
+    <string name="media_to_leishi_ktv">Перейти в Leishi KTV</string>
+    <string name="media_loading">Загрузка...</string>
+    <string name="media_data_exception">Сбой загрузки</string>
+    <string name="media_gallery_title">Просмотр галереи</string>
+    <string name="media_resume_play">Возобновить воспроизведение</string>
+    <string name="media_dln_playing">Транслирование…</string>
+    <string name="media_recommend_radio">Рекомендуемые станции</string>
+    <string name="media_list_empty_recommend">Нет рекомендаций</string>
+    <string name="media_no_lrc_label">Текст отсутствует</string>
+    <string name="notification_bubble_title">Пузырь</string>
+    <string name="pip_phone_close">Закрыть</string>
+    <string name="pip_close">Закрыть PIP</string>
+    <string name="parking_comfort">Комфортная парковка</string>
+    <string name="pip_phone_dismiss_hint">Перетащите вниз, чтобы убрать</string>
+    <string name="pip_phone_enter_split">Вход в разделенный экран</string>
+    <string name="pip_phone_expand">Развернуть</string>
+    <string name="pip_phone_minimize">Свернуть</string>
+    <string name="next">Далее</string>
+    <string name="no_data_to_add">Сценарий пока не добавлен</string>
+    <string name="one_click_breath">Вентиляция в один клик</string>
+    <string name="one_click_close_door">Закрытие двери одним кликом</string>
+    <string name="one_click_drift">Дрифт в один клик</string>
+    <string name="open_window">Открытие окон одним кликом</string>
+    <string name="pip_pause">Пауза</string>
+    <string name="notification_channel_tv_pip">Картинка в Картинке</string>
+    <string name="one_handed_tutorial_title">Использование режима \"одной ноги\"</string>
+    <string name="onlineradio_app_name">Музыка</string>
+    <string name="no_connect_bluetooth">В настоящее время ни одно устройство Bluetooth не подключено</string>
+    <string name="open_card">Открыть карту</string>
+    <string name="open_car3d">Открыть модель автомобиля</string>
+    <string name="music_no_lyric_keyword1">Текста нет</string>
+    <string name="music_no_lyric_keyword3">Текст песен на данный момент не поддерживается</string>
+    <string name="netease_version_low_empty_recommend">Нет рекомендаций
+\nПожалуйста, перейдите в Центр приложений, чтобы обновить ваше приложение</string>
+    <string name="no_recent_apps">Используется редко</string>
+    <string name="prompt_launch_control_accept">Согласиться и войти</string>
+    <string name="rear_charging_cap">Крышка порта зарядки</string>
+    <string name="prompt_drift_error_tips">Убедитесь, что соблюдены следующие условия, и повторите попытку 
+\n 1. SOC &gt;20% 
+\n 2. Передача D включена 
+\n 3. Водитель и все пассажиры пристегнуты ремнями безопасности 
+\n 4. Система привода, система ESC, система рулевого управления, система давления в шинах и система терморегулирования в норме 
+\n 5. Спортивный режим успешно переключен 
+\n</string>
+    <string name="prompt_drift_i_know">Понятно</string>
+    <string name="prompt_drift_error_title">Дрифт в один клик не может быть включен</string>
+    <string name="position_light">Позиционная лампа</string>
+    <string name="previous">Предыдущий</string>
+    <string name="qq_app_name">QQ Music</string>
+    <string name="racing_mode">Режим гонки</string>
+    <string name="rear_fog_lamps">Задний противотуманный фонарь</string>
+    <string name="prompt_launch_control_disable_tips">Режим дрифта включен, запуск катапульты в данный момент недоступен.</string>
+    <string name="prompt_drift_title">Инструкция по эксплуатации дрифта в один клик</string>
+    <string name="prompt_launch_control_title">Уведомление пользователя о режиме \"Пуск\"</string>
+    <string name="prompt_drift_disable_tips">Запуск катапульты включен, функция дрифта в данный момент недоступна</string>
+    <string name="radio">Радио</string>
+    <string name="scenario_customize_auto_title">Сценарий автоматизации</string>
+    <string name="scenario_customize_edit_cancel">Отмена</string>
+    <string name="scenario_customize_edit_finish">Закончить</string>
+    <string name="scarp_cruised">Контроль спуска с горы</string>
+    <string name="scenario_customize_manual_title">Руководство по сценариям</string>
+    <string name="right_switch_disabled">Правый выключатель отключен</string>
+    <string name="right_window_lock">Блокировка правого окна</string>
+    <string name="second_fragment_label">Второй фрагмент</string>
+    <string name="scenario_customize_card_title">Мастерская сценариев</string>
+    <string name="weather_net_unavailable">Ошибка сети, попробуйте еще раз</string>
+    <string name="weather_aqs">Качество воздуха：</string>
+    <string name="weather_altitude">Высота:</string>
+    <string name="weather_failed">Не удалось загрузить, нет данных о погоде</string>
+    <string name="weather_loading">Загрузка...</string>
+    <string name="trunk">Багажник</string>
+    <string name="usb_app_name_2">USB</string>
+    <string name="usb_app_name_1">USB Музыка</string>
+    <string name="usbmusic">USB Музыка</string>
+    <string name="udisk_connected">USB Музыка - Мой USB</string>
+    <string name="udisk_no_connect">Музыка USB - не подключена</string>
+    <string name="tire_pressure_pressure_unit_bar">bar</string>
+    <string name="tire_pressure_pressure_unit_psi">psi</string>
+    <string name="switch_car3d">Включить 3D-модель автомобиля</string>
+    <string name="to_media_name">Перейти</string>
+    <string name="to_bilibili">Перейти в Bililbili</string>
+    <string name="to_qq_music">Перейти в QQ Music</string>
+    <string name="to_netease">Перейти в Netflix</string>
+    <string name="to_connect_bluetooth">Перейти к подключению</string>
+    <string name="uninstall_failure">Не удалось удалить</string>
+    <string name="trips_avg_energy">Среднее потребление энергии</string>
+    <string name="weather_uvi">Ультрафиолет:</string>
+    <string name="widget_drive_score_kwh">кВч</string>
+    <string name="widget_drive_score_km">км</string>
+    <string name="widget_drive_score_min">мин</string>
+    <string name="netease_version_low_empty_list">Нет списка
+\nПожалуйста, перейдите в Центр приложений, чтобы обновить ваше приложение</string>
+    <string name="charge_estimate_day">" &lt;span color=#99383A3D font-size=22px&gt;Оставшееся время&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#383A3D font-size=48px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#99383A3D font-size=24px&gt;h&lt;/span &gt; &lt;span color=#383A3D font-size=48px style=Bold&gt;%2$s&lt;/span &gt; &lt;span color=#99383A3D font-size=24px&gt;min&lt;/span &gt; "</string>
+    <string name="charge_estimate_no_hour_day">" &lt;span color=#99383A3D font-size=22px&gt;Оставшееся время&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#383A3D font-size=48px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#99383A3D font-size=24px&gt;min&lt;/span &gt; "</string>
+    <string name="charge_pre_time_day">" &lt;span color=#99383A3D font-size=22px&gt;Зарядка по записи&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#383A3D font-size=18px&gt;ежедневно&lt;/span &gt; &lt;span color=#383A3D font-size=32px style=Bold&gt;%1$s&lt;/span &gt;"</string>
+    <string name="charge_pre_time_next_day">" &lt;span color=#99383A3D font-size=22px&gt;Зарядка по расписанию&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#383A3D font-size=18px&gt;ежедневно&lt;/span &gt; &lt;span color=#383A3D font-size=32px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#383A3D font-size=18px&gt;следующий&lt;/span &gt; &lt;span color=#383A3D font-size=32px style=Bold&gt;%2$s&lt;/span &gt;"</string>
+    <string name="charge_pre_time_limit_day">" &lt;span color=#99383A3D font-size=22px&gt;Зарядка по расписанию&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#383A3D font-size=18px&gt;ежедневно&lt;/span &gt; &lt;span color=#383A3D font-size=32px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#383A3D font-size=28px style=Bold&gt;Зарядить до максимума&lt;/span &gt;"</string>
+    <string name="charge_pre_time_next">" &lt;span color=#99B4B9BE font-size=22px&gt;Зарядка по расписанию&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#B4B9BE font-size=18px&gt;ежедневно&lt;/span &gt; &lt;span color=#B4B9BE font-size=32px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#B4B9BE font-size=18px&gt;следующий &lt;/span &gt; &lt;span color=#B4B9BE font-size=32px style=Bold&gt;%2$s&lt;/span &gt;"</string>
+    <string name="prompt_drift_tips">" Инструкция: 
+\n1. Эта функция должна применяться на гоночной трассе или профессиональной площадке, отвечающей национальным стандартам безопасности, и не должна использоваться на дорогах общего пользования и в местах, не отвечающих стандартам безопасности. 
+\n2. При использовании одноклавишного дрифта рекомендуется использовать оригинальные аксессуары, соответствующие дрифту, для обеспечения безопасности. Гарантия не распространяется на повреждения компонентов, вызванные неправильной эксплуатацией и чрезмерным использованием дрифта с одним ключом. 
+\n3. Одноклавишный дрифт требует профессиональных навыков вождения, поэтому использовать его могут только водители с опытом вождения не менее трех лет. Водитель несет убытки, вызванные неправильной эксплуатацией и несанкционированной модификацией автомобиля. n 
+\n Инструкция: 
+\n 1. Эта функция может быть активирована только тогда, когда автомобиль переходит в режим Sport и движется со скоростью &lt;7 км/ч, а ремни безопасности водителя и пассажиров пристегнуты. Во время движения ремни безопасности должны быть всегда пристегнуты. Если какой-либо ремень безопасности будет отстегнут на середине пути, режим дрифта автоматически выйдет. 
+\n2. Эта функция может быть активирована только при уровне заряда аккумулятора &gt;20% SOC. В противном случае она будет автоматически отключена; 
+\n3. Эта функция может быть активирована только в том случае, если система автомобиля находится в нормальном состоянии. В противном случае она будет автоматически отключена; 
+\n При активированной функции дрейфа одной кнопкой: 
+\n 1. Функции E-pedal и Autohold по умолчанию отключены; 
+\n 2. Автоматически переключается в спортивный режим; 
+\n3. Функция ESC отключена; 
+\n 4. Уровень рекуперации энергии низкий; 
+\n 5. Функция управления запуском (если она активирована) отключается автоматически.
+\n Я прочитал, понял и согласен с вышеизложенной информацией "</string>
+    <string name="charge_power_supply_capacity_day">&lt;span color=#99383A3D font-size=22px&gt;Принимаемая мощьность&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#383A3D font-size=48px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#99383A3D font-size=24px&gt;kWh&lt;/span &gt;</string>
+    <string name="no_connecting">Не подключено</string>
+    <string name="charge_power_supply_capacity_all">&lt;span color=#99B4B9BE font-size=22px&gt;Статистика подачи электроэнергии&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#B4B9BE font-size=48px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#99B4B9BE font-size=24px&gt;kWh&lt;/span &gt;</string>
+    <string name="charge_estimate">&lt;span color=#99B4B9BE font-size=22px&gt;Оставшееся время&lt;/span &gt; &lt;br&gt;&lt;/br&gt; &lt;span color=#B4B9BE font-size=48px style=Bold&gt;%1$s&lt;/span &gt; &lt;span color=#99B4B9BE font-size=24px&gt;h&lt;/span &gt; &lt;span color=#B4B9BE font-size=48px style=Bold&gt;%2$s&lt;/span &gt; &lt;span color=#99B4B9BE font-size=24px&gt;min&lt;/span &gt;</string>
+    <string name="low_speed_alert">предупреждающий звук AVAS</string>
+    <string name="bubble_accessibility_action_add_back">Добавить обратно в стек</string>
+    <string name="activity_launch_on_secondary_display_failed_text">Приложение не поддерживает запуск на дополнительных дисплеях.</string>
+    <string name="dock_non_resizeble_failed_to_dock_text">Приложение не поддерживает разделенный экран.</string>
+    <string name="charge_charging_done_tips">Зарядка завершилась, пожалуйста, не забудьте вынуть штекер зарядного устройства</string>
+    <string name="charge_status_charging_done">Зарядка прекратилась</string>
+    <string name="apps_edit_group_custom_label">Кастомизация</string>
+    <string name="scenario_customize_edit_group_custom_label">Кастомизация</string>
+    <string name="charge_plug_no_double">Не подключайте штекер AC и штекер DC одновременно</string>
+    <string name="first_fragment_label">Первый фрагмент</string>
+    <string name="front_charging_cap">Крышка переднего порта зарядки</string>
+    <string name="pip_fullscreen">На весь экран</string>
+    <string name="hello_first_fragment">Привественный первый фрагмент</string>
+    <string name="pip_notification_message">Если вы не хотите, чтобы %s использовал эту функцию, нажмите, чтобы открыть настройки и отключить ее.</string>
+    <string name="left_window_lock">Блокировка левого окна</string>
+    <string name="bubble_accessibility_action_move_bottom_right">Переместить вниз вправо</string>
+    <string name="bubbles_user_education_description">Новые разговоры появляются в виде плавающих значков, или пузырьков. Нажмите, чтобы открыть пузырек. Потяните, чтобы переместить его.</string>
+    <string name="close_window">Закрытие окон одним кликом</string>
+    <string name="apps_edit_at_most">Максимально можно отобразить только 4 приложения. Пожалуйста, сначала удалите их и попробуйте снова.</string>
+    <string name="customize_scenario_add_tips">Максимум можно добавить только 4 сценария. Пожалуйста, удалите их перед добавлением.</string>
+    <string name="right_opposite_door">Противоположные двери с правой стороны</string>
+    <string name="drag_tip">Нажмите и удерживайте кнопку, чтобы перетащить функции на левую панель управления. При перетаскивании можно заменять и сортировать существующие функции</string>
+    <string name="gallery_empty_text">Другие ресурсы галереи
+\nПерейдите в приложение, чтобы посмотреть</string>
+    <string name="apps_edit_tips">Нажмите и удерживайте кнопку, чтобы перетащить функцию в левую часть карточки приложения. При перетаскивании можно заменять и сортировать существующие приложения</string>
+    <string name="scenario_customize_edit_tips">Нажмите и удерживайте кнопку, чтобы перетащить функцию в левую часть карточки приложения. При перетаскивании можно заменять и сортировать существующие приложения</string>
+    <string name="weather_refresh">Обновить</string>
+    <string name="accessibility_action_pip_resize">Изменить размер</string>
+    <string name="prompt_launch_control_race_content">ПРЕДУПРЕЖДЕНИЕ: Водитель обязан сохранять контроль над автомобилем в течение всего процесса ускорения движения и следить за обстановкой, в которой управляется и используется автомобиль, поэтому, пожалуйста, убедитесь в том, что вы управляете автомобилем в условиях, обеспечивающих безопасность. Непрерывное ускорение в течение длительного времени может привести к ухудшению работы всей системы управления автомобилем и тормозной системы, поэтому мы надеемся, что вы сможете использовать эту функцию с осторожностью. 
+\n 
+\nТребования к использованию: 
+\n1、 Для запуска режима Катапульты необходимо находиться в состоянии парковки, убедиться, что дверь автомобиля закрыта, а ремни безопасности водителя и пассажиров пристегнуты нормально. 
+\n2、Убедитесь, что температура системы питания автомобиля в норме, а мощность достаточна. 
+\n3. Закройте функции интеллектуального вождения, установите рулевое колесо, отпустите электронный ручной тормоз, автомобиль переключится на передачу D. 
+\n 
+\nИнструкции по эксплуатации: 
+\n1、 Откройте кнопку \" Старт катапульты\". 
+\n2, сначала нажмите на тормоз, затем на педаль газа, подождите, пока прибор не напомнит \" Активирован режим катапульты\", затем полностью отпустите педаль тормоза в течение 4 секунд, весь автомобиль катапультируется с большим ускорением. (Если появится сообщение \"Активация катапультирования не удалась\", пожалуйста, посмотрите на большой экран и проверьте состояние автомобиля).
+\n3、 Для обеспечения наилучших впечатлений режим вождения автоматически переключается на \"Спортивный режим\" при включении функции. Когда функция выключается, она остается в режиме \"Спорт\".
+\n4、Автоматическое отключение функции \"дрифт одной кнопкой\" (если функция уже включена).
+\n5、Если в данный момент вы находитесь в режиме трека, вышеуказанные 3 функции не будут автоматически переключаться в режим вождения. 
+\n 
+\nВы полностью понимаете и согласны с приведенной выше информацией?</string>
+    <string name="charge_pre_time_title">Зарядка по расписанию</string>
+    <string name="phone_charge">Беспроводная зарядка</string>
+    <string name="m3_sys_motion_easing_linear">cubic-bezier(0, 0, 1, 1)</string>
+    <string name="indicator_color_error">"Цвет индикатора может быть установлен только на \"@color/colorID or  #000000\"."</string>
+    <string name="tire_pressure_pressure_unit_kpa">кПа</string>
+    <string name="access_desc">Сервис доступа к launcher-у</string>
+    <string name="media_bilibili_title">Давайте посмотрим сериал вместе</string>
+    <string name="netease_version_low_empty_lyric">Нет текста.
+\nПожалуйста, перейдите в Центр приложений, чтобы обновить приложение</string>
+    <string name="media_dln_open">Перейти к Проецированию экрана</string>
+    <string name="to_aiqilisten">Перейти к Aiqilisten</string>
+    <string name="brvah_load_failed">Сбой загрузки, пожалуйста, повторите попытку</string>
+    <string name="uninstall_application">Удаление приложения</string>
+    <string name="media_resume_ktv">Возобновить KTV</string>
+    <string name="dln_empty_text">Проецирование на экран…</string>
+    <string name="media_list_data_empty">Нет списка</string>
 </resources>
