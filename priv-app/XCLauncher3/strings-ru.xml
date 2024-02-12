@@ -633,4 +633,56 @@
     <string name="media_resume_ktv">Возобновить KTV</string>
     <string name="dln_empty_text">Проецирование на экран…</string>
     <string name="media_list_data_empty">Нет списка</string>
+    <string name="brvah_loading">Загрузка...</string>
+    <string name="aqt_app_name_1">Tencent Aijiazhuang</string>
+    <string name="bluetooth_no_connect">Музыка по Bluetooth - не подключена</string>
+    <string name="brvah_load_end">Нет больше данных</string>
+    <string name="brvah_load_complete">Нажмите для загрузки</string>
+    <string name="charge_no_plug">Не подключен</string>
+    <string name="card_trip_1">Путь 1</string>
+    <string name="card_trip_2">Путь 2</string>
+    <string name="card_full_title">Состояние автомобиля</string>
+    <string name="card_tyre_title">Состояние - давление в шинах</string>
+    <string name="card_energy_title">Состояние автомобиля - Энергопотребление</string>
+    <string name="card_trip_title">Состояние автомобиля - Путь</string>
+    <string name="download_progress">Загружаем…</string>
+    <string name="confirm_remove">Подтвердить удаление %s?</string>
+    <string name="confirm">Ок</string>
+    <string name="confirm_uninstall">Подтвердить удаление %s?</string>
+    <string name="connect_usb_first">Сначала подключите USB-устройство</string>
+    <string name="connect_bluetooth_first">Сначала подключите Bluetooth-устройство</string>
+    <string name="connect_usb">Вставьте USB-устройство</string>
+    <string name="media_app_name">Наслаждайтесь</string>
+    <string name="media_switch_when_hfpcall">Идет вызов по Bluetooth. Пожалуйста, повторите попытку позже.</string>
+    <string name="media_title_init">Давайте включим музыку</string>
+    <string name="media_recommend_playlist">100 лучших</string>
+    <string name="media_video_playing">Воспроизведение видеофайлов</string>
+    <string name="media_open_app">Войти в приложение</string>
+    <string name="media_data_retry">Перезагрузить</string>
+    <string name="music_no_lyric_keyword2">Инструментальная музыка</string>
+    <string name="netease_app_name">NetEase Cloud Music</string>
+    <string name="neteasecloud">NetEase Cloud Music</string>
+    <string name="recent_apps">Недавно использовали</string>
+    <string name="prompt_launch_control_content">ПРЕДУПРЕЖДЕНИЕ: Водитель обязан сохранять контроль над автомобилем в течение всего процесса ускорения и следить за обстановкой, в которой управляется и используется автомобиль, поэтому, пожалуйста, убедитесь в том, что вы работаете в условиях, обеспечивающих безопасность. Непрерывное ускорение в течение длительного времени может привести к ухудшению работы всей системы управления автомобилем и тормозной системы, поэтому мы надеемся, что вы сможете использовать эту функцию с осторожностью. 
+\n 
+\nТребования к использованию: 
+\n1、 Функция запуска катапульты должна осуществляться в состоянии парковки, убедитесь, что дверь автомобиля закрыта, а ремни безопасности водителя и пассажиров пристегнуты нормально. 
+\n2、Убедитесь, что температура системы питания автомобиля в норме, а мощность достаточна. 
+\n3. Закройте функции интеллектуального вождения, установите рулевое колесо, отпустите электронный ручной тормоз, автомобиль переключится на передачу D. 
+\n 
+\nИнструкции по эксплуатации: 
+\n1, Нажмите кнопку \" Запуск катапульты\". 
+\n2. Сначала нажмите на тормоз, затем на педаль газа, подождите, пока дисплей не покажет \" Запуск катапульты активирован\", затем полностью отпустите педаль тормоза в течение 4 секунд, весь автомобиль катапультируется с большим ускорением. (Если появится сообщение \"Активация катапультирования не удалась\", пожалуйста, посмотрите на большой экран и проверьте состояние автомобиля).
+\n3、 Для обеспечения наилучших впечатлений режим вождения автоматически переключается на \"Спортивный режим\" при включении функции. При выключении функции она останется в режиме \"Спорт\".
+\n4、Автоматическое отключение функции \"дрифт в одно касание\" (если функция была включена). 
+\n 
+\nВсе ли вам понятно и согласны ли вы с вышеизложенной информацией?</string>
+    <string name="prompt_saving_mode_tips">Эта функция недоступна при включенном режиме энергосбережения, пожалуйста, отключите ее и попробуйте снова</string>
+    <string name="remove">Удалить</string>
+    <string name="remove_mini_app">Удалить апплет</string>
+    <string name="reset_internet">Перезагрузка сети</string>
+    <string name="video_empty_text">Больше ресурсов кино и телевидения
+\nПожалуйста, перейдите в приложение для просмотра</string>
+    <string name="trips_elapsed_time">Время в пути</string>
+    <string name="trips_distance">Расстояние в пути</string>
 </resources>
