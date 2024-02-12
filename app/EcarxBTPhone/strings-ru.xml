@@ -347,7 +347,7 @@
     <string name="strNotificationClickToView">Нажмите посмотреть</string>
     <string name="strNotificationDownloadError">Ошибка загрузки</string>
     <string name="strNotificationDownloadSucc">Полностью загружено</string>
-    <string name="strNotificationDownloading">Идет загрузка</string>
+    <string name="strNotificationDownloading">Загружаем</string>
     <string name="strToastCheckUpgradeError">Ошибка проверки новой версии, повторите попытку позже</string>
     <string name="strToastCheckingUpgrade">Проверка, пожалуйста, подождите...</string>
     <string name="strUpgradeDialogCancelBtn">Позже</string>
