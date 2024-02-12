@@ -1008,8 +1008,8 @@
     <string name="energy_text_charge_limit">Лимит зарядки %d%%</string>
     <string name="energy_text_discharge_limit">Предел электропитания %d%%</string>
     <string name="energy_trip_begins_in">Началось %s назад</string>
-    <string name="energy_trip_1">Маршрут 1</string>
-    <string name="energy_trip_2">Маршрут 2</string>
+    <string name="energy_trip_1">Путь 1</string>
+    <string name="energy_trip_2">Путь 1</string>
     <string name="energy_speed">скорость зарядки</string>
     <string name="energy_long_distance">дальнее расстояние</string>
     <string name="energy_no_function_tips">Следите за обновлениями</string>
