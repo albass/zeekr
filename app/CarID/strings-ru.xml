@@ -139,4 +139,15 @@
     <string name="my_loading">Загрузка...</string>
     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
     <string name="hotel_schedule_des">Отель подтвердил, что номер зарезервирован для вас до %1$s. Рекомендуется связаться с отелем заранее, чтобы подтвердить наличие свободных номеров, если время вашего прибытия уже истекло.</string>
+    <string name="faceid_seting_dlg_ok">Ок</string>
+    <string name="finished">Готово</string>
+    <string name="login_guide_login2">Войти</string>
+    <string name="sapi_sdk_account_center_ok">Ок</string>
+    <string name="sapi_sdk_account_center_set_time_ok">Ок</string>
+    <string name="sapi_sdk_login_dialog_delete_account_btn_ok">Ок</string>
+    <string name="sapi_sdk_ok">Ок</string>
+    <string name="service_auth_bt_reload">Перезагрузить</string>
+    <string name="toreload">Перезагрузить</string>
+    <string name="sure">Ок</string>
+    <string name="dialog_login">Войти</string>
 </resources>
