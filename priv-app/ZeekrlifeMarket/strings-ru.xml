@@ -298,7 +298,7 @@
     <string name="setting_app_update_now">Обновить сейчас</string>
     <string name="agentweb_camera">Камера</string>
     <string name="agentweb_cancel">Отмена</string>
-    <string name="app_detail_app_name">Устройство</string>
+    <string name="app_detail_app_name">Приложение</string>
     <string name="app_detail_back">Назад</string>
     <string name="app_detail_btn_uninstall">Удаление</string>
     <string name="app_detail_dialog_button_cancel">Отмена</string>
@@ -315,4 +315,8 @@
     <string name="sensors_analytics_ad_dialog_content">В этом режиме не нужно удалять приложение, нажмите кнопку \"Активировать\", чтобы запустить активацию повторно.</string>
     <string name="task_state_install_progress_default_toast">Приложение устанавливается, пожалуйста, подождите</string>
     <string name="brvah_load_failed">Сбой загрузки, пожалуйста, повторите попытку</string>
+    <string name="login_submit">Войти</string>
+    <string name="brvah_loading">Загрузка...</string>
+    <string name="brvah_load_end">Нет больше данных</string>
+    <string name="brvah_load_complete">Нажмите для загрузки</string>
 </resources>
