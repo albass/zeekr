@@ -157,7 +157,7 @@
     <string name="dc_seat_easy_driver">Легкая посадка для водителя</string>
     <string name="dc_seat_massage_program_drvr">Режим массажа</string>
     <string name="connect_btn_forget_network_edit">Игнорировать \"%1$s\"?</string>
-    <string name="common_wifi_connect_error_unknow">неизвестная ошибка</string>
+    <string name="common_wifi_connect_error_unknow">Неизвестная ошибка</string>
     <string name="display_text_csd_brightness">Центральный экран управления</string>
     <string name="display_text_time_format_title">Формат времени</string>
     <string name="display_text_theme_selector">показать темы</string>
