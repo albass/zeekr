@@ -150,4 +150,10 @@
     <string name="toreload">Перезагрузить</string>
     <string name="sure">Ок</string>
     <string name="dialog_login">Войти</string>
+    <string name="SUCCESS">Операция успешна</string>
+    <string name="UNKNOWN">Неизвестная ошибка</string>
+    <string name="car_owner">Автовладелец</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="sapi_sdk_title_register">Регистрация</string>
+    <string name="car_msg">Информация об автомобиле</string>
 </resources>
