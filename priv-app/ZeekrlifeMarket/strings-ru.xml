@@ -319,4 +319,8 @@
     <string name="brvah_loading">Загрузка...</string>
     <string name="brvah_load_end">Нет больше данных</string>
     <string name="brvah_load_complete">Нажмите для загрузки</string>
+    <string name="login_phone">Номер телефона</string>
+    <string name="login_register">Регистрация</string>
+    <string name="task_state_installable">Установка</string>
+    <string name="task_state_download_completed">Установка</string>
 </resources>
