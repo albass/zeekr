@@ -111,13 +111,13 @@ Do you agree to all the above instructions for use and want to start NZP smart n
     <string name="adas_park_volume_alarm_mode">Automatic parking recommended mode</string>
     <string name="adas_park_volume_alarm_mode_long">The system automatically recommends actions to simplify the parking process</string>
     <string name="adas_park_volume_alarm_stating">Reminder that the steering has not returned to the correct position before the vehicle starts</string>
-    <string name="adas_parking_barrier">Activates early warning for side or rear obstacle approach</string>
+    <string name="adas_parking_barrier">Early side/rear obstacle alert</string>
     <string name="adas_parking_lowgear">Automatic braking when there is a risk of collision at low speeds</string>
     <string name="adas_parking_rear_baker">Rear cross traffic warning</string>
     <string name="adas_parking_voice_broadcast_dc">Sound notification</string>
     <string name="adas_parking_voice_broadcast_describe">During the parking process, there will be a voice announcement at the corresponding location</string>
     <string name="adas_pebMode_describe">Automatic braking when there is a risk of collision at low speeds</string>
-    <string name="adas_rearCrossTrafficAlert_describe">Activates early warning for side or rear obstacle approach</string>
+    <string name="adas_rearCrossTrafficAlert_describe">Early side/rear obstacle alert</string>
     <string name="adas_speed">Speeding reminder</string>
     <string name="adas_statement">Statement</string>
     <string name="adas_stay_tuned">(Stay tuned)</string>
@@ -490,7 +490,7 @@ Do you agree to all the above instructions for use and want to start NZP smart n
     <string name="common_distance_control">Parking Distance Control</string>
     <string name="common_dm_unknow">unknow</string>
     <string name="common_done">Done</string>
-    <string name="common_door_approach_info">Auto-unlocks with key approach, locks on walking away</string>
+    <string name="common_door_approach_info">Auto-unlocks with key, locks when you leave</string>
     <string name="common_door_approach_open_door">Approach open door</string>
     <string name="common_door_approach_open_door_tip">When approaching the door with the key, the door will open automatically</string>
     <string name="common_door_approach_option">Approach unlock</string>
@@ -730,7 +730,7 @@ Lock"</string>
     <string name="common_list_info_h_child_mode">Disable interaction and display static screen</string>
     <string name="common_list_item_h_hxt">HXT ™</string>
     <string name="common_list_item_h_hxt_bx">Sound quality restoration</string>
-    <string name="common_list_item_i_hxt">HXT enhanced treble and bass by generating harmonics for richer sound quality</string>
+    <string name="common_list_item_i_hxt">HXT boosts treble and bass for richer sound</string>
     <string name="common_list_item_i_hxt_bx">Restore low-quality audio sources to high-quality ones</string>
     <string name="common_list_option_h_auto_door">Unlock the door to welcome guests</string>
     <string name="common_list_option_h_auto_park_rec">Automatic parking recommendations</string>
@@ -824,7 +824,7 @@ Select \"Follow the direction of your gaze\". When you look at the left/right re
     <string name="common_network_assurance_tip">When Wi-Fi is weak, switches to cellular</string>
     <string name="common_network_send_request">Sending ...</string>
     <string name="common_night_auto_upgrade">Automatic upgrade at night</string>
-    <string name="common_night_auto_upgrade_tip">The system will auto-upgrade to the new version at 02:00</string>
+    <string name="common_night_auto_upgrade_tip">System updates to new version at 02:00</string>
     <string name="common_no_space_title">No available space</string>
     <string name="common_normal">Normal</string>
     <string name="common_not_allow_connect">Couldn‘t connect ,Please try again</string>
@@ -1062,7 +1062,7 @@ on the screen"</string>
     <string name="common_steam_media">Stream media</string>
     <string name="common_steer_feel">Steering</string>
     <string name="common_steer_info">Use the right steering wheel touch pad to adjust the position of the steering wheel.</string>
-    <string name="common_steer_position">Steering wheel adjustment</string>
+    <string name="common_steer_position">Steering wheel</string>
     <string name="common_stop">Stop</string>
     <string name="common_sunscreen_rating">Sunscreen rating</string>
     <string name="common_suspension">Suspension</string>
@@ -1253,9 +1253,9 @@ on the screen"</string>
     <string name="drive_mode_ss_one">Comfort</string>
     <string name="drive_mode_yd_one">Sport</string>
     <string name="drive_mode_yy_one">Off-Road</string>
-    <string name="drivin_suspension_for_easy_access">Easy access suspension</string>
+    <string name="drivin_suspension_for_easy_access">Easy access</string>
     <string name="drivin_suspension_for_easy_access_confirm">Before parking, check for low obstacles to prevent suspension-lowering collisions</string>
-    <string name="drivin_suspension_for_easy_access_tip">When this function is turned on, the suspension height is automatically lowered to facilitate the entry and exit of you and your passengers when the vehicle is parked and the seat belt of the main driver is unfastened</string>
+    <string name="drivin_suspension_for_easy_access_tip">Auto-lowering suspension for easy entry/exit when parked</string>
     <string name="drivin_suspension_for_easy_access_tip_content">"Before parking, please be sure to pay attention to the low obstacles around the vehicle to avoid the chassis lowering process
 bumps in the city. This function needs to be upgraded by the offline service center to upgrade the air suspension software before it can be used normally
 If you have not yet upgraded offline, it is recommended to upgrade as soon as possible"</string>
@@ -1264,7 +1264,7 @@ The movement is lowered to facilitate the entry and exit of you and your passeng
     <string name="driving_auto_hold">Auto hold</string>
     <string name="driving_auto_hold_info">Activated function auto-holds vehicle stationary</string>
     <string name="driving_e_pedal">One-pedal</string>
-    <string name="driving_e_pedal_info">Acceleration and deceleration controlled by the accelerator.</string>
+    <string name="driving_e_pedal_info">Accelerator-controlled speed</string>
     <string name="driving_esc_off">ESC OFF</string>
     <string name="driving_fold_rear_mirror_close">Folding rearview mirrors</string>
     <string name="driving_fold_rear_mirror_open">Unfold rearview mirrors</string>
@@ -1274,7 +1274,7 @@ The movement is lowered to facilitate the entry and exit of you and your passeng
     <string name="driving_module_driving_title">Driving Preferences</string>
     <string name="driving_one_pedal_title">Instrument One-pedal Icon Function Demonstration：</string>
     <string name="driving_p_back_launcher">Gear linkage</string>
-    <string name="driving_p_back_launcher_tip">In P gear, auto-returns to home screen; in D, switches to navigation</string>
+    <string name="driving_p_back_launcher_tip">In P - returns to home screen; in D - shows navigation</string>
     <string name="driving_p_back_launcher_tip_text">Enabling this feature will automatically disable the \"Door Quick Control\" option under the door settings.</string>
     <string name="driving_parking_EPB">Release handbrake</string>
     <string name="driving_parking_EPB_appl">Activate handbrake</string>
@@ -1354,8 +1354,8 @@ When getting off the bus：Unfasten the driver's seat belt or open the driver's 
     <string name="energy_battery_life">Range</string>
     <string name="energy_battery_preheat">Battery temperature maintenance</string>
     <string name="energy_battery_preheat_intro">Before traveling, use the grid to adjust the battery temperature for better range, which may incur additional charges; it is recommended to turn on when the ambient temperature is below 0°C or above 40°C.</string>
-    <string name="energy_btn_power_external">External equipment power supply</string>
-    <string name="energy_btn_power_other">External vehicle power supply</string>
+    <string name="energy_btn_power_external">External equipment power</string>
+    <string name="energy_btn_power_other">External vehicle power</string>
     <string name="energy_btn_start_charging">Start charging</string>
     <string name="energy_btn_stop_charging">Stop</string>
     <string name="energy_cable_status_connect_ac">Charging plug connected (AC)</string>
@@ -1540,13 +1540,13 @@ When getting off the bus：Unfasten the driver's seat belt or open the driver's 
     <string name="light_auto">Automatic reading light</string>
     <string name="light_auto_text">The reading light will automatically turn on when 
 \nthe vehicle is unlocked or the door is opened</string>
-    <string name="light_charge">Charging light language</string>
-    <string name="light_charge_text">Starts light language when charging, stops after 2 minutes</string>
+    <string name="light_charge">Charging light</string>
+    <string name="light_charge_text">Starts blink when charging, stops after 2 min</string>
     <string name="light_settings_text">Setup</string>
     <string name="light_taillight">Daytime running taillights</string>
     <string name="light_taillight_text">Rear lights on with daytime running lights</string>
     <string name="lighting_approach_light_option">Approach light</string>
-    <string name="lighting_approach_switch_title">Carry the key close to the vehicle, automatically turn on the low beam and position lights, providing illumination</string>
+    <string name="lighting_approach_switch_title">Automatically activate lights by keeping key near vehicle</string>
     <string name="lighting_bending_light_option">Bending lights</string>
     <string name="lighting_btn_lights_off">All reading lights OFF</string>
     <string name="lighting_btn_lights_on">All reading lights ON</string>
@@ -1556,7 +1556,7 @@ When getting off the bus：Unfasten the driver's seat belt or open the driver's 
     <string name="lighting_home_safety_light_info">Set how long the lights are on after the car has been locked</string>
     <string name="lighting_home_safety_light_option">Home safety light</string>
     <string name="lighting_in_sound">Generate Internal Sound</string>
-    <string name="lighting_lig_row">Rear Mood light</string>
+    <string name="lighting_lig_row">Ambient</string>
     <string name="lighting_lig_zon">Ambient</string>
     <string name="lighting_light_mode_breathe">Breathe</string>
     <string name="lighting_light_mode_driving_mode">Driving mode</string>
@@ -1692,7 +1692,7 @@ When getting off the bus：Unfasten the driver's seat belt or open the driver's 
     <string name="ota_night_auto_cancel">Cancel</string>
     <string name="ota_night_auto_open">ON</string>
     <string name="ota_night_auto_upgrade">Automatic upgrade at night</string>
-    <string name="ota_night_auto_upgrade_tip">The system will auto-upgrade to the new version at 02:00</string>
+    <string name="ota_night_auto_upgrade_tip">System updates to new version at 02:00</string>
     <string name="ota_night_auto_upgrade_tip3">When there is a new version, it will automatically upgrade at 02:00 in the morning. During the upgrade process, you will not be able to drive the vehicle, use the touchscreen, or charge the vehicle.</string>
     <string name="ota_night_auto_upgrade_tip4">You have scheduled an upgrade for %1$s hours and %2$s minutes. After the switch is turned on, the upgrade time will be adjusted to 02:00 tonight. When a new version is released, you will be automatically upgraded at 02:00 in the morning.</string>
     <string name="ota_night_upgrade_close_dialog_content">Disabling \"Nightly Automatic Upgrade\" will not cancel the scheduled upgrade tasks. You can cancel or modify the scheduled upgrades through [Upgrade Management].</string>
@@ -1906,8 +1906,8 @@ If the driver or passenger violates the above terms or has any other operation o
     <string name="text_please_close_snow_mode">Please turn off snow mode before making a selection</string>
     <string name="text_please_epedal_toast">This option only supports slow travel in stop mode</string>
     <string name="upload_close">OFF</string>
-    <string name="upload_explain_text">Reproduce exceptions and upload data for accurate analysis and improved experience of problems</string>
-    <string name="upload_explain_text2">Reproduce exceptions and upload log data for accurate analysis and improved experience of problems</string>
+    <string name="upload_explain_text">Log and upload errors for better analysis and fixes</string>
+    <string name="upload_explain_text2">Capture and upload errors for precise analysis and fixes</string>
     <string name="upload_log_cancel">Cancel</string>
     <string name="upload_log_explore_content">\t\t\t We always prioritize user experience. In order to optimize and improve the system functionality, we sincerely invite you to join us in this endeavor. IHU operation log information, including exceptions, errors, warnings and other information generated during the system operation process, is obtained to help us quickly complete system remote diagnosis. <br/> \t\t\t We hereby declare that the IHU log information we collect will not be actively associated with your personal information. However, it is not ruled out that the system may contain personal information related to your use during operation. The collection, transmission, and use of this information will also be protected by relevant security technologies. <br/> <br/> \t\t\t Uploading IHU logs will consume some network traffic</string>
     <string name="upload_log_explore_content_bx">\t\t\t We always prioritize user experience. In order to optimize and improve the system functionality, we sincerely invite you to join us in this endeavor. IHU operation log information, including exceptions, errors, warnings and other information generated during the system operation process, is obtained to help us quickly complete system remote diagnosis. <br/> \t\t\t We hereby declare that the IHU log information we collect will not be actively associated with your personal information. However, it is not ruled out that the system may contain personal information related to your use during operation. The collection, transmission, and use of this information will also be protected by relevant security technologies. <br/> <br/> \t\t\t Uploading IHU logs will consume some network traffic</string>
@@ -1950,7 +1950,7 @@ If the driver or passenger violates the above terms or has any other operation o
     <string name="quick_setting_individual_suspension_tip_1">Special Terrain(Sand etc)</string>
     <string name="quick_setting_driver_mode_two_3">Track</string>
     <string name="side_12">ZEEKR Studio</string>
-    <string name="common_zeekrad_reveal_1">display</string>
+    <string name="common_zeekrad_reveal_1">Display</string>
     <string name="common_car_locator_type_1">flashing and Siren</string>
     <string name="adas_remind_type_with_off_0">OFF</string>
     <string name="adas_sensitivity_level_with_off_0">OFF</string>
@@ -2004,7 +2004,7 @@ If the driver or passenger violates the above terms or has any other operation o
     <string name="dc_door_skylight_window_0">Car Door</string>
     <string name="common_zeekrad_reveal_2">beep</string>
     <string name="common_zeekrad_reveal_sencond_1">beep</string>
-    <string name="common_zeekrad_reveal_sencond_0">display</string>
+    <string name="common_zeekrad_reveal_sencond_0">Display</string>
     <string name="dc_door_skylight_window_2">Car Window</string>
     <string name="doorwindow_angle_tab_1">Rear doors</string>
     <string name="doorwindow_angle_tab2_1">Rear doors</string>
@@ -2152,5 +2152,5 @@ If the driver or passenger violates the above terms or has any other operation o
     <string name="zeekrad_offset_unit_1">%</string>
     <string name="side_4">Charging and Discharging</string>
     <string name="quick_setting_individual_propulsion_1">Comfort</string>
-    <string name="common_key_unlock_handle_0">Driver Doors</string>
+    <string name="common_key_unlock_handle_0">Driver Door</string>
 </resources>
