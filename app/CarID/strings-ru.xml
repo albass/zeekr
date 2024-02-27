@@ -158,4 +158,5 @@
     <string name="car_msg">Информация об автомобиле</string>
     <string name="PARAM_ERROR">Ошибка параметра</string>
     <string name="sapi_sdk_common_invalid_params">Ошибка параметра</string>
+    <string name="send_check_code">Отправить код верификации</string>
 </resources>
