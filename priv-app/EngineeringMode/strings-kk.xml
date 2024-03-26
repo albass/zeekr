@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="reset">Tağı</string>
+    <string name="module_name">Bluetooth</string>
+    <string name="test_status">EOL тесті орындалуда...</string>
+    <string name="module_bootloader">Bootloader</string>
+    <string name="bluetooth_enable_title">Bluetooth</string>
+    <string name="cpu_usage">CPU пайдалану</string>
+    <string name="bluetooth_dut_mode_enable_title">DUT Mode</string>
+    <string name="device_mode_title">Device mode now</string>
+    <string name="eol_main_title">EOL тесті</string>
+    <string name="test_item">EOL тест жобасы</string>
+    <string name="error">Сәтсіз</string>
+    <string name="bluetooth_enable_hci_check_title">HCI Check</string>
+    <string name="usb_mode_title">Host mode now</string>
+    <string name="bluetooth_link_quality">Link Quality</string>
+</resources>
